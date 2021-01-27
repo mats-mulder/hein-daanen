@@ -10,3 +10,4 @@ fields:
   label: Page Title
 pages:
 - content/home.md
+- content/personal/family.md
