@@ -30,3 +30,5 @@ fields:
     max: 
     labelField: title
   label: Content
+pages:
+- content/academic/publications.md
