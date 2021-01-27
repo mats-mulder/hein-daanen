@@ -15,6 +15,26 @@ sections:
   templates:
   - page
   - events-overview
+- type: directory
+  path: content/media
+  label: Media
+  create: documents
+  match: "**/*"
+  templates:
+  - page
+  - events-overview
+- type: directory
+  path: content/personal
+  label: Personal
+  create: documents
+  match: "**/*"
+  templates:
+  - page
+  - events-overview
+- type: document
+  path: content/contact.md
+  label: Contact
+  match: "**/*"
 upload_dir: static/images
 public_path: images
 front_matter_path: ''
