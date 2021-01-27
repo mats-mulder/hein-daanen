@@ -1,5 +1,7 @@
 ---
 title: Lectures
-content: []
+content:
+- events: "<p>test</p>"
+  year: "2020"
 
 ---
