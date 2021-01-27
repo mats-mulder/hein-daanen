@@ -1,6 +1,7 @@
 ---
 label: Events Overview
 hide_body: true
+display_field: title
 fields:
 - name: content
   type: field_group_list
@@ -24,3 +25,8 @@ fields:
     max: 
     labelField: title
   label: Content
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
