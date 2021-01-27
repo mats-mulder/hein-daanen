@@ -4,11 +4,21 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: Pages
 - type: document
   path: content/home.md
   label: Home
 - type: heading
-  label: Pages
+  label: academic
+- type: document
+  path: content/contact.md
+  label: Contact
+  match: "**/*"
+- type: document
+  path: content/family.md
+  label: family
+  match: "**/*"
 upload_dir: static/images
 public_path: images
 front_matter_path: ''
