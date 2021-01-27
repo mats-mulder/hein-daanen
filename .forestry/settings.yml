@@ -4,6 +4,9 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: content/home.md
+  label: Home
 - type: directory
   path: content/academic
   label: Academic
@@ -12,9 +15,6 @@ sections:
   templates:
   - page
   - events-overview
-- type: document
-  path: content/home.md
-  label: Home
 upload_dir: static/images
 public_path: images
 front_matter_path: ''
