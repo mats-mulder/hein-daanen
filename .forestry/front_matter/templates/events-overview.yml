@@ -28,7 +28,7 @@ fields:
   config:
     min: 
     max: 
-    labelField: title
+    labelField: year
   label: Content
 pages:
 - content/academic/publications.md
