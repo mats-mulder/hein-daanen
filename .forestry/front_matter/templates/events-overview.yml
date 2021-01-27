@@ -32,3 +32,4 @@ fields:
   label: Content
 pages:
 - content/academic/publications.md
+- content/media/lectures.md
