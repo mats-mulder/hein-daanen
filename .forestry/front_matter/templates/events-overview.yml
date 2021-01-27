@@ -1,4 +1,22 @@
 ---
 label: Events Overview
 hide_body: true
-fields: []
+fields:
+- name: content
+  type: field_group_list
+  fields:
+  - name: year
+    type: number
+    label: Year
+    description: ''
+    default: 0
+    required: true
+    config:
+      min: 
+      max: 
+      step: 
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Content
