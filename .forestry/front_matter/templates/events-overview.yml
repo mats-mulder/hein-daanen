@@ -6,17 +6,21 @@ fields:
   type: field_group_list
   fields:
   - name: year
-    type: number
-    label: Year
-    description: ''
-    default: 0
-    required: true
+    type: text
     config:
-      min: 
-      max: 
-      step: 
+      required: true
+    label: Year
+  - name: events
+    type: textarea
+    default: ''
+    config:
+      required: true
+      wysiwyg: true
+      schema:
+        format: html-blocks
+    label: Events
   config:
     min: 
     max: 
-    labelField: 
+    labelField: title
   label: Content
