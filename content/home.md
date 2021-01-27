@@ -8,4 +8,4 @@ description: A step by step guide to build a static site with Nuxt, the Nuxt Con
 
 ### Research Interests: Thermal Physiology, Exercise Physiology, Clothing and 3D-Anthropometry
 
-### 
+### ![](images/heindaanen21.jpg)
