@@ -22,4 +22,8 @@
   background-color: #f8f9fa !important
 }
 
+img{
+  max-width: 100%;
+}
+
 </style>
