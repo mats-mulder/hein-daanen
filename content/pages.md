@@ -166,6 +166,87 @@ pages:
         Broekens, D., Daanen, H.A.M., Eijsvogels, T.M.H. Thermoregulatory burden of
         elite sailing athletes during exercise in the heat: A pilot study. Temperature
         6(1): 66-76. DOI: 10.1080/23328940.2018.1540964.</p></li></ul>'
+  - template: content
+    title: Curriculum Vitae
+    content: '<p><strong>Name:</strong></p><ul><li><p>Hein Daanen</p></li></ul><p><strong>Personal
+      data:</strong></p><ul><li><p>Born: Juli 13th 1958 in Mierlo, The Netherlands</p></li><li><p>Married,
+      two children</p></li></ul><p><strong>Address:</strong></p><ul><li><p>Generaal
+      Winkelmanstraat 65</p></li><li><p>3769 EB Soesterberg, The Netherlands</p></li><li><p>Tel.
+      + 31 346 350 177</p></li><li><p>Email: Daanen@ziggo.nl</p></li></ul><p><strong>Title:</strong></p><ul><li><p>Professor
+      in (environmental) exercise physiology, VU University, Amsterdam</p></li><li><p>Director
+      of Sizing Science</p></li></ul><p><strong>Education:</strong></p><ul><li><p>Johannes
+      Primary school Mierlo, 1964 - 1970</p></li><li><p><a href="http://www.carolus.nl">Carolus
+      Borromeus College High School</a> Helmond, 1970 - 1978</p></li><li><p><a href="http://www.fbw.vu.nl">M.Sc.
+      Human Movement Science, VU University</a> Amsterdam, 1978 - 1984</p></li><li><p>Post
+      Doctoral Course Computer Science, 1984</p></li><li><p>Medical-Biological Sciences
+      Teaching Degree, 1984</p></li><li><p>Ph.D. Medicine, VU University Amsterdam,
+      1997, Thesis: "Central and peripheral control of finger blood flow in the cold"</p></li><li><p>Data
+      analytics in R - Advanced Statistics, 2020</p></li></ul><p><strong>Management
+      training:</strong></p><ul><li><p>Management training for talented TNO employees.
+      <a href="http://www.vlerick.be">Vlerick School</a>, 2000</p></li><li><p>Competence-based
+      selection of personnel, <a href="http://www.hfmpsy.nl">Hofkes Frolke Meekel
+      Organisation Psychologists</a>, February 16-17, 2006</p></li><li><p>Project
+      management, IPMA, june, 2006</p></li><li><p>Giving and receiving feedback, <a
+      href="http://www.hfmpsy.nl">Hofkes Frolke Meekel Organisation Psychologists</a>,
+      Oktober, 2006</p></li><li><p>Senior Management Development, Bonfire and TNO
+      management, 2006 and 2007</p></li><li><p>Short courses: Project Management Techniques;
+      Result Oriented Coaching; Project Development; Sales Management; Employee Assessment</p></li><li><p>Senior
+      teaching qualification, 2020</p></li></ul><p><strong>Employment:</strong></p><ul><li><p>1985
+      - 1986 Teacher in Neurophysiology and Computer Science at the Academy for Physical
+      Therapy in Breda and Leiden</p></li><li><p>1985 - 1990 Research Scientist and
+      manager at the Orthopaedic Laboratory, State University Leiden</p></li><li><p>1990
+      - 2016 Research Scientist, TNO</p></li><li><p>1992 - 1995 Research coordinator
+      of the Workplace ergonomics group</p></li><li><p>1995 Collaborative research
+      at the <a href="http://www.toronto.drdc-rddc.gc.ca/home_e.html">Defence and
+      Civil Institute of Environmental Medicine</a> Toronto (Canada)</p></li><li><p>1996
+      Collaborative research at the Computerized Anthropometric Research Laboratories
+      of Wright Patterson Air Force Base (OH, USA)</p></li><li><p>1998 - 2003 Research
+      coordinator of the Thermal Physiology group; Acting head of the Dept. of Work
+      Environment</p></li><li><p>2003 - 2008 Head of the department of Human Performance,
+      TNO Human Factors</p></li><li><p>2003 - 2016 Professor in Thermal Physiology
+      (part-time) at the Faculty of Human Movement Science, VU University Amsterdam</p></li><li><p>2011
+      - 2016 Principal scientist at TNO</p></li><li><p>2013 - 2016 Professor at the
+      Amsterdam Fashion Institute, Amsterdam University of Applied Sciences</p></li><li><p>2010
+      - now Director of Sizing Science</p></li><li><p>2016 - now Full professor in
+      (environmental) exercise physiology; director of Master education in Human Movement
+      Sciences, VU University Amsterdam</p></li></ul><p><strong>Relevant Professional
+      Affiliations:</strong></p><ul><li><p>Member of the Dutch Physiological Society</p></li><li><p>Co-founder
+      and Member of the Dutch Association of Exercise Physiology (now: Dutch Association
+      of Human Movement Science)</p></li><li><p>Member of Work Group 20 of AGARD AMP
+      on 3D anthropometry (1995-1998)</p></li><li><p>Referee for several scientific
+      journals</p></li><li><p>Member of the scientific steering committee for the
+      conference <a href="http://www.drowning.nl">Drowning 2002</a></p></li><li><p>President
+      of the Dutch Ergonomics Association (1999 - 2002)</p></li><li><p>Member of Cluster
+      4 work group on Physical Protection of NATO Long Term Scientific Study on Chemical
+      and Biological Defence</p></li><li><p>Member of the International Scientific
+      Advisory Board for the International Ergonomics Association 2003 conference
+      in Seoul and <a href="http://www.iea2006.org">(IEA) 2006</a> conference in Maastricht</p></li><li><p>President
+      of the Legal Body for the International Ergonomics Association (IEA) 2006 conference
+      in Maastricht</p></li><li><p>Member of the ISO group on (3D) anthropometry</p></li><li><p>Member
+      of the board of the <a href="http://ovrt.nist.gov/projects/wear/">WEAR</a> legal
+      body (2003-2013)</p></li><li><p>Member of the board of the <a href="http://www.environmental-ergonomics.org">International
+      Conference on Environmental Ergonomics</a></p></li><li><p>Member of the editorial
+      board of ''European Journal of Applied Physiology'' and ''Fashion and Textiles''</p></li><li><p>Chair
+      of NATO Research &amp; Technology group HFM-266 on ''3D body scanning and logistics''</p></li><li><p>Lead
+      auditor of Textile research group of Saxion University (dec 2016)</p></li><li><p>Chair
+      of the 2019 International Conference on Environmental Ergonomics</p></li><li><p>Member
+      of the scientific committee of the 5th international congres on soldiers'' physical
+      performance Quebec City 2020</p></li></ul><p><strong>Achievements:</strong></p><ul><li><p>Project
+      manager of anthropometric surveys for the Royal Netherlands Air force and Navy,
+      and how to use these data for cockpit design and evaluation</p></li><li><p>Author
+      of a biomechanical computer model to calculate the load on human joints</p></li><li><p>Author
+      of a book on hypnosis and editor in chief of a book on working conditions</p></li><li><p>Author
+      of European patent 08154613.7 ''Method and system for alerting the occurrence
+      of wetness''</p></li><li><p>Project manager of NedScan, a Dutch anthropometric
+      survey, part of the CAESAR project</p></li><li><p>Scientific leader of EU project
+      "Prospie", about intelligent clothing for working in the heat</p></li></ul><p><strong>Awards:</strong></p><ul><li><p>Reducing
+      train costs, best computer program of the month, NOS (National Radio and Television)Hobbyscoop,
+      May 1985</p></li><li><p>Daanen, H.A.M., Hatcher, K., Havenith, G. Determination
+      of clothing microclimate volume. Environmental Ergonomics X, Fukuoka, Japan.
+      23-27 September, 2002. Best poster award.</p></li><li><p>Es, E. van, Graaf,
+      J. de, Daanen, H.A.M. Effect of redistribution of body heat on cycling efficiency
+      and thermal balance. Poster, Human Movement Symposium, Groningen, The Netherlands.
+      Award for best post</p></li></ul>'
 
 ---
 Content!!!
