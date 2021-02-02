@@ -2186,24 +2186,23 @@ pages:
   - template: content
     link: family
     title: Family of Hein Daanen
-    content: '<blockquote><p><img src="/images/heindaanen21.jpg"></p><p>Hein Daanen
-      is married to Elly Rentes March 3th in 1991.<br>Two children are born: Paul
-      and Emma.<br>As a hobby Hein started to make an inventory of the family members,
-      helped by several others. Now a database is constructed of over 2000 family
-      members. The database is processed with the program Family Tree Maker. It is
-      also available in Gedcom format.<br>The Daanen family is available on this website:
-      <a href="../images/daanen.pdf" title="daanen.pdf">daanen.pdf</a>. <em>André
-      van Eck</em> is acknowledged for his contribution. The Daanen family comes from
-      Beuningen in the province of Gelderland.<br>The mother of Hein is Joke <strong>Savelkouls</strong>.
-      Thanks to <em>Frans Savelkouls</em> in Oisterwijk, almost 1000 family members
-      of the Savelkouls family are to my disposal. The roots are in Limburg, in the
-      South of The Netherlands.<br>The father of Elly, <em>Henk Rentes</em>, took
-      care for the data of the <strong>Rentes</strong> family, originating from Friesland
-      in Northern Netherlands.<br>The family of the mother of Elly, Bep <strong>Maat</strong>
-      is also available in detail, thanks to <em>Betty Maat</em>. The Maat family
-      and the family Van der Plas (grandma of Elly) originate from Katwijk a/d Zee,
-      a fishermans town at the West coast.<br><br>Additional data on the Daanen family
-      are greatly appreciated. Please contact <a href="mailto:daanen@ziggo.nl">Hein
+    content: '<blockquote><p>Hein Daanen is married to Elly Rentes March 3th in 1991.<br>Two
+      children are born: Paul and Emma.<br>As a hobby Hein started to make an inventory
+      of the family members, helped by several others. Now a database is constructed
+      of over 2000 family members. The database is processed with the program Family
+      Tree Maker. It is also available in Gedcom format.<br>The Daanen family is available
+      on this website: <a href="../images/daanen.pdf" title="daanen.pdf">daanen.pdf</a>.
+      <em>André van Eck</em> is acknowledged for his contribution. The Daanen family
+      comes from Beuningen in the province of Gelderland.<br>The mother of Hein is
+      Joke <strong>Savelkouls</strong>. Thanks to <em>Frans Savelkouls</em> in Oisterwijk,
+      almost 1000 family members of the Savelkouls family are to my disposal. The
+      roots are in Limburg, in the South of The Netherlands.<br>The father of Elly,
+      <em>Henk Rentes</em>, took care for the data of the <strong>Rentes</strong>
+      family, originating from Friesland in Northern Netherlands.<br>The family of
+      the mother of Elly, Bep <strong>Maat</strong> is also available in detail, thanks
+      to <em>Betty Maat</em>. The Maat family and the family Van der Plas (grandma
+      of Elly) originate from Katwijk a/d Zee, a fishermans town at the West coast.<br><br>Additional
+      data on the Daanen family are greatly appreciated. Please contact <a href="mailto:daanen@ziggo.nl">Hein
       Daanen</a> for any additional information.</p></blockquote><p></p>'
 
 ---
