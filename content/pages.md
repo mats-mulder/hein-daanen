@@ -85,6 +85,7 @@ pages:
       J. de, Daanen, H.A.M. Effect of redistribution of body heat on cycling efficiency
       and thermal balance. Poster, Human Movement Symposium, Groningen, The Netherlands.
       Award for best post</p></li></ul>'
+    file: ''
   - template: events-overview
     title: Publications
     content:
@@ -1490,6 +1491,12 @@ pages:
       substances (axon-reflex). In an experiment, however, it appeared to be impossible
       to evoke an axon-reflex in a cold hand. This makes another hypothesis more likely
       that states that a paralysis of the muscle wall of the AVA occurs in the cold.</p>"
+    file: ''
+  - template: content
+    title: Inauguration Prof. Thermal Physiology
+    content: <h2>Warm aanbevolen (in Dutch)</h2><h3>Speech held at the <em>Vrije </em>Universiteit
+      of Amsterdam, february 27 2004</h3><p><a href="images/inaug.pdf" title="inaug.pdf">inaug.pdf</a></p>
+    file: ''
 
 ---
 Content!!!
