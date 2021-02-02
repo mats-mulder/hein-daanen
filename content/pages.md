@@ -88,6 +88,38 @@ pages:
   - template: events-overview
     title: Publications
     content:
+    - year: '2016'
+      events: '<ul><li><p>Berkulo, M.A.R.,Bol, S., Levels, K., Lamberts, R.P., Daanen,
+        H.A.M., Noakes, T.D. Ad-libitum drinking and performance during a 40-km cycling
+        time trial in the heat. Eur. J. Sports Science. 16(2): 213 - 220. DOI: <a
+        href="http://dx.doi.org/10.1080/17461391.2015.1009495." title="http://dx.doi.org/10.1080/17461391.2015.1009495.">http://dx.doi.org/10.1080/17461391.2015.1009495.</a></p></li><li><p>Daanen,
+        H.A.M., Levels, K. Warmtehuishouding bij sporten. In: Diercks, R.L., Pluim,
+        B.M., Verhagen, E.A.L.M. Leerboek Sportgeneeskunde. Bohn, Stafleu &amp; Van
+        Loghum, Houten. 1e druk, 2016. ISBN 978-90-368-1098-2. DOI 10.1007/978-90-368-1099-9.
+        Pages 89-94.</p></li><li><p>Daanen, H.A.M., Vink, A, Savelsbergh, G.J.P. Rapport
+        Antrovest. Report HvA 626784, 2016.</p></li><li><p>Daanen, H.A.M., Levels,
+        K., Vonk, T.E., Bosman, W., Schnepper, Y., Ter Haar, F. Changes in the Volume
+        and Circumference of the Torso, Leg and Arm after Cycling in the Heat Determined
+        Using 3D Whole Body Scanners. Proceedings of the 7th International Conference
+        on 3D Body Scanning Technologies, Lugano, Switzerland, 30 Nov.-1 Dec. 2016.</p></li><li><p>Daanen,
+        H.A.M., Van Marken Lichtenbelt, W.D. Human whole body cold adaptation. Temperature
+        3(1), 104-118, 2016. DOI: 10.1080/23328940.2015.1135688.</p></li><li><p>Ganzevles,
+        A., Daanen, H.A.M., Beek, P.J., Truijens, M. Een duik in de accelerometrie.
+        Sportgericht 3 (70): 50-55.</p></li><li><p>Mentzel, T.Q., Mentzel, C.L., Mentzel,
+        S.V., Lieverse, R., Daanen, H.A.M., Van Harten, P.N. Instrumental Assessment
+        of Bradykinesia: a Comparison Between Motor Tasks. IEEE Journal of Biomedical
+        and Health Informatics 20(2):521-526. DOI 10.1109 / JBHI. 2015. 2412656.</p></li><li><p>Mentzel,
+        T.Q., Lieverse, R., Levens, A., Mentzel, C.L., Tenback, D.E., Bakker, P.R.,
+        Daanen, H.A.M., Van Harten, P.N. Reliability and validity of an instrument
+        for the assessment of bradykinesia. Psychiatry Research 238: 189–195, 2016.
+        doi:10.1016/j.psychres.2016.02.011.</p></li><li><p>Ganzevles, S.P.M., De Haan,
+        A., Beek, P.J., Daanen, H.A.M., Truijens, M.J. Heart rate recovery after warm-up
+        in swimming: a useful tool for predicting training heart rate response? International
+        journal of sports physiology and performance. DOI: <a href="http://dx.doi.org/10.1080/17461391.2015.1009495."
+        title="http://dx.doi.org/10.1080/17461391.2015.1009495.">http://dx.doi.org/10.1123/ijspp.2016-0144.</a></p></li><li><p>Van
+        Calmthout, M., Daanen, H.A.M., Henseler, H. Forensics en Fashion - De gevolgen
+        van digitalisering voor forensisch onderzoek en de mode-industrie. Hogeschool
+        van Amsterdam.</p></li></ul>'
     - year: '2017'
       events: '<ul><li><p>Ganzevles, S.P.M., de Haan, A., Beek, P.J., Daanen, H.A.M.,
         Truijens, M.J. Heart-rate recovery after warm-up in swimming: A useful predictor
