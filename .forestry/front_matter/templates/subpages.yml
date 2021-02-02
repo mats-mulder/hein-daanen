@@ -1,4 +1,9 @@
 ---
 label: subpages
 hide_body: true
-fields: []
+fields:
+- name: pages
+  type: include
+  config: {}
+  template: page
+  label: Pages
