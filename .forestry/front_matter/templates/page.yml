@@ -13,6 +13,7 @@ fields:
   label: Subpages
   template_types:
   - events-overview
+  - content
   config:
     min: 
     max: 
