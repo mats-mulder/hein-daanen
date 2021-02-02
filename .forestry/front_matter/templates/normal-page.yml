@@ -17,4 +17,5 @@ fields:
       format: html-blocks
   label: Content
 pages:
+- content/contact.md
 - content/home.md
