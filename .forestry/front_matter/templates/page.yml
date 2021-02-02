@@ -8,5 +8,13 @@ fields:
   config:
     required: true
   label: Title
+- name: subpages
+  type: blocks
+  label: Subpages
+  template_types:
+  - events-overview
+  config:
+    min: 
+    max: 
 pages:
 - content/home.md
