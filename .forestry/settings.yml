@@ -5,16 +5,12 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
+  path: content/academic.md
+  label: Academic
+  match: "**/*"
+- type: document
   path: content/home.md
   label: Home
-- type: directory
-  path: content/academic
-  label: Academic
-  create: documents
-  match: "**/*"
-  templates:
-  - page
-  - events-overview
 - type: directory
   path: content/media
   label: Media

@@ -31,5 +31,4 @@ fields:
     labelField: year
   label: Content
 pages:
-- content/academic/publications.md
 - content/media/lectures.md
