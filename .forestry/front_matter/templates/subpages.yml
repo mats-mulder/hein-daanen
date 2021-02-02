@@ -2,9 +2,9 @@
 label: subpages
 hide_body: true
 fields:
-- name: test
+- name: pages
   type: blocks
-  label: test
+  label: Pages
   template_types:
   - page
   config:
