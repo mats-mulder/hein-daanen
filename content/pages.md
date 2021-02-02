@@ -1502,6 +1502,11 @@ pages:
       href="images/inaug.pdf" title="inaug.pdf">inaug.pdf</a></p>
     file: ''
     link: inauguration-thermal
+  - template: content
+    link: Inauguration-fashion
+    title: Inauguration Prof. Fashion Research & Technology
+    content: <p>The file can be downloaded here:</p><p><a href="images/lectrede.pdf"
+      title="lectrede.pdf">lectrede.pdf</a></p>
   link: academic
 
 ---
