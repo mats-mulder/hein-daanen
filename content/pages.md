@@ -1,5 +1,5 @@
 ---
-title: hoi
+title: testpage
 pages:
 - template: page
   title: Academic
@@ -11,3 +11,4 @@ pages:
     title: testpage
 
 ---
+Content!!!
