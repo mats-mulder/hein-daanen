@@ -88,6 +88,35 @@ pages:
   - template: events-overview
     title: Publications
     content:
+    - year: '2017'
+      events: '<ul><li><p>Ganzevles, S.P.M., de Haan, A., Beek, P.J., Daanen, H.A.M.,
+        Truijens, M.J. Heart-rate recovery after warm-up in swimming: A useful predictor
+        of training heart-rate response? International Journal of Sports Physiology
+        and Performance 12(6): 742-748, 2017. DOI: 10.1123/ijspp.2016-0144</p></li><li><p>Ganzevles,
+        S., Vullings, R., Beek, P.J., Daanen, H., Truijens, M. Using tri-axial accelerometry
+        in daily elite swim training practice. Sensors (Switzerland): 17(5), art.
+        no. 990, 2017. DOI: 10.3390/s17050990.</p></li><li><p>Gao, G., Nybo, L., Daanen,
+        H., Toftum, J., Kuklane, K., Olsson, J.A., Fritzdorf, S., Levels, K., Zuurbier,
+        M. From weather warning to personalized adaptation strategies to cope with
+        thermal climate stress. Abstract Annual Conference of Nordic Ergonomics Society
+        (NES), Lund 2017</p></li><li><p>Keefe, A., Kuang, J., Daanen, H.A.M. NATO
+        Research Task Group: 3D Scanning for Clothing Fit and Logistics. Proceedings
+        of 3DBODY.TECH 2017; 8th International Conference and Exhibition on 3D Body
+        Scanning and Processing Technologies, Montreal, Canada, 11-12 Oct. 2017 DOI:
+        10.15221/17.201. Pages 201-209.</p></li><li><p>Schallig, W., Levels, K., Daanen,
+        H.A.M. Heat and exercise associated muscle cramps. Sport &amp; Geneeskunde
+        50 (1): 30-39, 2017.</p></li><li><p>Ten Haaf, T., Van Staveren, S., Oudenhoven.
+        E., Piacentini. M.F., Meeusen, R., Roelands, B., Koenderman, L., Daanen, H.A.M.,
+        Foster, C., De Koning, J.J. Prediction of Functional Overreaching From Subjective
+        Fatigue and Readiness to Train After Only 3 Days of Cycling. International
+        Journal of Sports Physiology and Performance 12, S2-87 -S2-94, 2017. <a href="http://dx.doi.org/10.1123/ijspp.2016-0404."
+        title="http://dx.doi.org/10.1123/ijspp.2016-0404.">http://dx.doi.org/10.1123/ijspp.2016-0404.</a></p></li><li><p>Velt,
+        K.B., Daanen, H.A.M. Optimal bus temperature for thermal comfort during a
+        cool day. Applied Ergonomics 62: 72-76, 2017. <a href="http://dx.doi.org/10.1016/j.apergo.2017.02.014"
+        title="http://dx.doi.org/10.1016/j.apergo.2017.02.014">http://dx.doi.org/10.1016/j.apergo.2017.02.014</a></p></li><li><p>Velt,
+        K.B., Daanen, H.A.M. Thermal sensation and thermal comfort in changing environments.
+        Journal of Building Engineering 10: 42–46, 2017. <a href="http://dx.doi.org/10.1016/j.jobe.2017.02.004"
+        title="http://dx.doi.org/10.1016/j.jobe.2017.02.004">http://dx.doi.org/10.1016/j.jobe.2017.02.004</a></p></li></ul>'
     - year: '2018'
       events: "<ul><li><p>Bogerd, C.P., Velt, K.B., Annaheim, S., Bongers, C.C.W.G.,
         Eijsvogels, T.M.H., Daanen, H.A.M. Comparison of two telemetric intestinal
