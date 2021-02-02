@@ -9,6 +9,8 @@ pages:
     content: []
   - template: content
     title: testpage
+  - template: content
+    title: 3232e2e23
 
 ---
 Content!!!
