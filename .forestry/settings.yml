@@ -9,7 +9,7 @@ sections:
   label: Home
 - type: document
   path: content/pages.md
-  label: Subpages
+  label: Group Pages
 - type: document
   path: content/contact.md
   label: Contact
