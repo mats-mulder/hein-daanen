@@ -2,10 +2,13 @@
 label: subpages
 hide_body: true
 fields:
-- name: pages
-  type: include
-  config: {}
-  template: page
-  label: Pages
+- name: test
+  type: blocks
+  label: test
+  template_types:
+  - page
+  config:
+    min: 
+    max: 
 pages:
 - content/pages.md
