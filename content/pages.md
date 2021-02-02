@@ -1223,32 +1223,6 @@ pages:
         H.A.M., Havenith, G., Werkhoven, P.J., Verwey, W.B. Technologie voor mensen
         met een handicap (<em>Technology for the disabled</em>). Report TNO-TM 1996
         C-07.</p></li></ul>"
-    - year: '1994'
-      events: "<ul><li><p>Daanen, H.A.M. Lichamelijke belasting (<em>Physical load</em>).
-        In: H. Schuffel. Beoordelingslijst werkplekken op schepen (<em>Checklist of
-        work places on ships</em>). Report TNO-TM 1994 C-24.</p></li><li><p>Daanen,
-        H.A.M. Actieve vakanties in extreme klimaatsomstandigheden (<em>Active holidays
-        in extreme climatic conditions</em>). Geneeskunde en Sport 27(2): 56 - 59,
-        1994.</p></li><li><p>Daanen, H.A.M., Van Lingen, P. (Red.) Basisboek risico-inventarisatie
-        (<em>Fundamentals on risk inventarisation for working conditions</em>). Uitgeverij
-        Kerckebosch, Zeist, 1994. ISBN 90-6720-144-8.</p></li><li><p>Daanen, H.A.M.
-        Wind-chill en handvaardigheid (<em>Wind chill and dexterity</em>). Nederl.
-        Milit. Geneesk. T. 17: 115-131-135, 1994.</p></li><li><p>Daanen, H.A.M., Van
-        Groos, P.J.M. Ergonomische scan PGU 1994 (<em>Ergonomic scan of army military
-        equipment 1994</em>). Report TNO-TM 1994 A-33.</p></li><li><p>Daanen, H.A.M.,
-        Ellens, E. Evaluatie cursus IMA Krijgsmacht (<em>Evaluation of the course
-        on working conditions for the Defence Organisation</em>). Memo TNO-TM 1994-M37.</p></li><li><p>Daanen,
-        H.A.M., Ellens, E. Antropometrie van KM Helikopter-cockpitbemanningsleden
-        toegespitst op de NH-90 helikopter (<em>Anthropometry of Navy helicopter crews
-        focussed on the NH-90 helicopter</em>). Report TNO-TM 1994 A-36.</p></li><li><p>Daanen,
-        H.A.M., Ellens, E. Handleiding SOFIA 3.0 (<em>Automized reporting system SOFIA
-        3.0</em>). Uitgeverij Kerckebosch, Zeist, 1994.</p></li><li><p>Havenith, G.,
-        Daanen, H.A.M. Performance effects of heat and cold. In: Proceedings 35th
-        seminar on improving military performance through ergonomics. Mannheim, 1994.
-        NATO report AC/243-TP/6 Page 249-263.</p></li><li><p>Heus, R., Daanen, H.A.M.,
-        Havenith, G. Dexterity, thermal comfort and pain in relation to temperature
-        in the cold. In: Human adaptability to work and thermal environment. First
-        Polish-Czech international symposium, Zakopane, 28-29 March 1994.</p></li></ul>"
     - year: '1995'
       events: "<ul><li><p>Verheij, F.J., Van Beek, P.C., Daanen, H.A.M., Van Bergem,
         P.M., Van Orden, C.Y.D., Van den Berg, R., Knoll, B. Risico-inventarisatie
@@ -1287,6 +1261,32 @@ pages:
         Ellens, E. Stappenplan voor het uitvoeren van een RI&amp;E met de InspectieMethode
         Arbeidsomstandigheden (<em>Stepwise risk analysis on working conditions</em>).
         Report TNO-TM 1995 C-32.</p></li></ul>"
+    - year: '1994'
+      events: "<ul><li><p>Daanen, H.A.M. Lichamelijke belasting (<em>Physical load</em>).
+        In: H. Schuffel. Beoordelingslijst werkplekken op schepen (<em>Checklist of
+        work places on ships</em>). Report TNO-TM 1994 C-24.</p></li><li><p>Daanen,
+        H.A.M. Actieve vakanties in extreme klimaatsomstandigheden (<em>Active holidays
+        in extreme climatic conditions</em>). Geneeskunde en Sport 27(2): 56 - 59,
+        1994.</p></li><li><p>Daanen, H.A.M., Van Lingen, P. (Red.) Basisboek risico-inventarisatie
+        (<em>Fundamentals on risk inventarisation for working conditions</em>). Uitgeverij
+        Kerckebosch, Zeist, 1994. ISBN 90-6720-144-8.</p></li><li><p>Daanen, H.A.M.
+        Wind-chill en handvaardigheid (<em>Wind chill and dexterity</em>). Nederl.
+        Milit. Geneesk. T. 17: 115-131-135, 1994.</p></li><li><p>Daanen, H.A.M., Van
+        Groos, P.J.M. Ergonomische scan PGU 1994 (<em>Ergonomic scan of army military
+        equipment 1994</em>). Report TNO-TM 1994 A-33.</p></li><li><p>Daanen, H.A.M.,
+        Ellens, E. Evaluatie cursus IMA Krijgsmacht (<em>Evaluation of the course
+        on working conditions for the Defence Organisation</em>). Memo TNO-TM 1994-M37.</p></li><li><p>Daanen,
+        H.A.M., Ellens, E. Antropometrie van KM Helikopter-cockpitbemanningsleden
+        toegespitst op de NH-90 helikopter (<em>Anthropometry of Navy helicopter crews
+        focussed on the NH-90 helicopter</em>). Report TNO-TM 1994 A-36.</p></li><li><p>Daanen,
+        H.A.M., Ellens, E. Handleiding SOFIA 3.0 (<em>Automized reporting system SOFIA
+        3.0</em>). Uitgeverij Kerckebosch, Zeist, 1994.</p></li><li><p>Havenith, G.,
+        Daanen, H.A.M. Performance effects of heat and cold. In: Proceedings 35th
+        seminar on improving military performance through ergonomics. Mannheim, 1994.
+        NATO report AC/243-TP/6 Page 249-263.</p></li><li><p>Heus, R., Daanen, H.A.M.,
+        Havenith, G. Dexterity, thermal comfort and pain in relation to temperature
+        in the cold. In: Human adaptability to work and thermal environment. First
+        Polish-Czech international symposium, Zakopane, 28-29 March 1994.</p></li></ul>"
     - year: '1993'
       events: "<ul><li><p>Brisland, C.E.S., Daanen, H.A.M. An antropometer for the
         distribution of clothing. IZF Report 1993 A-2.</p></li><li><p>Daanen, H.A.M.
