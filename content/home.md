@@ -2,7 +2,8 @@
 page_title: Home
 title: Home
 subpages: []
-content: ''
+content: "<h1>Prof. Dr. H.A.M. Daanen</h1><h4>Research Interests: Thermal Physiology,
+  Exercise Physiology, Clothing and 3D-Anthropometry</h4><p></p><p></p>"
 
 ---
 # Prof. Dr. H.A.M. Daanen
