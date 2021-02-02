@@ -1509,6 +1509,677 @@ pages:
       title="lectrede.pdf">lectrede.pdf</a></p>
   link: academic
 - template: page
+  link: public
+  title: Public
+  subpages:
+  - template: events-overview
+    link: lectures
+    title: Lezingen / Presentations
+    content:
+    - year: '2020'
+      events: "<ul><li><p>01/31/2020 Preparation for performance in the heat<br>Symposium
+        extreme heat&amp;cold Amsterdam (NL)<br></p></li><li><p>02/03/2020 Is een
+        ijskoude douche in de ochtend nou echt zo gezond?<br>Universiteit van Nederland
+        Amsterdam (NL)<br></p></li><li><p>02/11/2020 Voorbereiden voor presteren in
+        hitte<br>Bijeenkomst nationale trainers KNVB Zeist (NL)<br></p></li><li><p>05/15/2020
+        Virtual Fitting<br>Webinar Human Factors NL Themabijeenkomst Antropometrie
+        Soesterberg (NL)<br></p></li><li><p>08/31/2020 Hitte en Corona<br>Openingsbijeenkomst
+        College van Bestuur Vrije Universiteit Amsterdam Amsterdam (NL)<br></p></li><li><p>10/09/2020
+        Heat strain during work<br>Webinar International association for safety and
+        survival training Soesterberg (NL)<br></p></li><li><p>10/26/2020 Cold-Induced
+        Vasodilatation (CIVD) as a protective mechanism against cold injuries<br>Physiology
+        and Pharmacology of Temperature Regulation conference 2020 (virtual) Vancouver
+        (CAN)<br></p></li><li><p>10/29/2020 Hitteziekten<br>Symposium Ministerie van
+        Defensie Amsterdam (NL)<br></p></li><li><p>11/13/2020 Thermofysiologie<br>Scholingsbijeenkomst
+        anaesthesie (virtueel) Ede (NL)<br></p></li><li><p>11/16/2020 Human Performance
+        in the heat<br>Lode Webinar (virtueel) Soesterberg (NL)<br></p></li><li><p>12/04/2020
+        Thermofysiologie; hitte- en koudebelasting tijdens arbeid<br>Heijermans lezing
+        Amsterdam (NL)</p></li></ul>"
+    - year: '2019'
+      events: "<ul><li><p>02/06/2019 Overview of achievements<br>NATO meeting RTG-266
+        on 3D scanning for clothing fit Paris (F)<br></p></li><li><p>03/08/2019 Determining
+        the human heat balance<br>Workshop in conference Amsterdam Movement Sciences
+        Amsterdam (NL)<br></p></li><li><p>03/22/2019 Organisation of the 2019 ICEE
+        conference<br>ThermoNed meeting Soesterberg (NL)<br></p></li><li><p>03/29/2019
+        Applied Thermal Physiology<br>Wageningen University Wageningen (NL)<br></p></li><li><p>04/10/2019
+        Human performance in thermal extremes<br>Prof. Kooy Symposium (KIVI) Stroe
+        (NL)<br></p></li><li><p>04/15/2019 Fire fighter combat gear and thermoregulation<br>Fire
+        fighter symposium Amstelveen (NL)<br></p></li><li><p>05/09/2019 Cool people
+        - relation between heat and health<br>Cool Groen Symposium Utrecht (NL)<br></p></li><li><p>05/15/2019
+        Heat acclimation and cooling systems<br>Symposium Combattere il Caldo Rome
+        (Italy)<br></p></li><li><p>06/04/2019 Applied Thermal Physiology<br>International
+        Student Congress Of (bio)Medical Sciences 2019 Groningen (NL)<br></p></li><li><p>06/28/2019
+        Hypothermia<br>Anaesthesia meeting Ede (NL)<br></p></li><li><p>07/11/2019
+        Screening tests to reduce frostbite risks<br>International Conference of Environmental
+        Ergonomics 2019 Amsterdam (NL)<br></p></li><li><p>11/12/2019 Cold physiology
+        - adaptation to the cold<br>Seminar in Cold Weather injuries Oslo (N)</p></li></ul>"
+    - year: '2018'
+      events: "<ul><li><p>01/20/2018 Exercise physiology in swimming<br>Swim and Science
+        day Eindhoven (NL)<br></p></li><li><p>05/22/2018 Applied Thermal Physiology<br>Course
+        on Sport Medicine Bilthoven (NL)<br></p></li><li><p>05/26/2018 Heat strain
+        in soccer players<br>Dutch Medical association of elite soccer clubs Breda
+        (NL)<br></p></li><li><p>05/26/2018 Cold strain in the Arctic<br>Artic counsil
+        Schiedam (NL)<br></p></li><li><p>06/14/2018 Thermal Physiology<br>Cardiology
+        department meeting Utrecht (NL)<br></p></li><li><p>06/25/2018 Heat related
+        mortality<br>National heat stress conference Den Bosch (NL)<br></p></li><li><p>09/21/2018
+        Overview of fitting techniques<br>Symposium Fitting Garments using the Internet
+        Amsterdam (NL)<br></p></li><li><p>10/10/2018 Heat acclimation decay and re-acclimation:
+        how fast does it happen?<br>Physiology and Pharmacology of Thermal Regulation
+        (PPTR) conference Split (Croatia)<br></p></li><li><p>12/07/2018 Applied Thermal
+        Physiology<br>Groningen University Groningen (NL)</p></li></ul>"
+    - year: '2017'
+      events: "<ul><li><p>01/12/2017 Duurzame mode door ketenomkering (Sustainable
+        fashion through reversal of the clothing chain)<br>Sustainable Fashion Symposium
+        Delft (NL)<br></p></li><li><p>01/13/2017 Acclimation to cold<br>Medicine in
+        Extremes Conference Amsterdam (NL)<br></p></li><li><p>03/06/2017 Nutrition
+        in heat and cold<br>VU University Amsterdam (NL)<br></p></li><li><p>04/05/2017
+        Applied Thermal Physiology<br>WUR Wageningen (NL)<br></p></li><li><p>06/06/2017
+        Applied Thermal Physiology for clothing research<br>Saxion Enschede (NL)<br></p></li><li><p>06/29/2017
+        Heat acclimation<br>Science &amp; Cycling Conference Dusseldorf (D)<br></p></li><li><p>09/15/2017
+        Human-Clothing interaction in the heat<br>Clothing symposium Ghent (B)<br></p></li><li><p>09/19/2017
+        Applied Thermal Physiology<br>RUG Groningen (NL)<br></p></li><li><p>11/20/2017
+        Applied Thermal Physiology<br>Vrije Universiteit Amsterdam (NL)</p></li></ul>"
+    - year: '2016'
+      events: '<ul><li><p>01/28/2016 Applied Thermal Physiology<br>Course for military
+        medical personnel NSPOH Soesterberg (NL)<br></p></li><li><p>03/15/2016 Applied
+        Thermal Physiology<br>Etnos meeting Bunnik (NL)<br></p></li><li><p>03/29/2016
+        Applied Thermal Physiology<br>Course on sports and nutrition Wageningen (NL)<br></p></li><li><p>04/05/2016
+        Applied Thermal Physiology<br>Vereniging Sportgeneeskunde Nederland (VSN)
+        De Bilt (NL)<br></p></li><li><p>04/07/2016 Applied Thermal Physiology<br>Course
+        for physiotherapists Amersfoort (NL)<br></p></li><li><p>04/09/2016 Applied
+        Thermal Physiology<br>Open Day Faculty of Behaviour and Movement Sciences
+        Amsterdam (NL)<br></p></li><li><p>04/12/2016 Clothing fit<br>Asics Hoofddorp
+        (NL)<br></p></li><li><p>04/15/2016 Chairman<br>Meeting on thermal management
+        during surgery Breda (NL)<br></p></li><li><p>04/20/2016 Modelling of labour
+        productivity loss due to climate change: HEAT-SHIELD<br>Modeling climate impact
+        session of the European Geosciences Union Vienna (Austria)<br></p></li><li><p>05/17/2016
+        Chairman<br>Symposium Vulnerability mapping Soesterberg (NL)<br></p></li><li><p>05/26/2016
+        Expert panel<br>Recrafting crafts - Waag Society Amsterdam (NL)<br></p></li><li><p>06/02/2016
+        Masterclass Applied Thermal Physiology<br>VU Masterclass Amsterdam (NL)<br></p></li><li><p>06/29/2016
+        Garment fit of wheel chair users<br>Artez Symposium Arnhem (NL)<br></p></li><li><p>07/07/2016
+        Applications of heat acclimation for competitive sport performance<br>European
+        College of Sport Science (ECSS) conference Vienna (Austria)<br></p></li><li><p>07/09/2016
+        Smart Garments in sports<br>Session linked to European Athletic Championships
+        Amsterdam (NL)<br></p></li><li><p>09/16/2016 Thermal physiology<br><a href="http://www.norskflymedisin.no/ecam2016/">European
+        Society of Aerospace Medicine (ESAM) conference</a> Oslo (Norway)<br></p></li><li><p>10/27/2016
+        Cooling garments<br>Drive Festival Eindhoven (NL)<br></p></li><li><p>11/01/2016
+        Chairman<br>NATO RTG-266 meeting on 3D scanning and clothing fit &amp; logistics
+        Ottawa (CDN)<br></p></li><li><p>11/08/2016 Applied Thermal Physiology<br>VU
+        University Amsterdam (NL)<br></p></li><li><p>12/01/2016 Changes in the volume
+        and circumference of the torso, leg and arm after cycling in the heat determined
+        using 3D whole body scanners<br>Body scanning conference Lugano (CH)<br></p></li><li><p>12/08/2016
+        Participant in session on cold injuries<br>PPTR conference Ljubljana (Slovenia)</p></li></ul>'
+    - year: '2015'
+      events: '<ul><li><p>01/08/2015 <a href="https://youtu.be/zFNiGdW_evo">Kou en
+        Hitte</a><br>Congres 200 jaar Koninklijke Landmacht: Grensverleggen Garderen
+        (NL)<br></p></li><li><p>02/11/2015 3D Whole body scanning<br>Expert Technology
+        Platform Euratex Brussel (B)<br></p></li><li><p>03/27/2015 Applied Thermal
+        Physiology<br>Course on Sports and Nutrition Wageningen (NL)<br></p></li><li><p>05/22/2015
+        Hoogte en Koude<br>Opleiding sportartsen Bilthoven (NL)<br></p></li><li><p>06/12/2015
+        3D whole body scanning<br>Brancheorganisatie Textielservicebedrijven TKT Geldermalsen
+        (NL)<br></p></li><li><p>06/18/2015 Applied Thermal Physiology<br>Course for
+        military medical personnel NSPOH Soesterberg (NL)<br></p></li><li><p>07/01/2015
+        Heat Strain in Cycling<br>Science&amp;Cycling 2015 Utrecht (NL)<br></p></li><li><p>08/04/2015
+        Thermal comfort in busses<br>Qbus management Utrecht (NL)<br></p></li><li><p>09/03/2015
+        Human factors in Personal Protective Equipment<br>European Coating Congress
+        Ghent (B)<br></p></li><li><p>09/25/2015 <a href="http://www.kijkmagazine.nl/nieuws/extreme-wetenschap-op-naturalis-festival-25-september">Omgaan
+        met extreme kou en hitte</a><br>Naturalis Leiden (NL)<br></p></li><li><p>10/06/2015
+        Applied Thermal Physiology<br>Human Movement Science Course Groningen (NL)<br></p></li><li><p>10/26/2015
+        Basic Applied Thermal Physiology<br>Human Movement Science Course Amsterdam
+        (NL)<br></p></li><li><p>11/12/2015 Sport research at VU University<br>Handelsdelegatie
+        Japan Tokyo (Japan)<br></p></li><li><p>11/17/2015 Temperature management<br>37
+        Company Dusseldorf (D)<br></p></li><li><p>12/01/2015 Applied Thermal Physiology<br>Human
+        Movement Science Course Amsterdam (NL)</p></li></ul>'
+    - year: '2014'
+      events: "<ul><li><p>01/16/2014 Sizing systems in garments<br>Brown Bag Lunch
+        Lecture Series Amsterdam (NL)<br></p></li><li><p>01/23/2014 Next Fashion<br>Fashion
+        Colloquia Amsterdam (NL)<br></p></li><li><p>02/04/2014 Smart Garments<br>Students
+        in Motion project Amsterdam (NL)<br></p></li><li><p>02/06/2014 Cold problems
+        in wanderers<br>GGD lecture series The Hague (NL)<br></p></li><li><p>02/13/2014
+        Running in the cold<br>Symposium of the Dutch Athletics Association Utrecht
+        (NL)<br></p></li><li><p>03/07/2014 Cooling in the heat<br>Presentation of
+        the Human Power Team 2014 Amsterdam (NL)<br></p></li><li><p>03/19/2014 Fit
+        of Military Garments<br>Clothing and Personal Equipment Office of the Netherlands
+        Armed Forces Soesterberg (NL)<br></p></li><li><p>03/27/2014 Glove Fit<br>National
+        Fashion Congress 2014 Arnhem (NL)<br></p></li><li><p>03/28/2014 Applied Thermal
+        Physiology<br>Course on Sports and Nutrition Wageningen (NL)<br></p></li><li><p>04/09/2014
+        Clothing: our new house?<br>Pre-meeting of the International Society of Indoor
+        Air Quality and Climate Maastricht (NL)<br></p></li><li><p>04/12/2014 Applied
+        Thermal Physiology<br>Parents meeting Faculty of Human Movement Sciences Amsterdam
+        (NL)<br></p></li><li><p>04/12/2014 Fashion and Science<br>Shanghai Fashion
+        Week Shanghai (China)<br></p></li><li><p>05/22/2014 The CAESAR 3D anthropometric
+        survey: approach and applications<br>Smartfit conference Ghent (B)<br></p></li><li><p>05/28/2014
+        Fit in het heetst van de strijd<br>SSIG - Road to Rio Conference Groningen
+        (NL)<br></p></li><li><p>05/30/2014 Non-invasive core temperature monitoring<br>T37C
+        KOL meeting Stockholm (S)<br></p></li><li><p>06/23/2014 3D whole body scanning
+        technologies &amp; CAESAR Lessons Learned<br>ASTM/WEAR joint meeting Toronto
+        (CND)<br></p></li><li><p>07/04/2014 Performance in Thermal extremes - Adaptation
+        to heat and cold; session Interaction between thermal environment, mental
+        and physical status of the athlete and power output<br>European Conference
+        of Sports Sciences Amsterdam (NL)<br></p></li><li><p>09/08/2014 Optimization
+        of garment fit<br>Conference Ambience 2014 Tampere (Finland)<br></p></li><li><p>09/11/2014
+        Temperature management<br>37 Company Amersfoort (NL)<br></p></li><li><p>10/09/2014
+        Smart Garments (moderator)<br>Symposium on Fashion Technology (SOFT) Amsterdam
+        (NL)<br></p></li><li><p>10/16/2014 Smart Garments<br>ArcInTex “Shaping (Un)Common
+        Grounds” symposium Eindhoven (NL)<br></p></li><li><p>10/22/2014 Smart Garments<br>Smart
+        Industries symposium at Dutch Design Week Eindhoven (NL)<br></p></li><li><p>10/29/2014
+        Adaptation to cold &amp; Manual performance in the cold<br>NATO conference
+        RTO-HFM-255 Kjeller (Norway)<br></p></li><li><p>10/31/2014 Thermal physiology<br>Into
+        the wild - De militaire arts in Afrika symposium Soesterberg (NL)<br></p></li><li><p>11/11/2014
+        Cooling garments<br>Defensie challenge over koelende kleding Doorn (NL)<br></p></li><li><p>11/12/2014
+        Impact of body dimensions<br>Modint conference on body dimensions and fit
+        Zeist (NL)<br></p></li><li><p>11/18/2014 Temperature management<br>37 Company
+        Zwolle (NL)<br></p></li><li><p>11/19/2014 Slimme kleding<br>Studium Generale:
+        Innovaties in Textiel Leiden (NL)<br></p></li><li><p>11/25/2014 Lectorale
+        rede<br>Special meeting Amsterdam (NL)</p></li></ul>"
+    - year: '2013'
+      events: "<ul><li><p>01/24/2013 Heat strain in Elderly<br>Climate Proof Cities
+        Conference Amersfoort (NL)<br></p></li><li><p>02/11/2013 Past and future of
+        applied thermal physiology<br>ICEE conference Queenstown (New Zealand)<br></p></li><li><p>04/16/2013
+        R&amp;D at the Department of Training and Performance Innovations<br>Knowledge
+        Position Audit (president Paul Schnabel) Soesterberg (NL)<br></p></li><li><p>04/22/2013
+        Literature and Patent analysis of Neuroscience<br>Meeting with US Army Research
+        lab Baltimore (USA)<br></p></li><li><p>05/14/2013 Thermal regulation in elderly
+        related to building construction<br>Meeting of directors of elderly centers
+        Rijswijk (NL)<br></p></li><li><p>06/12/2013 Core temperature assessment<br>Symposium
+        TOPpen of tobben, Stichting Training Infectiepreventie Arnhem (NL)<br></p></li><li><p>08/28/2013
+        Effect of global warming and urban heat islands on work productivity<br>Symposium
+        on the effect of global warming and urban heat islands on work productivity
+        Soesterberg (NL)<br></p></li><li><p>09/18/2013 Surprising Innovations in Clothing
+        for work in heat and cold<br>Symposium Innovation in the Maritime and Offshore
+        Industry Rotterdam (NL)<br></p></li><li><p>10/16/2013 Human thermophysiology
+        and heat stress<br>Urban Physics Autumn School Nikiti Chalkidiki (Greece)<br></p></li><li><p>10/31/2013
+        Core temperature assessment<br>Symposium on body core temperature assessment
+        Soesterberg (NL)</p></li></ul>"
+    - year: '2012'
+      events: "<ul><li><p>02/23/2012 3D scanning systems<br>Delft University Workshop
+        Delft (NL)<br></p></li><li><p>03/27/2012 Introduction in Thermal Physiology<br>Wageningen
+        University Wageningen (NL)<br></p></li><li><p>05/31/2012 3D surface scanning<br>International
+        conference on Anaplasty Gent (B)<br></p></li><li><p>06/06/2012 Costs and benefits
+        of training to prevent heat and cold injuries<br>NATO SAS meeting Amsterdam
+        (NL)<br></p></li><li><p>09/26/2012 Applied Thermal Physiology<br>Groningen
+        University Groningen (NL)<br></p></li><li><p>09/27/2012 Human factors of personal
+        protective equipment<br>ASML TechTalk Veldhoven (NL)<br></p></li><li><p>10/25/2012
+        Heat strain in Elderly<br>Climate Proof Cities Yearly Event Eindhoven (NL)<br></p></li><li><p>11/04/2012
+        Cold Physiology<br>National Moutaineer Conference The Hague (NL)<br></p></li><li><p>11/15/2012
+        Applied Thermal Physiology<br>Guest Lecture Tartu (Estonia)</p></li></ul>"
+    - year: '2011'
+      events: "<ul><li><p>01/18/2011 Heat strain in the elderly<br>Workshop Elderly
+        Soesterberg (NL)<br></p></li><li><p>01/20/2011 Introduction in Thermal Physiology<br>VU
+        University Amsterdam (NL)<br></p></li><li><p>01/21/2011 3D scanning systems<br>Delft
+        University Workshop Delft (NL)<br></p></li><li><p>02/01/2011 Prospie project<br>PPE
+        Conference Brussels (B)<br></p></li><li><p>02/15/2011 Workshop fit mapping
+        and 3D scanning<br>WEAR meeting Adelaide (Australia)<br></p></li><li><p>03/11/2011
+        Heat strain in the elderly<br>Meeting on climate proof cities Utrecht (NL)<br></p></li><li><p>03/18/2011
+        Introduction in Thermal Physiology<br>Wageningen University Wageningen (NL)<br></p></li><li><p>04/14/2011
+        Heat strain in the elderly<br>Meeting on climate proof cities Arnhem (NL)<br></p></li><li><p>04/21/2011
+        The Prospie project<br>Smart Textiles Salon 2011 Ghent (B)<br></p></li><li><p>05/13/2011
+        Cold Physiology<br>Mountaineer Course SOS Zoetermeer (NL)<br></p></li><li><p>05/31/2011
+        Open Garments sizing issues<br>Mass Customization meeting Berlin (D)<br></p></li><li><p>06/07/2011
+        Thermoregulation in sports<br>Faculty of veterinary research Utrecht (NL)<br></p></li><li><p>06/09/2011
+        Innovations in carpet research<br>NVTF meeting Zeist (NL)<br></p></li><li><p>06/16/2011
+        Innovations in the garment industry<br>Modint conference Utrecht (NL)<br></p></li><li><p>06/12/2011
+        Trainability of CIVD<br>ICEE XII conference Nafplio (GR)<br></p></li><li><p>06/13/2011
+        Heat strain in the elderly<br>ICEE XII conference Nafplio (GR)<br></p></li><li><p>08/01/2011
+        Heat strain in the elderly<br>Meeting climate proof cities Utrecht (NL)<br></p></li><li><p>09/15/2011
+        Applied Thermal Physiology<br>Groningen University Groningen (NL)<br></p></li><li><p>10/04/2011
+        Human factors in Personal Protective Equipment Research<br>Taiwan Textile
+        Research Institute Taipeh (Taiwan)<br></p></li><li><p>10/16/2011 Applied Thermal
+        Physiology<br>Boerhaave Course Leiden (NL)<br></p></li><li><p>10/21/2011 Thresholds
+        in Thermoregulation<br>40 year celebration of the Faculty of Human Movement
+        Sciences Amsterdam (NL)<br></p></li><li><p>11/10/2011 Innovative textiles<br>Textile
+        conference Arnhem (NL)</p></li><li><p>12/09/2011 The Prospie project<br>Meeting
+        department of Design Lund (S)</p></li></ul>"
+    - year: '2010'
+      events: "<ul><li><p>02/02/2010 Thermal Physiology<br>Senior Society VU University
+        Amsterdam (NL)<br></p></li><li><p>03/12/2010 Introduction in Thermal Physiology<br>Wageningen
+        University Wageningen (NL)<br></p></li><li><p>03/25/2010 Heat strain research
+        at TNO<br>Heat Stroke consensus meeting Kaapstad (South-Africa)<br></p></li><li><p>04/13/2010
+        Fit issues in protective clothing<br>NATO ASI on Defense Related Intelligent
+        Textiles and Clothing for Ballistic and NBC Protection Split (Kroatia)<br></p></li><li><p>04/15/2010
+        Heat strain alleviation in protective clothing<br>NATO ASI on Defense Related
+        Intelligent Textiles and Clothing for Ballistic and NBC Protection Split (Kroatia)<br></p></li><li><p>05/22/2010
+        Exercise in the cold<br>18th international congress on physical education
+        and sport Komotini (Greece)</p></li><li><p>06/08/2010 Clothing fit<br>Modint
+        meeting on clothing fit Zeist (NL)<br></p></li><li><p>06/10/2010 New developments
+        in anthropometry<br>Presentation of the new national growth diagrams Rotterdam
+        (NL)<br></p></li><li><p>06/18/2010 Head cooling<br>Mini symposium for the
+        farewell of Prof. Hoogland Amsterdam (NL)<br></p></li><li><p>06/25/2010 The
+        effect of heat strain and clothing on sport performances<br>International
+        Conference on Innovations in Sports Textiles Ghent (B)<br></p></li><li><p>07/02/2010
+        Thermal aspects of cycling<br>Symposium Cycling, Climate and Health Rotterdam
+        (NL)<br></p></li><li><p>07/05/2010 The human heat balance<br>TNO meeting Soesterberg
+        (NL)<br></p></li><li><p>09/02/2010 Warmtehuishouding van de mens in de gebouwde
+        omgeving<br>Vereniging Integrale Biologische Architectuur De Lier (NL)<br></p></li><li><p>09/23/2010
+        Fit issues for military equipment<br>WEAR conference Valencia (Spain)<br></p></li><li><p>09/23/2010
+        Validation of digital man models<br>WEAR conference Valencia (Spain)<br></p></li><li><p>10/13/2010
+        Applied Thermal Physiology<br>PhD cursus Nederlandse Hartstichting Papendal
+        (NL)</p></li></ul>"
+    - year: '2009'
+      events: "<ul><li><p>02/03/2009 Clothing fit and anthropometric data collection<br>WEAR
+        conference Marco Island, Florida (US)<br></p></li><li><p>03/13/2009 Introduction
+        in Thermal Physiology<br>Wageningen University Wageningen (NL)<br></p></li><li><p>04/02/2009
+        The Prospie Project<br>Euratex conference Brussels (B)<br></p></li><li><p>04/22/2009
+        Manual dexterity in the cold<br>NATO HFM conference on 'Soldiers in the cold'
+        Helsinki (Finland)<br></p></li><li><p>05/06/2009 Introduction in Thermal Physiology<br>VU
+        University Amsterdam (NL)<br></p></li><li><p>05/22/2009 3D body scanning techniques<br>TTCP
+        HUM TP15 workshop on future directions for anthropometry Farnborough (UK)<br></p></li><li><p>05/11/2009
+        The Prospie project<br>4th European conference on protective clothing Papendal
+        (NL)<br></p></li><li><p>06/30/2009 Fit of female blouses<br>Open Garments
+        Project meeting Diepenbeek (B)</p></li><li><p>07/07/2009 3D scan applications
+        for the armed forces<br>Management meeting of the Defence Clothing and Equipment
+        Office Soesterberg (NL)<br></p></li><li><p>08/04/2009 CIVD at altitude<br>ICEE
+        conference Boston (USA)<br></p></li><li><p>09/10/2009 Monitoring of Heart
+        Rate and Core temperature<br>Eindhoven Marathon expert meeting Eindhoven (NL)<br></p></li><li><p>10/15/2009
+        Clothing ergonomics<br>Meeting of the Dutch Ergonomics Society Clothing Museum
+        Tilburg (NL)<br></p></li><li><p>11/23/2009 Applied Thermal Physiology<br>Guest
+        Lecture Erasmus Fund Tartu (Estonia)<br></p></li><li><p>12/01/2009 Climate
+        related morbidity and mortality in the elderly – why do they get ill and die?<br>SENSE
+        conference Volendam (NL)<br></p></li><li><p>12/04/2009 Personal Cooling Systems<br>Kick-Off
+        Prospie project Oegstgeest (NL)<br></p></li><li><p>12/04/2009 Thermal Stress
+        and Thermal Strain<br>ini-symposium ‘Public health in urban environments during
+        thermal extremes Rotterdam (NL)</p></li></ul>"
+    - year: '2008'
+      events: "<ul><li><p>02/05/2008 3D anthropometric data collection and bra sizing<br>WEAR
+        meeting Tokyo (J)<br></p></li><li><p>02/26/2008 Working in the cold and how
+        to protect against it<br>European Cold Chain Education Conference Amsterdam<br></p></li><li><p>03/06/2008
+        Introduction to Prevention of Heat Casualties Symposium<br>Heat Casualties
+        Symposium Soesterberg<br></p></li><li><p>03/18/2008 Applied Thermal Physiology<br>Wageningen
+        University Wageningen<br></p></li><li><p>03/20/2008 Applied Thermal Physiology<br>Human
+        Movement Lecture Series Groningen<br></p></li><li><p>04/23/2008 College Thermofysiologie<br>Vrije
+        Universiteit Amsterdam<br></p></li><li><p>05/30/2008 Een werelddekkende database
+        van lichaamsdimensies - het WEAR project<br>TNO Colloquium Soesterberg<br></p></li><li><p>10/03/2008
+        Pacing strategies in the heat<br>Symposium on Pacing strategies Soesterberg<br></p></li><li><p>11/27/2008
+        Hoe weer en klimaat de mens thermisch belast<br>Lezing KNMI De Bilt<br></p></li><li><p>12/02/2008
+        Heat strain and fit of personal protective equipment<br>PPE conference Hengelo
+        (NL)</p></li></ul>"
+    - year: '2007'
+      events: "<ul><li><p>02/06/2007 Bra Sizing and Fit<br>WEAR meeting Adelaide (Aus)<br></p></li><li><p>02/14/2007
+        Ergonomics of Protective Clothing, Heat Strain &amp; Fit<br>Conference on
+        Textiles for Heat Protection Gent (B)<br></p></li><li><p>02/16/2007 Thermal
+        Physiology<br>Education for military medicine Soesterberg<br></p></li><li><p>02/21/2007
+        Thermal Physiology<br>NVVA conference Ede<br></p></li><li><p>04/24/2007 Head
+        Cooling<br>Symposium on personal cooling Soesterberg<br></p></li><li><p>07/31/2007
+        3D anthropometric data collection<br>WEAR meeting Banff (CDN)<br></p></li><li><p>08/23/2007
+        Finger cold induced vasodilation<br>International Conference on Environmental
+        Ergonomics Portoroz Slovenia<br></p></li><li><p>08/23/2007 Trainability of
+        cold induced vasodilation<br>International Conference on Environmental Ergonomics
+        Portoroz Slovenia<br></p></li><li><p>10/04/2007 Thermal Physiology<br>Faculty
+        of Human Movement Science University of Groningen<br></p></li><li><p>11/15/2007
+        Thermal Physiology<br>Training course for Sports Medicine XPRESS Zeist</p></li></ul>"
+    - year: '2006'
+      events: "<ul><li><p>01/06/2006 Thermal Physiology and 3D anthropometry<br>Colloquium
+        EMPA St. Gallen (CH)<br></p></li><li><p>01/18/2006 Relatie tussen MBO en Bedrijven<br>Themadag
+        BVE-raad Rotterdam<br></p></li><li><p>02/09/2006 Postmortale tijdbepaling
+        en 3D gezichtsherkenning<br>Nederlands Forensisch Instituut Rijswijk<br></p></li><li><p>02/13/2006
+        Thermofysiologie<br>Opleiding defensieartsen Soesterberg<br></p></li><li><p>02/23/2006
+        Acclimatisation of soldiers<br>Workshop MOD UK Farnborough (UK)<br></p></li><li><p>04/06/2006
+        A tactical decision Aid for Thermal Exposure<br>NATO Head Quarters Brussels
+        (B)<br></p></li><li><p>04/27/2006 Thermofysiologie<br>Colloquium Neuro-endocrinologie
+        Rotterdam<br></p></li><li><p>05/17/2006 Acclimatisation of soldiers<br>Workshop
+        MOD UK Farnborough (UK)<br></p></li><li><p>06/15/2006 The importance of Human
+        Factors in Defence<br>SMi Conference London (UK)<br></p></li><li><p>07/13/2006
+        Processing techniques of anthropometric data<br>IEA conference Maastricht<br></p></li><li><p>09/20/2006
+        Maastrichts mooiste<br>Discussion Forum on Heat Strain Maastricht<br></p></li><li><p>10/11/2006
+        Applied Thermal Physiology<br>Seminar Nederlandse Hartstichting Ede<br></p></li><li><p>10/16/2006
+        Clothing Fit<br>Opening i-Fashion Seoul (Korea)<br></p></li><li><p>10/20/2006
+        Achilles - Second Skin<br>Terugkeerdag FrameGame Den Haag<br></p></li><li><p>11/30/2006
+        Clothing Fit<br>International Apparel Federation meeting Zeist</p></li></ul>"
+    - year: '2005'
+      events: "<ul><li><p>01/14/2005 Pasvorm van Kleding<br>Bijeenkomst kledingindustrie
+        Breda<br></p></li><li><p>01/25/2005 Meten van lichaamstemperatuur<br>Jaarvergadering
+        van de Ned. Ver. voor Klinische Fysica Den Bosch<br></p></li><li><p>03/11/2005
+        TNO in de topsport<br>Carrierebeurs Amsterdam<br></p></li><li><p>04/07/2005
+        Lessons learned from CAESAR - Surface and Volume determination from 3D scans<br>WEAR
+        meeting Pretoria (South Africa)<br></p></li><li><p>05/19/2005 The risk index
+        for frostbite<br>NATO Specialist meeting on the prevention of cold injuries
+        Amsterdam<br></p></li><li><p>05/27/2005 Thermoregulatie<br>Jaarcongres Ned.
+        Ver. Bedrijfsartsen (NVAB) Noordwijk<br></p></li><li><p>09/10/2005 Clothing
+        Fit and heat transfer<br>NATO meeting on intelligent textiles Zadar (Kroatia)<br></p></li><li><p>11/01/2005
+        Thermal Physiological Research with focus on CIVD<br>Seminar USARIEM Natick
+        (USA)<br></p></li><li><p>11/09/2005 Infrared ear thermometry<br>Int. conference
+        on thermometry Leeds (UK)</p></li><li><p>11/11/2005 Inspanning in de hitte<br>Arbodag
+        Defensie Utrecht</p></li><li><p>11/30/2005 Augmented reality research for
+        control rooms<br>WEAR meeting Rio de Janero (Brazil)</p></li></ul>"
+    - year: '2004'
+      events: "<ul><li><p>02/27/2004 Warm aanbevolen<br>Inaugurele rede Vrije Universiteit
+        Amsterdam<br></p></li><li><p>6/10/2004 User interface and output specification<br>WEAR
+        (world-wide engineering anthropometry resource) meeting Dayton OH (USA)<br></p></li><li><p>06/25/2004
+        Human digital models<br>Symposium on 3D human modeling Tokio (Japan)<br></p></li><li><p>09/16/2004
+        Fever measurement in children<br>Refereeravond Elkerlyk ziekenhuis Helmond<br></p></li><li><p>10/14/2004
+        The effect of redistribution of body heat on efficiency and heat balance<br>IUPS
+        conference Rhodos (Greece)</p></li></ul>"
+    - year: '2003'
+      events: "<ul><li><p>01/15/2003 Clothing at work<br>National fair on working
+        conditions Amsterdam<br></p></li><li><p>02/26/2003 Fit of protective masks<br>NATO
+        LG-7 Brussels<br></p></li><li><p>02/28/2003 Thermal Physiology<br>Post doctoral
+        course on Ergonomics Soesterberg<br></p></li><li><p>03/05/2003 Camouflage
+        against thermal imaging<br>Soldier Modernization Program Technology Demonstration
+        Soesterberg</p></li><li><p>04/08/2003 Thermofysiologie<br>College Bew.wetenschappen
+        VU A'dam Amsterdam<br></p></li><li><p>04/16/2003 Thermal Physiology<br>Post
+        doctoral course on medical insurance Amsterdam<br></p></li><li><p>05/24/2003
+        Thermoregulatie<br>Nederlandse Hypofyse dag Ede</p></li><li><p>06/04/2003
+        Human models<br>Opening Simlab Soesterberg<br></p></li><li><p>06/19/2003 Relatie
+        tussen fysiologie en kleding<br>Symposium TNO Kleding Totaal Enschede<br></p></li><li><p>06/20/2003
+        Thermal Physiology<br>Post doctoral course on ergonomics Soesterberg<br></p></li><li><p>08/28/2003
+        Applications using the CAESAR survey<br>Symposium of the Korean Clothing and
+        Textile Association Seoul (Korea)</p></li><li><p>09/26/2003 Thermal Physiology<br>Beat
+        the Heat symposium, Faculty of Industrial Design Eindhoven<br></p></li><li><p>11/08/2003
+        Clothing made to measure<br>Tall peoples association Amersfoort<br></p></li><li><p>11/13/2003
+        Physiological and psychological strain wearing protective masks<br>International
+        Society of Respiratory Protection Conference Rijswijk<br></p></li><li><p>12/10/2003
+        Thermal sweating<br>NATO HFM-panel specialist meeting on Hydration Boston
+        (USA)</p></li></ul>"
+    - year: '2002'
+      events: "<ul><li><p>01/30/2002 Human factors in impermeable clothing<br>NATO
+        Long Term Scientific Study on NBC protection Rijswijk</p></li><li><p>02/08/2002
+        Gebruik van de nieuwe kledingmaattabellen<br>Vilenzo Breda</p></li><li><p>03/14/2002
+        Workshop Statistica<br>CAESAR partner meeting Dayton (OH), USA</p></li><li><p>03/20/2002
+        The Dutch Soldier Modernisation Programme<br>Meeting with Belgian SMP programme
+        officers Amersfoort</p></li><li><p>03/23/2002 Overzicht van het congres over
+        bouwen<br>NVvE congres 2002 Arnhem</p></li><li><p>04/11/2002 Gastcollege Thermofysiologie<br>Vrije
+        Universiteit Amsterdam</p></li><li><p>05/01/2002 Normen voor 3D scanning<br>Bijeenkomst
+        ISO/TC159/SC3/WG61 Berlijn</p></li><li><p>05/10/2002 NedScan<br>Workshop met
+        Prof. Lee, Nam en Choi (Korea) Soesterberg</p></li><li><p>05/22/2002 Kleding
+        tegen warmtebeeldwaarneming<br>Workshop warmtebeeldwaarneming Amersfoort</p></li><li><p>05/23/2002
+        Thermofysiologie<br>Gastcollege voor verzekeringsartsen en bedrijfsartsen
+        Utrecht</p></li><li><p>06/01/2002 Onderkoeling en koudeletsel<br>Veiligheidscongres
+        van de Kon. Ned. Klim en Bergsportvereniging Zoetermeer</p></li><li><p>06/05/2002
+        Koudebelasting<br>Arbokring Amsterdam</p></li><li><p>06/06/2002 Functioneren
+        in thermische extremen<br>Symposium belastend werk Soesterberg</p></li><li><p>06/19/2002
+        Presteren in de hitte<br>Symposium over Olympische Spelen in 2004 Utrecht</p></li><li><p>06/21/2002
+        International standards on 3D anthropometry<br>e-T cluster review Brussel</p></li><li><p>06/26/2002
+        Local heat transfer of cool and warm bodies<br>World conference on drowning
+        Amsterdam</p></li><li><p>09/13/2002 The eT-cluster project<br>ASTM meeting
+        Raleigh (USA)</p></li><li><p>09/24/2002 Determination of clothing microclimate
+        volume<br>Xth ICEE conference Fukuoka (Japan)- Best Poster Award</p></li><li><p>11/07/2002
+        Workshop on made to measure clothing<br>Contec Technology Update Den Bosch</p></li><li><p>12/13/2002
+        International standards on 3D anthropometry<br>e-T cluster review Brussel</p></li><li><p>12/18/2002
+        Tools for physical performance<br>Coca Cola meeting Zeist</p></li></ul>"
+    - year: '2001'
+      events: "<ul><li><p>01/08/2001 Werken in impermeabele kleding<br>NIBRA cursus
+        Antwerpen (B)</p></li><li><p>01/29/2001 CEASAR project in The Netherlands<br>CEASAR
+        partner meeting Seattle (USA)</p></li><li><p>02/06/2001 Natuurlijke ventilatie<br>Congres
+        over natuurlijke ventilatie Nieuwegein</p></li><li><p>02/16/2001 Pasvorm van
+        kleding en uitrusting<br>Colloquim TNO Technische Menskunde Soesterberg</p></li><li><p>03/13/2001
+        Thermofysiologie<br>Gastcollege Fac. Bewegingswetenschappen VU Amsterdam</p></li><li><p>03/16/2001
+        Cursus Thermofysiologie<br>Bedrijfsartsen Soesterberg</p></li><li><p>03/26/2001
+        Textielcomfort<br>Lezing voor textielbedrijven Enschede</p></li><li><p>03/28/2001
+        Ergonomie<br>Opleiding bewegingstechnologie Den Haag</p></li><li><p>06/14/2001
+        Kledingventilatie<br>Nike Hilversum</p></li><li><p>11/07/2001 A tactical decision
+        aid for thermal exposure<br>KLu Den Haag</p></li><li><p>11/21/2001 Van NedScan
+        naar kledingmaattabellen<br>Seminar Soesterberg</p></li></ul>"
+    - year: '2000'
+      events: "<ul><li><p>01/21/2000 A Tactical Decision Aid on Thermal Exposure<br>Dutch
+        Military Meteorological Office Woensdrecht</p></li><li><p>01/24/2000 CAESAR
+        Update Europa<br>CAESAR partners meeting Los Angeles (USA)</p></li><li><p>02/01/2000
+        Human body dimensions<br>CEN workgroup on Protective Clothing Soesterberg</p></li><li><p>02/04/2000
+        Non-invasive rewarming techniques: state of the art<br>Symposium on hypothermia
+        Utrecht</p></li><li><p>02/11/2000 NedScan<br>Colloquium Soesterberg</p></li><li><p>03/14/2000
+        Thermofysiologie<br>Gastcollege Bew.wetenschappen VU A'dam Amsterdam</p></li><li><p>03/17/2000
+        Thermofysiologie<br>Post-doctorale opleiding ergonomie Soesterberg</p></li><li><p>03/23/2000
+        The human, clothing and textiles<br>Int. conference on smart textiles Berkel-Enschot</p></li><li><p>04/05/2000
+        New developments in clothing research<br>AVAG yearly meeting Rhenen</p></li><li><p>05/24/2000
+        Using Polyworks to process and evaluate whole body scans<br>Scanning 2000
+        Conference Paris</p></li><li><p>06/24/2000 Construction of an international
+        database on body dimensions: the CAESAR survey<br>Scanning 2000 Conference
+        Paris</p></li><li><p>08/02/2000 Heat packs and dexterity<br>ICEE 9 Conference
+        Dortmund</p></li><li><p>08/02/2000 CIVD acclimation to altitude<br>ICEE 9
+        Conference Dortmund</p></li><li><p>09/11/2000 Schilderskleding<br>Workshop
+        schilderskleding Eindhoven</p></li><li><p>10/04/2000 Kleding in de sport<br>Topsport
+        en Textiel-symposium Papendal</p></li><li><p>10/31/2000 Een beslishulp voor
+        thermische overbelasting<br>Militaire dag Soesterberg</p></li><li><p>11/30/2000
+        Onderzoek van werkkleding<br>Jaarvergadering Holland Career Workwear Hooglanderveen</p></li></ul>"
+    - year: '1999'
+      events: "<ul><li><p>01/29/1999 Thermofysiologie<br>Post-doctorale opleiding
+        ergonomie Soesterberg<br></p></li><li><p>03/09/1999 Thermofysiologie<br>Gastcollege
+        Bew.wetenschappen VU A'dam Amsterdam</p></li><li><p>04/10/1999 De Kleermaker
+        vervangen door de computer?<br>Studiedag Bond voor Kleermakers Hooglanderveen</p></li><li><p>04/16/1999
+        Koude fysiologie<br>Studenten Ergonomie Amsterdam Soesterberg</p></li><li><p>04/30/1999
+        Ventilation through NBC-clothing<br>NATO meeting Farnborough Farnborough (UK)</p></li><li><p>05/18/1999
+        Civilian European and American Anthropometry Resource<br>Human Digital Modelling
+        conference Scheveningen</p></li><li><p>08/16/1999 Working with polyworks and
+        CAESAR in Europe<br>CAESAR partner meeting Boston (USA)<br></p></li><li><p>09/13/1999
+        The effect of heat and food on mortality in 1910<br>Guest lecture - Faculty
+        of History - Catholic University of Nijmegen Nijmegen</p></li><li><p>11/12/1999
+        Human Digitization<br>Conference of the Dutch Ergonomics Association Doorwerth</p></li><li><p>12/04/1999
+        Acclimatization of CIVD to altitude<br>Symposium of the Dutch Association
+        for Exercise Physiology Utrecht</p></li></ul>"
+    - year: '1998'
+      events: "<ul><li><p>02/06/1998 Thermofysiologie<br>Studenten Ergonomie Amsterdam
+        Soesterberg</p></li><li><p>03/09/1998 Koude fysiologie<br>Org. Protection
+        against Chemical Warfare Soesterberg</p></li><li><p>04/09/1998 Thermofysiologie<br>Studenten
+        bewegingswetenschappen VU A'Dam Soesterberg</p></li><li><p>04/29/1998 Massa-individualisatie
+        in de kledingindustrie<br>Bedrijven top-100 Amsterdam</p></li><li><p>05/07/1998
+        Whole body scanning<br>Contec beurs - kledingindustrie Veldhoven</p></li><li><p>05/19/1998
+        Thermofysiologie<br>Post-doctorale opleiding ergonomie Amsterdam</p></li><li><p>09/07/1998
+        Thermofysiologie<br>BIOMED-werkgroep Toulouse (F)</p></li><li><p>10/01/1998
+        Textiel- en kledingmetingen<br>KPN Corporate Fashion Services Soesterberg</p></li><li><p>10/19/1998
+        Axon reflexes in cold exposed fingers<br>8th Conference on Environmental Ergonomics
+        San Diego (USA)</p></li><li><p>10/27/1998 Veranderingen in de Persoonlijke
+        Standaard Uitrusting<br>Militaire Symposiumdag Soesterberg</p></li><li><p>11/03/1998
+        Tactical Decision Aid for Human Thermal Exposure<br>Meteorologists NATO Panel
+        Brussel (B)</p></li><li><p>11/21/1998 Cold Physiology<br>Int. Mountain Climbers
+        Conference Voorburg</p></li><li><p>11/24/1998 Thermofysiologie<br>Platform
+        Omgevingstechnologie Leiden</p></li><li><p>12/09/1998 Presteren in hitte en
+        kou<br>Studiever. Protagoras Eindhoven Soesterberg</p></li><li><p>12/17/1998
+        Prestatie in en acclimatisatie aan hitte en kou<br>NOC*NSF Soesterberg</p></li></ul>"
+    - year: '1997'
+      events: "<ul><li><p>01/28/1997 Whole body scanning<br>Management 30 grote Nederlandse
+        bedrijven Soesterberg</p></li><li><p>03/11/1997 Thermofysiologie<br>Vereniging
+        voor Inspanningsfysiologie Amsterdam</p></li><li><p>03/20/1997 Koude handen<br>Contactcommissie
+        TNO-TM Soesterberg</p></li><li><p>03/25/1997 Ergonomie<br>Studenten Ergonomie
+        Utrecht Soesterberg</p></li><li><p>03/26/1997 Risico-Inventarisatie en -evaluatie<br>Arbo-artsen
+        KM Leiden</p></li><li><p>04/04/1997 Whole body scanning<br>Bodyfashion Hoevelaken</p></li><li><p>04/17/1997
+        Whole body scanning<br>Fenecon-werkkleding Hoevelaken</p></li><li><p>04/18/1997
+        Werken in de kou<br>Arbo-kring Bew.wetenschappen Soesterberg</p></li><li><p>04/24/1997
+        Whole body scanning<br>TNO-ers (cross-selling) Eindhoven</p></li><li><p>05/06/1997
+        Inrichting Duyverman Computer Centrum<br>Management DCC Maasland</p></li><li><p>05/15/1997
+        Movement artifacts during whole body scanning<br>Congres 3D imaging Ottawa
+        (CDN)</p></li><li><p>05/28/1997 Whole body scanning<br>World Fashion Center
+        Amsterdam</p></li><li><p>06/03/1997 Whole body scanning<br>Ned. Ver.voor Ergonomie
+        Soesterberg</p></li><li><p>06/13/1997 Centrale en perifere regulatie van de
+        vingerdoorbloeding in de kou<br>Divers (Colloquium) Soesterberg</p></li><li><p>06/26/1997
+        Whole body scanning<br>NATO Panel 8 Brussel (B)</p></li><li><p>08/14/1997
+        NedScan<br>Brancheverenigingen Textiel Hoevelaken</p></li><li><p>08/22/1997
+        Inrichting Duyverman Computer Centrum<br>Directieleden Duyverman Soesterberg</p></li><li><p>09/10/1997
+        3D head scanning<br>Gallet helmen (F) Soesterberg</p></li><li><p>09/15/1997
+        Infra red ear canal thermometry<br>Management Braun Frankfurt (D)</p></li><li><p>09/17/1997
+        Central and peripheral control of finger blood flow in the cold<br>Promotie-gasten
+        Amsterdam</p></li><li><p>09/26/1997 Autostoelen<br>Industrie en Ergonomen
+        Soesterberg</p></li><li><p>10/02/1997 Thermofysiologie<br>Deelnemers AGARD
+        conf. Rotterdam Soesterberg</p></li><li><p>10/06/1997 Cold Induced VasoDilation<br>Vakgroep
+        Fysiologie VU Amsterdam</p></li><li><p>11/08/1997 Fysieke veranderingen van
+        de Nederlander<br>Klub voor Lange Mensen Velp</p></li></ul>"
+  - template: content
+    link: media
+    title: Media
+    content: '<p>17-11-88, Veronica TV: Fitrace, Werking van de spieren<br>26-07-89,
+      Volkskrant, Snelwandelen onzichtbaar voor blote oog<br>06-02-91, NRC, "Gedrag
+      is enig wapen van lichaam tegen kou"<br>07-02-91, EO-Tijdsein TV, Onderzoek
+      naar kou<br>07-02-91, NOS-Aktueel TV, Uitleg koude-invloed bij finish elfstedentocht<br>09-02-91,
+      Tineke TV, Wat doet men tegen kou<br>11-02-91, NCRV Radio: G. van Brakel, De
+      invloed van kou op de mens<br>14-02-91, KRO-radio, "Gezondheid - een zorg"<br>09-05-91,
+      NCRV-radio, Extremen: warmte en kou<br>31-12-91, Haagse Courant, "Goede conditie
+      helpt bij weerbaarheid tegen kou"<br>05-01-92, TNO-jaarjournaal, Stuk uit EO-tijdsein<br>16-01-92,
+      KRO-radio, Kou en gezondheid<br>27-09-93, Autoweek, Benzineverbruik auto''s<br>22-10-93,
+      Intermediair, Uitglijden bij Tineke<br>30-10-93, Gelders Dagblad, Triathlon:
+      Pas op voor ''afterdrop'' in eerste fietskm<br>24-11-93, NOS Vroeg op 5 Radio,
+      Effect van kou op de mens<br>15-02-94, Reformatorisch Db, Aangenaam, mits gekleed
+      in wollen ondergoed<br>18-07-95, Technische Revue, TNO-TM weet veel van werkplekinrichting<br>04-02-96,
+      NCRV TV, Zinderen, een programma over zintuigen<br>04-01-97, 2 Vandaag, Kou
+      tijdens de elfstedentocht<br>29-01-97, Amersfoortse Courant, Tot op de millimeter<br>29-01-97,
+      Gooi en Eemlander, TNO levert maatwerk ..<br>31-01-97, Leeuwarder Courant, Bodyscanner
+      levert maatwerk..<br>31-01-97, Algemeen Dagblad, Pictogram in plaats van confectiemaat<br>04-02-97,
+      NOS TV Jeugdjournaal, Lichaamsscanning<br>04-02-97, NOS TV Journaal, Lichaamsscanning<br>05-02-97,
+      Talk radio, Lichaamsscanning<br>12-07-97, Volkskrant, Lasterstralen nemen het
+      volk de maat<br>27-10-97, Radar (TROS TV), Oorthermometer<br>01-11-97, Business,
+      De Werkplek<br>15-11-97, Parool, De lange mens<br>11-07-98, Leeuwarder Courant,
+      Nederlander de maat genomen<br>25-07-98, Utrechts Nieuwsblad, Digitaal de kledingmaat
+      opnemen<br>26-07-98, Uniform-magazine, Bodyscan-eindelijk de juiste maat<br>10-09-98,
+      Haagse Courant, De high-tech kleermaker komt er aan<br>11-09-98, Rotterdams
+      Dagblad, De high-tech kleermaker komt er aan<br>11-09-98, Ultimate Kick (KRO
+      TV), Lichaamsmaten<br>14-09-98, Limburgs dagblad, Lichaamsscan levert maatwerk<br>16-09-98,
+      Dagblad van Almere, De high-tech kleermaker komt er aan<br>22-09-98, Limburgs
+      dagblad, Niets ontsnapt aan lichaamsscan<br>24-09-98, Facts (Zwitserland), Das
+      Mass alle Dinge<br>01-11-98, Contec Nieuws, Batman returns (over lichaamsscanning)<br>22-12-98,
+      Konrad (Duitsland), Lichaamsmaten<br>07-01-99, TROS Radar op 5 (radio), Lichaamsmaten<br>13-01-99,
+      Stern TV (RTL+), Lichaamsscanning<br>16-01-99, FEM De Week03, Hollandse lijven
+      in kaart gebracht<br>18-01-99, SAT1 TV, Lichaamsmaten<br>24-02-99, Klokhuis,
+      Lichaamsmaten<br>01-04-99, Kijk, Onderkoeling, verdrinking en dood<br>04-08-99,
+      Nederlands Dagblad, Hitte en prestatie<br>01-07-99, Fiets, Barstende koppijn
+      of een barst in je kop<br>04-08-99, Nederlands Dagblad, Warmte zorgt in het
+      verkeer voor verhitte gemoederen<br>12-04-00, KRO ontbijt TV, NedScan<br>01-07-00,
+      Contec update 3, TNO legt database aan van lichaamsmaten<br>01-04-01, Doorkijk
+      42(2): 16, Maatkleding voor Iedereen door T. Epping<br>26-06-01, NRC, Maat 88
+      wordt normaal<br>27-06-01, NRC, Te lang, te kort, te wijd of te krap<br>28-06-01,
+      Nederlands Dagblad, Mag het een maatje meer zijn?<br>19-12-01, Klokhuis, Nieuw
+      textiel<br>01-01-02, Arbouw Pijlers, Goed kleden is ''simpel eigenlijk''<br>05-01-02,
+      NRC, Bloedvatspel<br>18-01-02, Groninger Dagblad, Ondershirt kan thuisblijven<br>01-02-02,
+      TNO-Magazine, Kledingmaattabellen<br>30-09-02, Radio Nederland Wereldomroep,
+      hitte en kou<br>01-11-02, Contec Nieuws, Kleding op maat<br>03-12-02, Regionale
+      omroep Arnhem, Ergonomie<br>01-01-03, Plus Magazine, 8 vragen over warm blijven,
+      pag 58<br>01-01-03, Arbo, Arbodisciplines spelen in op veranderingen, pag 55<br>22-01-03,
+      AVRO Gezondheidsplein TV, Heat packs<br>25-01-03, Volkskrant, Ventilerende kleding
+      bij hitte essentieel<br>01-04-03, Twee vandaag, warmtebelasting in beschermende
+      kleding<br>17-04-03, RTL-4 TV, Meer auto-ongevallen door warmte<br>01-05-03,
+      HP/De Tijd, matrassen (pag. 96)<br>01-06-03, Hyponieuws, Rol van warmtebalans
+      (pag. 10)<br>01-07-03, KnipMode, Lengte van mannen (pag. 46)<br>29-11-03, Willem
+      Wever, Waarom zweten we?<br>01-12-03, Helemaal Thuis (Essent), Zo werkt uw interne
+      thermostaat<br>28-02-04, Trouw, Oorthermometer dikwijls niet betrouwbaar<br>28-02-04,
+      Algemeen Dagblad, Oorthermometers onbetrouwbaar<br>28-02-04, Amersfoortse Courant
+      en Utrechts Nieuwsblad, Oorthermometer niet betrouwbaar<br>15-05-04, Volkskrant,
+      Voorgekoelde fietser trapt langer door<br>22-05-04, Nieuwslijn (VARA), Pre-cooling<br>01-08-04,
+      Plus Magazine, 12 vragen over dorst, pag 84-85<br>03-12-04, BNN radio, Desertrun<br>21-12-04,
+      Eindhovens dagblad, Heeft maat M overal dezelfde afmeting?<br>03-02-05, Radio
+      M, koude<br>07-03-05, TV Amersfoort, Desertrun<br>07-07-05, Radio M, Koorts<br>01-12-05,
+      TNO Magazine, 3D technologie voor beschermingsmiddelen en gezichtsherkenning<br>01-12-05,
+      TNO Magazine, succesvolle kennisoverdracht Thermofysiologie<br>22-12-05, Teleac
+      Radio, Koudebeleving in zomer en winter<br>19-01-06, RTL-4 TV, Koudeproblematiek
+      in Moskou<br>06-04-06, De Morgen (Belgie), Kledingmaatvoering<br>01-05-06, Movemens,
+      Bewegingsonderzoek bij TNO<br>03-05-06, Test spots human frostbite susceptibility,
+      New Scientist<br>02-09-06, Telegraaf, Koudeletselonderzoek Ama Dablam<br>16-09-06,
+      Volkskrant, Koudeletselonderzoek Ama Dablam<br>01-10-06, Plus Magazine, drie
+      vragen over koude<br>24-11-06, Klokhuis, Zweten<br>07-12-06, Talpa TV, Man/Vrouw<br>08-02-07,
+      Women sized for comfort after 80 years, The Advertiser (AUS)<br>14-05-07, Trouw,
+      Wat is de ideale temperatuur van zwemwater<br>16-06-07, Volkskrant, Van zweten
+      wordt een mens niet misselijk<br>20-06-07, NRC, Stinkend naar de top<br>01-06-07,
+      Plus Magazine, het Plus gezondheid Vraag&amp;Antwoord boek<br>01-06-07, Snap
+      jij het, ik wel!, boek van TNO met kindervragen<br>04-10-07, NRC Next, Waar
+      halen mensen hun lichaamswarmte vandaan<br>05-10-07, Teleac Radio, Waar komen
+      de tintelingen vandaan als mensen sneeuw hebben aangeraakt<br>22-10-07, RTL-4
+      TV, Koude in Siberie<br>12-02-08, Transport&amp;Opslag, Eskimo''s gezocht<br>01-05-08,
+      Grip4, Hoe moet een onderkoelde patient worden behandeld?<br>01-06-08, Weer,
+      Temperatuur zegt niet alles over warmtebalans, pag 20-23<br>19-06-08, Ad Valvas,
+      Infraheet, pag 18<br>08-07-08, Radio 1, Hitte in Nederland eind 21e eeuw<br>11-12-08,
+      Hoezo Radio, Over koude<br>22-12-08, Een vandaag, commentaar bij portret van
+      Wim Hof<br>30-12-08, Trouw, koude<br>06-01-09, Radio 1, koude<br>06-01-09, Jeugdjournaal,
+      koude<br>13-01-09, Klokhuis, wakduiken<br>01-04-09, Jaarverslag KNMI, temperatuur
+      en gezondheid<br>14-05-09, HoeZo radio, effect van temperatuur op de mens<br>04-07-09,
+      Telegraaf, CO2 productie<br>04-07-09, Tros Nieuwsradio, hitte en agressie<br>16-09-09,
+      Teleac Radio, hoe zweten mensen<br>10-10-09, Eindhovens Dagblad, onderzoek Marathon
+      Eindhoven<br>21-12-09, Radio 1, koude<br>07-10-10, RTL Editie NL, koude en ouderen<br>08-01-10,
+      Telegraaf, Koude<br>08-01-10, Netwerk, Tips tegen koude<br>08-01-10, SBS6 Hart
+      van Nederland, koude<br>08-01-10, Algemeen Dagblad, koude<br>08-01-10, Radio
+      Nostalgia (B), koude<br>09-01-10, NRC next, koude<br>27-01-10, Omroep Gelderland,
+      koude<br>27-04-10, Algemeen Dagblad, lengte De Lange en De Korte<br>27-04-10,
+      RTV West, lengte De Lange en De Korte<br>27-04-10, Wereldomroep, lengte De Lange
+      en De Korte<br>27-04-10, Jeugdjournaal, lengte De Lange en De Korte<br>27-04-10,
+      RTV Noord, lengte De Lange en De Korte<br>27-04-10, Radio 538 (Humberto Tan),
+      lengte De Lange en De Korte<br>27-04-10, Radio 1 journaal, lengte De Lange en
+      De Korte<br>28-04-10, Dagblad Trouw, lengte De Lange en De Korte<br>28-04-10,
+      Radio 3 (Giel Beelen), lengte De Lange en De Korte<br>28-04-10, EO radio 5 Nostalgia,
+      lengte De Lange en De Korte<br>28-04-10, Simone FM, lengte De Lange en De Korte<br>15-05-10,
+      Volkskrant, te koud in Nederland<br>15-07-10, Teleac Kettingvraag, optimale
+      temperatuur van mens<br>20-07-10, Nederlands Dagblad, Verkoelende kleding voorkomt
+      ongevallen<br>20-07-10, Limburger, Niets doen tegen hitte is geen optie<br>20-07-10,
+      Telegraaf, Lopen in hitte ongevaarlijk maar onplezierig<br>21-07-10, Omroep
+      Gelderland.nl, Lopen in de hitte niet gevaarlijk<br>21-07-10, RTL4 nieuwsshow,
+      Koelsystemen tegen hitte<br>23-07-10, Leeuwarder courant, koelsystemen<br>30-10-10,
+      Quest, Waarom zweet je ook als je het koud hebt? (pag 93)<br>05-11-10, Volkskrant,
+      Niet elke Nederlander heeft een gezicht dat op het paspoort past<br>06-11-10,
+      Radio 1, paspoortfoto''s<br>02-12-10, Radio 1, koude in Nederland<br>29-04-11,
+      NRC-Next, hitte en agressie<br>12-07-11, Volkskrant, help wat is het heet in
+      de stad<br>09-11-11, NRC-Next, mag je een winterjas al in de herfst aan?<br>18-01-12,
+      BNN Proefkonijnen, heeft het zin om zweet te drinken?<br>01-02-12, RTL in het
+      land, koude<br>01-02-12, SBS Hart van Nederland, koude<br>03-02-12, Klokhuis,
+      wakduiken<br>03-02-12, Pauw en Witteman, koude<br>17-02-12, Telegraaf, aandoeningen
+      door lawines<br>21-05-12, Wekker Wakker Radio5, wie kan goed tegen hitte?<br>02-06-12,
+      NRC-Next, Ajax-Twente en warmte<br>01-09-12, Textielbeheer, een ander kijk in
+      de toekomst<br>10-10-12, Hoezo Radio, onderkoeling<br>01-10-12, Radio 1, is
+      wintersport gezond?<br>01-12-12, Klokhuis, wakduiken - gekozen in Top10 van
+      25 jaar Klokhuis<br>20-07-13, NRC-Next, warmte<br>22-07-13, RTL editie NL, warmte<br>22-07-13,
+      Een vandaag, hitte<br>23-07-13, Eindhovens dagblad e.a., Eigenlijk zijn we allemaal
+      onbehaarde tropische dieren<br>03-08-13, Knooppunt Kranenborg Radio 2, hitte<br>12-12-13,
+      Algemeen Dagblad, Kouderecord: -93,2°C<br>14-12-13, NRC-next, maatvoering vrouwenkleding<br>18-12-13,
+      AdValvas, Bevangen door de poolkoorts<br>13-01-14, AD, koude<br>16-01-14, Parool,
+      mode<br>20-01-14, Volkskrant, Koud tot op het bot<br>19-04-14, NRC-next, klimaat
+      Brazilie niet gunstig voor voetbal<br>22-04-14, Volkskrant, Bestaan koukleumen
+      (en mensen die het altijd warm hebben)?<br>04-06-14, NRCq, Waarom je niet in
+      deze broek past (en waarom dat niet jouw schuld is)<br>07-06-14, NOS Journaal,
+      nieuwe kinderkledingmaten<br>07-06-14, Algemeen dagblad, nieuwe kinderkledingmaten<br>08-14-14,
+      MAX-TV lekker weertje, koudeblootstelling<br>08-12-14, RTL in het land, kou
+      naar gasstoring<br>10-07-14, BNR nieuwsradio, 3D pashokje<br>11-11-14, Omroep
+      West website, straks minder koud als je nu de trui uitstelt<br>12-09-14, AD,
+      slimme kleding heeft de toekomst<br>12-15-14, BNR nieuwsradio, slimme kleding<br>01-01-15,
+      Radio West, nieuwjaarsduik<br>18-01-15, Radio 2, Jas binnen aantrekken<br>24-01-15,
+      NRC, Ijszwemmen<br>09-03-15, Volkskrant, zweten<br>17-03-15, NRC-Next, Nooit
+      meer een pashokje in<br>18-03-15, NRC, Nooit meer een pashokje in<br>27-03-15,
+      NOS.nl, Hitte formule1 Maleisie<br>29-05-15, Ijzeren Eeuw, arbeidsomstandigheden
+      in textielindustrie<br>05-06-15, Volkskrant.nl, oversterfte hitte India<br>30-06-15,
+      BNR nieuwsradio, kleding<br>01-07-15, AD, hitte<br>02-07-15, Een Vandaag, hitte<br>03-07-15,
+      Volkskrant, gevoelstemperatuur<br>04-07-15, Parool, hitte<br>04-07-15, Radio1,
+      hitte en drinken<br>04-07-15, NOS journaal, hitte en drinken<br>18-07-15, Volkskrant,
+      zweten en vochtverlies<br>30-01-16, RTL4 nieuws, ijszwemmen<br>21-03-16, Bright
+      TV, RTL-Z, kleding op maat<br>31-03-16, De kennis van nu, precooling<br>22-06-16,
+      Radio 1, cryotherapie<br>04-07-16, Volkskrant, koelende kleding<br>20-07-16,
+      Radio 1, hitte in Nederland<br>20-07-16, Radio 5, hitte in Nederland<br>21-07-16,
+      Radio NoordHolland, hitte in Nederland<br>21-07-16, Telegraaf, hitte in Nederland<br>26-07-16,
+      Radio 1, hitte in Rio<br>23-08-16, Omroep max, hitte in Nederland<br>01-09-16,
+      Quest, Sterven aan oververhitting, pag. 94<br>17-01-17, Radio 1, koude<br>27-01-17,
+      AD en locale kranten, cryotherapie<br>30-01-17, Volkskrant, warmt een kop hete
+      chocolademelk ons weer lekker op?<br>02-05-17, De Standaard, waarom is onze
+      lichaamstemperatuur 36,8°C<br>21-06-17, RTL late night, hitte en airco<br>22-06-17,
+      Radio 5-Metro-Laatste Nieuws-Parool-Trouw-NH radio-Kijk-Dagblad Noorden, hitte<br>22-06-17,
+      Women''s health, hitte<br>02-07-17, Metro, zo reageert lichaam op hitte<br>03-08-17,
+      BNR nieuwsradio, Hitte in India<br>01-09-17, Volkskrant, pasvorm kleding<br>30-09-17,
+      NRC, hitte formule1<br>09-12-17, Volkskrant, warme baden<br>18-12-17, De Standaard,
+      koude<br>04-05-18, Parool, Sporters bereiden zich op de VU voor op hitte Tokio<br>24-05-18,
+      RTL Editie NL, Zweet je naar goud<br>26-05-18, Limburger, hitte<br>31-05-18,
+      Margriet, hitte<br>14-07-18, Volkskrant, kippevel<br>23-07-18, Met het ook op
+      morgen, Hitte<br>24-07-18, Volkskrant, Hoe het lichaam de hitte te lijf gaat<br>25-07-18,
+      Volkskrant, Wat je wel (en niet) moet drinken in de hitte<br>26-07-18, BNN radio
+      2, hitte<br>26-07-18, Een vandaag, hitte<br>27-07-18, NOS.nl, Met een glas schaafijs
+      ga je de hitte echt goed te lijf<br>07-08-18, Radio 1 vandaag, hitte<br>17-08-18,
+      Volkskrant, Hittegolf eist relatief weinig slachtoffers – hoe kan dat?<br>14-12-18,
+      NOS.nl, Jouw ''gratis'' retourzending is niet zo gratis als je misschien denkt<br>12-01-19,
+      Volkskrant, moe je je jas binnen of buiten aan doen in de kou<br>21-06-19, NOS.nl,
+      Warm, warmer, warmst: dinsdag en woensdag flinke pieken in temperatuur<br>22-06-19,
+      Volkskrant, koude-front: hoe nuttig is een ventilator<br>23-06-19, NOS.nl, Hitteplan
+      in werking in groot deel van het land<br>25-06-19, Volkskrant.nl, Wat doet hitte
+      met ons lichaam, en met het sterftecijfer?<br>05-07-19, Radio Soest, effect
+      van hitte op de mens<br>01-07-19, Margriet, zo laten hete dagen je koud<br>27-07-19,
+      Volkskrant, het ene na het andere kind werd onwel<br>27-08-19, NRC.nl, agressie
+      in zwembaden<br>05-10-19, NRC, Wat gebeurde er met Mathieu van der Poel<br>14-12-19,
+      Avro Tros Radar radio 1, verwarmende kleding<br>26-03-20, AD, koud douchen<br>12-05-20,
+      RTL, Temperatuurmeting bij de ingang tegen corona - maar wat als je net moest
+      rennen?<br>15-05-20, Volkskrant, Stap je met koorts uit de kou, dan mist de
+      meter je alsnog<br>25-05-20, AD, Hittegolf extra gevaarlijk tijdens coronacrisis:
+      zwakkeren sneller in de problemen<br>23-06-20, BNR nieuwsradio, hitte<br>23-06-20,
+      RTL in het land, wat te doen tegen hitte<br>24-06-20, BNR Ask me anything, hitte<br>24-06-20,
+      De Morgen, hitte<br>24-06-20, Parool, Pandemie, hittegolven en thuiswerken:
+      hoe overleven we de zomer van 2020?<br>25-06-20, Nieuwsblad, de eerste hittegolf
+      is altijd de lastigste, maar waarom?<br>25-06-20, Radio 2 Belgie, hitte 08-07-20,
+      Nieuwsblad, hoeveel hitte kan een mens aan? 29-07-20, Telegraaf, Expert waarschuwt:
+      koortsmeters vaak onbetrouwbaar<br>05-08-20, BNR nieuwsradio, hitte<br>06-08-20,
+      Parool, Pandemie, hittegolven én thuiswerken: hoe overleven we de zomer van
+      2020?<br>06-08-20, NOS langs de lijn, hitte en sport<br>06-08-20, AD, Alle protocollen
+      uit de kast voor hittegolf die week gaat duren<br>12-08-20, Nieuwsblad, Ons
+      hart gaat extra pompen en we hebben minder honger: dit doet ons lichaam om af
+      te koelen<br>24-10-20, Kassa, Thermometrie<br>15-12-20, Nieuwblad, eens een
+      koukleum, altijd een koukleum?<br>22-12-20, Parool.nl, Hoe kouder je lichaam
+      is, hoe warmer de thee kan zijn om op te warmen</p>'
+- template: page
   link: personal
   title: Personal
   subpages:
