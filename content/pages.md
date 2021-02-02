@@ -35,8 +35,7 @@ pages:
       manager at the Orthopaedic Laboratory, State University Leiden</p></li><li><p>1990
       - 2016 Research Scientist, TNO</p></li><li><p>1992 - 1995 Research coordinator
       of the Workplace ergonomics group</p></li><li><p>1995 Collaborative research
-      at the <a href="http://www.toronto.drdc-rddc.gc.ca/home_e.html">Defence and
-      Civil Institute of Environmental Medicine</a> Toronto (Canada)</p></li><li><p>1996
+      at DRDC Toronto (<a href="https://en.wikipedia.org/wiki/DRDC_Toronto" title="https://en.wikipedia.org/wiki/DRDC_Toronto">https://en.wikipedia.org/wiki/DRDC_Toronto</a>)  (Canada)</p></li><li><p>1996
       Collaborative research at the Computerized Anthropometric Research Laboratories
       of Wright Patterson Air Force Base (OH, USA)</p></li><li><p>1998 - 2003 Research
       coordinator of the Thermal Physiology group; Acting head of the Dept. of Work
