@@ -1,7 +1,7 @@
 <template>
   <div>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <a class="navbar-brand" href="/">Hein Daanen</a>
+      <a  style="font-weight: 500" class="navbar-brand" href="/">Hein Daanen</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -26,12 +26,31 @@
         </ul>
       </div>
     </nav>
+    <div class="container" style="margin-top: 5vh">
+      <h1>{{ content.title }}</h1>
+      <div v-if="content.template === 'content'" v-html="content.content">
 
-    <div style="margin-top: 5vh" v-if="content.template === 'content'" class="container" v-html="content.content"></div>
+      </div>
+      <div class="mt-4" v-if="content.template === 'events-overview'">
 
-    <div v-if="content.template === 'events-overview'">
-      <h1>Events!</h1>
+        <ul class="nav nav-tabs" id="myTab" role="tablist">
+          <li v-for="(item, index) in content.content" class="nav-item" role="presentation">
+            <a :class="{'active' : index === 0}" class="nav-link" :id="item.year +'-tab'" data-bs-toggle="tab" :href="'#'+item.year" role="tab" :aria-controls="item.year" aria-selected="true">{{ item.year }}</a>
+          </li>
+        </ul>
+        <div class="tab-content" id="myTabContent">
+          <div :class="{'show' : index === 0, 'active' : index === 0}" v-for="(item,index) in content.content" class="tab-pane fade" :id="item.year" role="tabpanel" :aria-labelledby="item.year+'-tab'">
+            <div class="mt-4" v-html="item.events"></div>
+
+          </div>
+        </div>
+
+      </div>
+
     </div>
+
+
+
 
   </div>
 </template>
@@ -41,7 +60,6 @@ export default {
   async asyncData ({ $content, route }) {
     const pages = await $content('pages').fetch()
     const page_route = route.fullPath.substr(1).split('/')
-    document.title = page_route[1]
     let content = ''
     for(let i = 0; i < pages.pages.length; i++){
       if(pages.pages[i].title.toLowerCase() === page_route[0]){
@@ -57,9 +75,31 @@ export default {
       pages, content
     }
   },
+  mounted() {
+    var triggerTabList = [].slice.call(document.querySelectorAll('#myTab a'))
+    triggerTabList.forEach(function (triggerEl) {
+      var tabTrigger = new bootstrap.Tab(triggerEl)
+
+      triggerEl.addEventListener('click', function (event) {
+        event.preventDefault()
+        tabTrigger.show()
+      })
+    })
+    document.getElementsByTagName('h1').forEach(function (el){
+      el.innerHTML = el.innerHTML + '<hr>'
+    })
+  }
 }
 </script>
 
 <style scoped>
+
+li{
+  line-height: 1;
+}
+
+li p{
+  margin-bottom: 0!important;
+}
 
 </style>

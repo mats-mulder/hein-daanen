@@ -18,9 +18,6 @@ export default {
         src: 'https://code.jquery.com/jquery-3.2.1.slim.min.js'
       },
       {
-        src: 'https://cdnjs.cloudflare.com/ajax/libs/popper.j'
-      },
-      {
         src: 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js'
       }
     ]

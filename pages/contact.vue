@@ -1,7 +1,7 @@
 <template>
   <div>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <a class="navbar-brand" href="/" style="font-weight: 500">Hein Daanen</a>
+      <a  style="font-weight: 500" class="navbar-brand" href="/">Hein Daanen</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -27,8 +27,9 @@
       </div>
     </nav>
 
-    <div class="container mt-4 mb-5" v-html="homepage.content">
-
+    <div class="container mt-5 mb-5">
+      <h1>{{ homepage.title }}</h1>
+      <div class="mt-4" v-html="homepage.content"></div>
     </div>
   </div>
 
@@ -37,10 +38,10 @@
 <script>
 export default {
   head: {
-    title: 'Home',
+    title: 'Contact',
   },
   async asyncData ({ $content }) {
-    const homepage = await $content('home').fetch()
+    const homepage = await $content('contact').fetch()
     const pages = await $content('pages').fetch()
     return {
       homepage, pages
@@ -54,7 +55,6 @@ export default {
 }
 </script>
 
-<style>
-
+<style scoped>
 
 </style>
