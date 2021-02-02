@@ -12,11 +12,11 @@
           </li>
 
           <li v-for="page in pages.pages" class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" :id="page.title+'Dropdown'" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <a class="nav-link dropdown-toggle" href="#" :id="page.link+'Dropdown'" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               {{ page.title }}
             </a>
-            <div class="dropdown-menu" :aria-labelledby="page.title+'Dropdown'">
-              <nuxt-link v-for="subpage in page.subpages" class="dropdown-item" :to="'../'+page.title.toLowerCase() + '/' + subpage.title.toLowerCase()">{{ subpage.title }}</nuxt-link>
+            <div class="dropdown-menu" :aria-labelledby="page.link+'Dropdown'">
+              <nuxt-link v-for="subpage in page.subpages" class="dropdown-item" :to="'../'+page.link.toLowerCase() + '/' + subpage.link.toLowerCase()">{{ subpage.title }}</nuxt-link>
             </div>
           </li>
 
@@ -62,9 +62,9 @@ export default {
     const page_route = route.fullPath.substr(1).split('/')
     let content = ''
     for(let i = 0; i < pages.pages.length; i++){
-      if(pages.pages[i].title.toLowerCase() === page_route[0]){
+      if(pages.pages[i].link.toLowerCase() === page_route[0]){
         for(let j = 0; j < pages.pages[i].subpages.length; j++){
-          if(pages.pages[i].subpages[j].title.toLowerCase() === page_route[1]){
+          if(pages.pages[i].subpages[j].link.toLowerCase() === page_route[1]){
             content = pages.pages[i].subpages[j]
           }
         }
