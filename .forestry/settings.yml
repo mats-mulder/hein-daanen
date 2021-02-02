@@ -10,7 +10,6 @@ sections:
 - type: document
   path: content/pages
   label: Subpages
-  match: "**/*"
 - type: document
   path: content/contact.md
   label: Contact
