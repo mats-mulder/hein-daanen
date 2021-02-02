@@ -2204,8 +2204,8 @@ pages:
       Daanen</a> for any additional information.</p></blockquote><p></p>'
   - template: content
     title: Hobbies
-    content: <p>Hein loves to play basketball. He is a member of the <a href="http://www.pirates-soesterberg.nl/"
-      title="http://www.pirates-soesterberg.nl/">http://www.pirates-soesterberg.nl/</a></p>
+    content: <h5>Basketbal</h5><p>Hein loves to play basketball. He is a member of
+      the <a href="http://www.pirates-soesterberg.nl/" title="http://www.pirates-soesterberg.nl/">http://www.pirates-soesterberg.nl/</a></p>
     link: Hobbies
 
 ---
