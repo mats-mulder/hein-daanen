@@ -16,7 +16,7 @@
               {{ page.title }}
             </a>
             <div class="dropdown-menu" :aria-labelledby="page.title+'Dropdown'">
-              <nuxt-link v-for="subpage in page.subpages" class="dropdown-item" :to="page.title.toLowerCase() + '/' + subpage.title.toLowerCase()">{{ subpage.title }}</nuxt-link>
+              <nuxt-link v-for="subpage in page.subpages" class="dropdown-item" :to="'../'+page.title.toLowerCase() + '/' + subpage.title.toLowerCase()">{{ subpage.title }}</nuxt-link>
             </div>
           </li>
 
@@ -27,29 +27,39 @@
       </div>
     </nav>
 
-    <div class="container mt-5 mb-5">
-      <nuxt-content :document="homepage" />
-    </div>
-  </div>
+    <div style="margin-top: 5vh" v-if="content.template === 'content'" class="container" v-html="content.content"></div>
 
+    <div v-if="content.template === 'events-overview'">
+      <h1>Events!</h1>
+    </div>
+
+  </div>
 </template>
 
 <script>
 export default {
-  head: {
-    title: 'Home',
-  },
-  async asyncData ({ $content }) {
-    const homepage = await $content('home').fetch()
+  async asyncData ({ $content, route }) {
     const pages = await $content('pages').fetch()
-    return {
-      homepage, pages
+    const page_route = route.fullPath.substr(1).split('/')
+    document.title = page_route[1]
+    let content = ''
+    for(let i = 0; i < pages.pages.length; i++){
+      if(pages.pages[i].title.toLowerCase() === page_route[0]){
+        for(let j = 0; j < pages.pages[i].subpages.length; j++){
+          if(pages.pages[i].subpages[j].title.toLowerCase() === page_route[1]){
+            content = pages.pages[i].subpages[j]
+          }
+        }
+      }
     }
-  }
+
+    return {
+      pages, content
+    }
+  },
 }
 </script>
 
-<style>
-
+<style scoped>
 
 </style>
