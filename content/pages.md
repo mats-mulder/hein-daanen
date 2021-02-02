@@ -86,6 +86,7 @@ pages:
       and thermal balance. Poster, Human Movement Symposium, Groningen, The Netherlands.
       Award for best post</p></li></ul>'
     file: ''
+    link: cv
   - template: events-overview
     title: Publications
     content:
@@ -1458,6 +1459,7 @@ pages:
     - year: '1984'
       events: "<ul><li><p>Daanen, H.A.M. CARA en inspanning (<em>Cara and exercise</em>).
         Thomas 3: 99 - 103, 1984.</p></li></ul>"
+    link: publications
   - template: content
     title: 'Summary of the PhD thesis of Hein Daanen:'
     content: "<h2>Central and peripheral control of finger blood flow in the cold</h2><h3>Available
@@ -1492,12 +1494,15 @@ pages:
       to evoke an axon-reflex in a cold hand. This makes another hypothesis more likely
       that states that a paralysis of the muscle wall of the AVA occurs in the cold.</p>"
     file: ''
+    link: phd-thesis
   - template: content
     title: Inauguration Prof. Thermal Physiology
     content: <h2>Warm aanbevolen (in Dutch)</h2><h3>Speech held at the <em>Vrije </em>Universiteit
       of Amsterdam, february 27 2004</h3><p>The file can be downloaded hereL</p><p><a
       href="images/inaug.pdf" title="inaug.pdf">inaug.pdf</a></p>
     file: ''
+    link: inauguration-thermal
+  link: academic
 
 ---
 Content!!!
