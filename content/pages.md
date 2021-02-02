@@ -2186,12 +2186,10 @@ pages:
   - template: content
     link: family
     title: Family of Hein Daanen
-    content: '<blockquote><p>Hein Daanen is married to Elly Rentes March 3th in 1991.<br>Two
-      children are born: Paul and Emma.<br>As a hobby Hein started to make an inventory
-      of the family members, helped by several others. Now a database is constructed
-      of over 2000 family members. The database is processed with the program Family
-      Tree Maker. It is also available in Gedcom format.<br>The Daanen family is available
-      on this website: <a href="../images/daanen.pdf" title="daanen.pdf">daanen.pdf</a>.
+    content: '<blockquote><p>Hein Daanen is married to Elly Rentes and has 2 children.</p><p>As
+      a hobby Hein started to make an inventory of the family members, helped by several
+      others. Now a database is constructed of over 2000 family members. <br>The Daanen
+      family is available on this website: <a href="../images/daanen.pdf" title="daanen.pdf">daanen.pdf</a>.
       <em>André van Eck</em> is acknowledged for his contribution. The Daanen family
       comes from Beuningen in the province of Gelderland.<br>The mother of Hein is
       Joke <strong>Savelkouls</strong>. Thanks to <em>Frans Savelkouls</em> in Oisterwijk,
