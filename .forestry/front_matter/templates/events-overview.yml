@@ -30,5 +30,3 @@ fields:
     max: 
     labelField: year
   label: Content
-pages:
-- content/media/lectures.md
