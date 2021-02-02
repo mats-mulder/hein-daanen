@@ -70,11 +70,16 @@ export default {
         }
       }
     }
-
     return {
       pages, content
     }
   },
+  head() {
+    return {
+      title: this.content.title + ' - Hein Daanen'
+    }
+  },
+
   mounted() {
     var triggerTabList = [].slice.call(document.querySelectorAll('#myTab a'))
     triggerTabList.forEach(function (triggerEl) {
@@ -88,6 +93,7 @@ export default {
     document.getElementsByTagName('h1').forEach(function (el){
       el.innerHTML = el.innerHTML + '<hr>'
     })
+
   }
 }
 </script>

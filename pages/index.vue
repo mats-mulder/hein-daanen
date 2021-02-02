@@ -37,7 +37,7 @@
 <script>
 export default {
   head: {
-    title: 'Home',
+    title: 'Home- Hein Daanen',
   },
   async asyncData ({ $content }) {
     const homepage = await $content('home').fetch()
