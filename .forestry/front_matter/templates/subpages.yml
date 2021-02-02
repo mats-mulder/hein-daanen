@@ -7,3 +7,5 @@ fields:
   config: {}
   template: page
   label: Pages
+pages:
+- content/pages.md
