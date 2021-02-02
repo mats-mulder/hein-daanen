@@ -17,3 +17,7 @@ fields:
     schema:
       format: html-blocks
   label: Content
+- name: test
+  type: tag_list
+  default: []
+  label: test
