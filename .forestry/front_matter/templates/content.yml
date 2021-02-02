@@ -17,8 +17,3 @@ fields:
     schema:
       format: html-blocks
   label: Content
-- name: file
-  type: file
-  config:
-    maxSize: 64
-  label: File

@@ -1495,7 +1495,8 @@ pages:
   - template: content
     title: Inauguration Prof. Thermal Physiology
     content: <h2>Warm aanbevolen (in Dutch)</h2><h3>Speech held at the <em>Vrije </em>Universiteit
-      of Amsterdam, february 27 2004</h3><p><a href="images/inaug.pdf" title="inaug.pdf">inaug.pdf</a></p>
+      of Amsterdam, february 27 2004</h3><p>The file can be downloaded hereL</p><p><a
+      href="images/inaug.pdf" title="inaug.pdf">inaug.pdf</a></p>
     file: ''
 
 ---
