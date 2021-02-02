@@ -2202,6 +2202,11 @@ pages:
       of Elly) originate from Katwijk a/d Zee, a fishermans town at the West coast.<br><br>Additional
       data on the Daanen family are greatly appreciated. Please contact <a href="mailto:daanen@ziggo.nl">Hein
       Daanen</a> for any additional information.</p></blockquote><p></p>'
+  - template: content
+    title: Hobbies
+    content: <p>Hein loves to play basketball. He is a member of the <a href="http://www.pirates-soesterberg.nl/"
+      title="http://www.pirates-soesterberg.nl/">http://www.pirates-soesterberg.nl/</a></p>
+    link: Hobbies
 
 ---
 Content!!!
