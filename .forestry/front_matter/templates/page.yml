@@ -9,5 +9,6 @@ fields:
     required: true
   label: Page Title
 pages:
+- content/academic/test.md
 - content/home.md
 - content/personal/family.md
