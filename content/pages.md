@@ -1,5 +1,5 @@
 ---
-title: tr
+title: hoi
 pages:
 - template: page
   title: Academic
