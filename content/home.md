@@ -1,5 +1,6 @@
 ---
 page_title: Home
+title: Home
 
 ---
 # Prof. Dr. H.A.M. Daanen
