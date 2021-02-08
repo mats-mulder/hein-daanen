@@ -1505,7 +1505,7 @@ pages:
   - template: content
     link: Inauguration-fashion
     title: Inauguration Prof. Fashion Research & Technology
-    content: <p>The file can be downloaded here:</p><p><a href="images/lectrede.pdf"
+    content: <p>The file can be downloaded here:</p><p><a href="/images/lectrede.pdf"
       title="lectrede.pdf">lectrede.pdf</a></p>
   link: academic
 - template: page
