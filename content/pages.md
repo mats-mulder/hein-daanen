@@ -2179,7 +2179,7 @@ pages:
       te koelen<br>24-10-20, Kassa, Thermometrie<br>15-12-20, Nieuwblad, eens een
       koukleum, altijd een koukleum?<br>22-12-20, Parool.nl, Hoe kouder je lichaam
       is, hoe warmer de thee kan zijn om op te warmen</p><p>06-02-21, NRC, het ritme
-      van koude vingers</p>'
+      van koude vingers</p><p>08-02-21, Radio 1 België, oversterfte door koude</p>'
 - template: page
   link: personal
   title: Personal
