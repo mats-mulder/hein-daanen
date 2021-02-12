@@ -1994,192 +1994,203 @@ pages:
   - template: content
     link: media
     title: Media
-    content: '<p>17-11-88, Veronica TV: Fitrace, Werking van de spieren<br>26-07-89,
-      Volkskrant, Snelwandelen onzichtbaar voor blote oog<br>06-02-91, NRC, "Gedrag
-      is enig wapen van lichaam tegen kou"<br>07-02-91, EO-Tijdsein TV, Onderzoek
-      naar kou<br>07-02-91, NOS-Aktueel TV, Uitleg koude-invloed bij finish elfstedentocht<br>09-02-91,
-      Tineke TV, Wat doet men tegen kou<br>11-02-91, NCRV Radio: G. van Brakel, De
-      invloed van kou op de mens<br>14-02-91, KRO-radio, "Gezondheid - een zorg"<br>09-05-91,
-      NCRV-radio, Extremen: warmte en kou<br>31-12-91, Haagse Courant, "Goede conditie
-      helpt bij weerbaarheid tegen kou"<br>05-01-92, TNO-jaarjournaal, Stuk uit EO-tijdsein<br>16-01-92,
-      KRO-radio, Kou en gezondheid<br>27-09-93, Autoweek, Benzineverbruik auto''s<br>22-10-93,
-      Intermediair, Uitglijden bij Tineke<br>30-10-93, Gelders Dagblad, Triathlon:
-      Pas op voor ''afterdrop'' in eerste fietskm<br>24-11-93, NOS Vroeg op 5 Radio,
-      Effect van kou op de mens<br>15-02-94, Reformatorisch Db, Aangenaam, mits gekleed
-      in wollen ondergoed<br>18-07-95, Technische Revue, TNO-TM weet veel van werkplekinrichting<br>04-02-96,
-      NCRV TV, Zinderen, een programma over zintuigen<br>04-01-97, 2 Vandaag, Kou
-      tijdens de elfstedentocht<br>29-01-97, Amersfoortse Courant, Tot op de millimeter<br>29-01-97,
-      Gooi en Eemlander, TNO levert maatwerk ..<br>31-01-97, Leeuwarder Courant, Bodyscanner
-      levert maatwerk..<br>31-01-97, Algemeen Dagblad, Pictogram in plaats van confectiemaat<br>04-02-97,
-      NOS TV Jeugdjournaal, Lichaamsscanning<br>04-02-97, NOS TV Journaal, Lichaamsscanning<br>05-02-97,
-      Talk radio, Lichaamsscanning<br>12-07-97, Volkskrant, Lasterstralen nemen het
-      volk de maat<br>27-10-97, Radar (TROS TV), Oorthermometer<br>01-11-97, Business,
-      De Werkplek<br>15-11-97, Parool, De lange mens<br>11-07-98, Leeuwarder Courant,
-      Nederlander de maat genomen<br>25-07-98, Utrechts Nieuwsblad, Digitaal de kledingmaat
-      opnemen<br>26-07-98, Uniform-magazine, Bodyscan-eindelijk de juiste maat<br>10-09-98,
-      Haagse Courant, De high-tech kleermaker komt er aan<br>11-09-98, Rotterdams
-      Dagblad, De high-tech kleermaker komt er aan<br>11-09-98, Ultimate Kick (KRO
-      TV), Lichaamsmaten<br>14-09-98, Limburgs dagblad, Lichaamsscan levert maatwerk<br>16-09-98,
-      Dagblad van Almere, De high-tech kleermaker komt er aan<br>22-09-98, Limburgs
-      dagblad, Niets ontsnapt aan lichaamsscan<br>24-09-98, Facts (Zwitserland), Das
-      Mass alle Dinge<br>01-11-98, Contec Nieuws, Batman returns (over lichaamsscanning)<br>22-12-98,
-      Konrad (Duitsland), Lichaamsmaten<br>07-01-99, TROS Radar op 5 (radio), Lichaamsmaten<br>13-01-99,
-      Stern TV (RTL+), Lichaamsscanning<br>16-01-99, FEM De Week03, Hollandse lijven
-      in kaart gebracht<br>18-01-99, SAT1 TV, Lichaamsmaten<br>24-02-99, Klokhuis,
-      Lichaamsmaten<br>01-04-99, Kijk, Onderkoeling, verdrinking en dood<br>04-08-99,
-      Nederlands Dagblad, Hitte en prestatie<br>01-07-99, Fiets, Barstende koppijn
-      of een barst in je kop<br>04-08-99, Nederlands Dagblad, Warmte zorgt in het
-      verkeer voor verhitte gemoederen<br>12-04-00, KRO ontbijt TV, NedScan<br>01-07-00,
-      Contec update 3, TNO legt database aan van lichaamsmaten<br>01-04-01, Doorkijk
-      42(2): 16, Maatkleding voor Iedereen door T. Epping<br>26-06-01, NRC, Maat 88
-      wordt normaal<br>27-06-01, NRC, Te lang, te kort, te wijd of te krap<br>28-06-01,
-      Nederlands Dagblad, Mag het een maatje meer zijn?<br>19-12-01, Klokhuis, Nieuw
-      textiel<br>01-01-02, Arbouw Pijlers, Goed kleden is ''simpel eigenlijk''<br>05-01-02,
-      NRC, Bloedvatspel<br>18-01-02, Groninger Dagblad, Ondershirt kan thuisblijven<br>01-02-02,
-      TNO-Magazine, Kledingmaattabellen<br>30-09-02, Radio Nederland Wereldomroep,
-      hitte en kou<br>01-11-02, Contec Nieuws, Kleding op maat<br>03-12-02, Regionale
-      omroep Arnhem, Ergonomie<br>01-01-03, Plus Magazine, 8 vragen over warm blijven,
-      pag 58<br>01-01-03, Arbo, Arbodisciplines spelen in op veranderingen, pag 55<br>22-01-03,
-      AVRO Gezondheidsplein TV, Heat packs<br>25-01-03, Volkskrant, Ventilerende kleding
-      bij hitte essentieel<br>01-04-03, Twee vandaag, warmtebelasting in beschermende
-      kleding<br>17-04-03, RTL-4 TV, Meer auto-ongevallen door warmte<br>01-05-03,
-      HP/De Tijd, matrassen (pag. 96)<br>01-06-03, Hyponieuws, Rol van warmtebalans
-      (pag. 10)<br>01-07-03, KnipMode, Lengte van mannen (pag. 46)<br>29-11-03, Willem
-      Wever, Waarom zweten we?<br>01-12-03, Helemaal Thuis (Essent), Zo werkt uw interne
-      thermostaat<br>28-02-04, Trouw, Oorthermometer dikwijls niet betrouwbaar<br>28-02-04,
-      Algemeen Dagblad, Oorthermometers onbetrouwbaar<br>28-02-04, Amersfoortse Courant
-      en Utrechts Nieuwsblad, Oorthermometer niet betrouwbaar<br>15-05-04, Volkskrant,
-      Voorgekoelde fietser trapt langer door<br>22-05-04, Nieuwslijn (VARA), Pre-cooling<br>01-08-04,
-      Plus Magazine, 12 vragen over dorst, pag 84-85<br>03-12-04, BNN radio, Desertrun<br>21-12-04,
-      Eindhovens dagblad, Heeft maat M overal dezelfde afmeting?<br>03-02-05, Radio
-      M, koude<br>07-03-05, TV Amersfoort, Desertrun<br>07-07-05, Radio M, Koorts<br>01-12-05,
-      TNO Magazine, 3D technologie voor beschermingsmiddelen en gezichtsherkenning<br>01-12-05,
-      TNO Magazine, succesvolle kennisoverdracht Thermofysiologie<br>22-12-05, Teleac
-      Radio, Koudebeleving in zomer en winter<br>19-01-06, RTL-4 TV, Koudeproblematiek
-      in Moskou<br>06-04-06, De Morgen (Belgie), Kledingmaatvoering<br>01-05-06, Movemens,
-      Bewegingsonderzoek bij TNO<br>03-05-06, Test spots human frostbite susceptibility,
-      New Scientist<br>02-09-06, Telegraaf, Koudeletselonderzoek Ama Dablam<br>16-09-06,
-      Volkskrant, Koudeletselonderzoek Ama Dablam<br>01-10-06, Plus Magazine, drie
-      vragen over koude<br>24-11-06, Klokhuis, Zweten<br>07-12-06, Talpa TV, Man/Vrouw<br>08-02-07,
-      Women sized for comfort after 80 years, The Advertiser (AUS)<br>14-05-07, Trouw,
-      Wat is de ideale temperatuur van zwemwater<br>16-06-07, Volkskrant, Van zweten
-      wordt een mens niet misselijk<br>20-06-07, NRC, Stinkend naar de top<br>01-06-07,
-      Plus Magazine, het Plus gezondheid Vraag&amp;Antwoord boek<br>01-06-07, Snap
-      jij het, ik wel!, boek van TNO met kindervragen<br>04-10-07, NRC Next, Waar
-      halen mensen hun lichaamswarmte vandaan<br>05-10-07, Teleac Radio, Waar komen
-      de tintelingen vandaan als mensen sneeuw hebben aangeraakt<br>22-10-07, RTL-4
-      TV, Koude in Siberie<br>12-02-08, Transport&amp;Opslag, Eskimo''s gezocht<br>01-05-08,
-      Grip4, Hoe moet een onderkoelde patient worden behandeld?<br>01-06-08, Weer,
-      Temperatuur zegt niet alles over warmtebalans, pag 20-23<br>19-06-08, Ad Valvas,
-      Infraheet, pag 18<br>08-07-08, Radio 1, Hitte in Nederland eind 21e eeuw<br>11-12-08,
-      Hoezo Radio, Over koude<br>22-12-08, Een vandaag, commentaar bij portret van
-      Wim Hof<br>30-12-08, Trouw, koude<br>06-01-09, Radio 1, koude<br>06-01-09, Jeugdjournaal,
-      koude<br>13-01-09, Klokhuis, wakduiken<br>01-04-09, Jaarverslag KNMI, temperatuur
-      en gezondheid<br>14-05-09, HoeZo radio, effect van temperatuur op de mens<br>04-07-09,
-      Telegraaf, CO2 productie<br>04-07-09, Tros Nieuwsradio, hitte en agressie<br>16-09-09,
-      Teleac Radio, hoe zweten mensen<br>10-10-09, Eindhovens Dagblad, onderzoek Marathon
-      Eindhoven<br>21-12-09, Radio 1, koude<br>07-10-10, RTL Editie NL, koude en ouderen<br>08-01-10,
-      Telegraaf, Koude<br>08-01-10, Netwerk, Tips tegen koude<br>08-01-10, SBS6 Hart
-      van Nederland, koude<br>08-01-10, Algemeen Dagblad, koude<br>08-01-10, Radio
-      Nostalgia (B), koude<br>09-01-10, NRC next, koude<br>27-01-10, Omroep Gelderland,
-      koude<br>27-04-10, Algemeen Dagblad, lengte De Lange en De Korte<br>27-04-10,
-      RTV West, lengte De Lange en De Korte<br>27-04-10, Wereldomroep, lengte De Lange
-      en De Korte<br>27-04-10, Jeugdjournaal, lengte De Lange en De Korte<br>27-04-10,
-      RTV Noord, lengte De Lange en De Korte<br>27-04-10, Radio 538 (Humberto Tan),
-      lengte De Lange en De Korte<br>27-04-10, Radio 1 journaal, lengte De Lange en
-      De Korte<br>28-04-10, Dagblad Trouw, lengte De Lange en De Korte<br>28-04-10,
-      Radio 3 (Giel Beelen), lengte De Lange en De Korte<br>28-04-10, EO radio 5 Nostalgia,
-      lengte De Lange en De Korte<br>28-04-10, Simone FM, lengte De Lange en De Korte<br>15-05-10,
-      Volkskrant, te koud in Nederland<br>15-07-10, Teleac Kettingvraag, optimale
-      temperatuur van mens<br>20-07-10, Nederlands Dagblad, Verkoelende kleding voorkomt
-      ongevallen<br>20-07-10, Limburger, Niets doen tegen hitte is geen optie<br>20-07-10,
-      Telegraaf, Lopen in hitte ongevaarlijk maar onplezierig<br>21-07-10, Omroep
-      Gelderland.nl, Lopen in de hitte niet gevaarlijk<br>21-07-10, RTL4 nieuwsshow,
-      Koelsystemen tegen hitte<br>23-07-10, Leeuwarder courant, koelsystemen<br>30-10-10,
-      Quest, Waarom zweet je ook als je het koud hebt? (pag 93)<br>05-11-10, Volkskrant,
-      Niet elke Nederlander heeft een gezicht dat op het paspoort past<br>06-11-10,
-      Radio 1, paspoortfoto''s<br>02-12-10, Radio 1, koude in Nederland<br>29-04-11,
-      NRC-Next, hitte en agressie<br>12-07-11, Volkskrant, help wat is het heet in
-      de stad<br>09-11-11, NRC-Next, mag je een winterjas al in de herfst aan?<br>18-01-12,
-      BNN Proefkonijnen, heeft het zin om zweet te drinken?<br>01-02-12, RTL in het
-      land, koude<br>01-02-12, SBS Hart van Nederland, koude<br>03-02-12, Klokhuis,
-      wakduiken<br>03-02-12, Pauw en Witteman, koude<br>17-02-12, Telegraaf, aandoeningen
-      door lawines<br>21-05-12, Wekker Wakker Radio5, wie kan goed tegen hitte?<br>02-06-12,
-      NRC-Next, Ajax-Twente en warmte<br>01-09-12, Textielbeheer, een ander kijk in
-      de toekomst<br>10-10-12, Hoezo Radio, onderkoeling<br>01-10-12, Radio 1, is
-      wintersport gezond?<br>01-12-12, Klokhuis, wakduiken - gekozen in Top10 van
-      25 jaar Klokhuis<br>20-07-13, NRC-Next, warmte<br>22-07-13, RTL editie NL, warmte<br>22-07-13,
-      Een vandaag, hitte<br>23-07-13, Eindhovens dagblad e.a., Eigenlijk zijn we allemaal
-      onbehaarde tropische dieren<br>03-08-13, Knooppunt Kranenborg Radio 2, hitte<br>12-12-13,
-      Algemeen Dagblad, Kouderecord: -93,2°C<br>14-12-13, NRC-next, maatvoering vrouwenkleding<br>18-12-13,
-      AdValvas, Bevangen door de poolkoorts<br>13-01-14, AD, koude<br>16-01-14, Parool,
-      mode<br>20-01-14, Volkskrant, Koud tot op het bot<br>19-04-14, NRC-next, klimaat
-      Brazilie niet gunstig voor voetbal<br>22-04-14, Volkskrant, Bestaan koukleumen
-      (en mensen die het altijd warm hebben)?<br>04-06-14, NRCq, Waarom je niet in
-      deze broek past (en waarom dat niet jouw schuld is)<br>07-06-14, NOS Journaal,
-      nieuwe kinderkledingmaten<br>07-06-14, Algemeen dagblad, nieuwe kinderkledingmaten<br>08-14-14,
-      MAX-TV lekker weertje, koudeblootstelling<br>08-12-14, RTL in het land, kou
-      naar gasstoring<br>10-07-14, BNR nieuwsradio, 3D pashokje<br>11-11-14, Omroep
-      West website, straks minder koud als je nu de trui uitstelt<br>12-09-14, AD,
-      slimme kleding heeft de toekomst<br>12-15-14, BNR nieuwsradio, slimme kleding<br>01-01-15,
-      Radio West, nieuwjaarsduik<br>18-01-15, Radio 2, Jas binnen aantrekken<br>24-01-15,
-      NRC, Ijszwemmen<br>09-03-15, Volkskrant, zweten<br>17-03-15, NRC-Next, Nooit
-      meer een pashokje in<br>18-03-15, NRC, Nooit meer een pashokje in<br>27-03-15,
-      NOS.nl, Hitte formule1 Maleisie<br>29-05-15, Ijzeren Eeuw, arbeidsomstandigheden
-      in textielindustrie<br>05-06-15, Volkskrant.nl, oversterfte hitte India<br>30-06-15,
-      BNR nieuwsradio, kleding<br>01-07-15, AD, hitte<br>02-07-15, Een Vandaag, hitte<br>03-07-15,
-      Volkskrant, gevoelstemperatuur<br>04-07-15, Parool, hitte<br>04-07-15, Radio1,
-      hitte en drinken<br>04-07-15, NOS journaal, hitte en drinken<br>18-07-15, Volkskrant,
-      zweten en vochtverlies<br>30-01-16, RTL4 nieuws, ijszwemmen<br>21-03-16, Bright
-      TV, RTL-Z, kleding op maat<br>31-03-16, De kennis van nu, precooling<br>22-06-16,
-      Radio 1, cryotherapie<br>04-07-16, Volkskrant, koelende kleding<br>20-07-16,
-      Radio 1, hitte in Nederland<br>20-07-16, Radio 5, hitte in Nederland<br>21-07-16,
-      Radio NoordHolland, hitte in Nederland<br>21-07-16, Telegraaf, hitte in Nederland<br>26-07-16,
-      Radio 1, hitte in Rio<br>23-08-16, Omroep max, hitte in Nederland<br>01-09-16,
-      Quest, Sterven aan oververhitting, pag. 94<br>17-01-17, Radio 1, koude<br>27-01-17,
-      AD en locale kranten, cryotherapie<br>30-01-17, Volkskrant, warmt een kop hete
-      chocolademelk ons weer lekker op?<br>02-05-17, De Standaard, waarom is onze
-      lichaamstemperatuur 36,8°C<br>21-06-17, RTL late night, hitte en airco<br>22-06-17,
-      Radio 5-Metro-Laatste Nieuws-Parool-Trouw-NH radio-Kijk-Dagblad Noorden, hitte<br>22-06-17,
-      Women''s health, hitte<br>02-07-17, Metro, zo reageert lichaam op hitte<br>03-08-17,
-      BNR nieuwsradio, Hitte in India<br>01-09-17, Volkskrant, pasvorm kleding<br>30-09-17,
-      NRC, hitte formule1<br>09-12-17, Volkskrant, warme baden<br>18-12-17, De Standaard,
-      koude<br>04-05-18, Parool, Sporters bereiden zich op de VU voor op hitte Tokio<br>24-05-18,
-      RTL Editie NL, Zweet je naar goud<br>26-05-18, Limburger, hitte<br>31-05-18,
-      Margriet, hitte<br>14-07-18, Volkskrant, kippevel<br>23-07-18, Met het ook op
-      morgen, Hitte<br>24-07-18, Volkskrant, Hoe het lichaam de hitte te lijf gaat<br>25-07-18,
-      Volkskrant, Wat je wel (en niet) moet drinken in de hitte<br>26-07-18, BNN radio
-      2, hitte<br>26-07-18, Een vandaag, hitte<br>27-07-18, NOS.nl, Met een glas schaafijs
-      ga je de hitte echt goed te lijf<br>07-08-18, Radio 1 vandaag, hitte<br>17-08-18,
-      Volkskrant, Hittegolf eist relatief weinig slachtoffers – hoe kan dat?<br>14-12-18,
-      NOS.nl, Jouw ''gratis'' retourzending is niet zo gratis als je misschien denkt<br>12-01-19,
-      Volkskrant, moe je je jas binnen of buiten aan doen in de kou<br>21-06-19, NOS.nl,
-      Warm, warmer, warmst: dinsdag en woensdag flinke pieken in temperatuur<br>22-06-19,
-      Volkskrant, koude-front: hoe nuttig is een ventilator<br>23-06-19, NOS.nl, Hitteplan
-      in werking in groot deel van het land<br>25-06-19, Volkskrant.nl, Wat doet hitte
-      met ons lichaam, en met het sterftecijfer?<br>05-07-19, Radio Soest, effect
-      van hitte op de mens<br>01-07-19, Margriet, zo laten hete dagen je koud<br>27-07-19,
-      Volkskrant, het ene na het andere kind werd onwel<br>27-08-19, NRC.nl, agressie
-      in zwembaden<br>05-10-19, NRC, Wat gebeurde er met Mathieu van der Poel<br>14-12-19,
-      Avro Tros Radar radio 1, verwarmende kleding<br>26-03-20, AD, koud douchen<br>12-05-20,
-      RTL, Temperatuurmeting bij de ingang tegen corona - maar wat als je net moest
-      rennen?<br>15-05-20, Volkskrant, Stap je met koorts uit de kou, dan mist de
-      meter je alsnog<br>25-05-20, AD, Hittegolf extra gevaarlijk tijdens coronacrisis:
-      zwakkeren sneller in de problemen<br>23-06-20, BNR nieuwsradio, hitte<br>23-06-20,
-      RTL in het land, wat te doen tegen hitte<br>24-06-20, BNR Ask me anything, hitte<br>24-06-20,
-      De Morgen, hitte<br>24-06-20, Parool, Pandemie, hittegolven en thuiswerken:
-      hoe overleven we de zomer van 2020?<br>25-06-20, Nieuwsblad, de eerste hittegolf
-      is altijd de lastigste, maar waarom?<br>25-06-20, Radio 2 Belgie, hitte 08-07-20,
-      Nieuwsblad, hoeveel hitte kan een mens aan? 29-07-20, Telegraaf, Expert waarschuwt:
-      koortsmeters vaak onbetrouwbaar<br>05-08-20, BNR nieuwsradio, hitte<br>06-08-20,
-      Parool, Pandemie, hittegolven én thuiswerken: hoe overleven we de zomer van
-      2020?<br>06-08-20, NOS langs de lijn, hitte en sport<br>06-08-20, AD, Alle protocollen
-      uit de kast voor hittegolf die week gaat duren<br>12-08-20, Nieuwsblad, Ons
-      hart gaat extra pompen en we hebben minder honger: dit doet ons lichaam om af
-      te koelen<br>24-10-20, Kassa, Thermometrie<br>15-12-20, Nieuwblad, eens een
-      koukleum, altijd een koukleum?<br>22-12-20, Parool.nl, Hoe kouder je lichaam
-      is, hoe warmer de thee kan zijn om op te warmen</p><p>06-02-21, NRC, het ritme
-      van koude vingers</p><p>08-02-21, Radio 1 België, oversterfte door koude</p>'
+    content: "<p>8-2-2021; Radio 1 België; oversterfte door koude</p><p>6-2-2021;
+      NRC; het ritme van koude vingers</p><p>22-12-2020; Parool.nl; Hoe kouder je
+      lichaam is hoe warmer de thee kan zijn om op te warmen</p><p>15-12-2020; Nieuwblad;
+      eens een koukleum, altijd een koukleum?</p><p>24-10-2020; Kassa; Thermometrie</p><p>12-8-2020;
+      Nieuwsblad; Ons hart gaat extra pompen en we hebben minder honger: dit doet
+      ons lichaam om af te koelen</p><p>6-8-2020; Parool; Pandemie, hittegolven én
+      thuiswerken: hoe overleven we de zomer van 2020?</p><p>6-8-2020; NOS langs de
+      lijn; hitte en sport</p><p>6-8-2020; AD; Alle protocollen uit de kast voor hittegolf
+      die week gaat duren</p><p>5-8-2020; BNR nieuwsradio; hitte</p><p>29-7-2020;
+      Telegraaf; Expert waarschuwt: koortsmeters vaak onbetrouwbaar</p><p>8-7-2020;
+      Nieuwsblad; hoeveel hitte kan een mens aan?</p><p>25-6-2020; Nieuwsblad; de
+      eerste hittegolf is altijd de lastigste, maar waarom?</p><p>25-6-2020; Radio
+      2 Belgie; hitte</p><p>24-6-2020; BNR Ask me anything; hitte</p><p>24-6-2020;
+      De Morgen; hitte</p><p>24-6-2020; Parool; Pandemie, hittegolven én thuiswerken:
+      hoe overleven we de zomer van 2020?</p><p>23-6-2020; BNR nieuwsradio; hitte</p><p>23-6-2020;
+      RTL in het land; wat te doen tegen hitte</p><p>25-5-2020; AD; Hittegolf extra
+      gevaarlijk tijdens coronacrisis: zwakkeren sneller in de problemen</p><p>15-5-2020;
+      Volkskrant; Stap je met koorts uit de kou, dan mist de meter je alsnog</p><p>12-5-2020;
+      RTL; Temperatuurmeting bij de ingang tegen corona - maar wat als je net moest
+      rennen?</p><p>26-3-2020; AD; koud douchen</p><p>14-12-2019; Avro Tros Radar
+      radio 1; verwarmende kleding</p><p>5-10-2019; NRC; Wat gebeurde er met Mathieu
+      van der Poel</p><p>27-8-2019; NRC.nl; agressie in zwembaden</p><p>27-7-2019;
+      Volkskrant; het ene na het andere kind werd onwel</p><p>5-7-2019; Radio Soest;
+      effect van hitte op de mens</p><p>1-7-2019; Margriet; zo laten hete dagen je
+      koud</p><p>25-6-2019; Volkskrant.nl; Wat doet hitte met ons lichaam  en met
+      het sterftecijfer?</p><p>23-6-2019; NOS.nl; Hitteplan in werking in groot deel
+      van het land</p><p>22-6-2019; Volkskrant; koude-front: hoe nuttig is een ventilator</p><p>21-6-2019;
+      NOS.nl; Warm, warmer,  warmst: dinsdag en woensdag flinke pieken in temperatuur</p><p>12-1-2019;
+      Volkskrant; moe je je jas binnen of buiten aan doen in de kou</p><p>14-12-2018;
+      NOS.nl; Jouw 'gratis' retourzending is niet zo gratis als je misschien denkt</p><p>17-8-2018;
+      Volkskrant; Hittegolf eist relatief weinig slachtoffers – hoe kan dat?</p><p>7-8-2018;
+      Radio 1 vandaag; hitte</p><p>27-7-2018; NOS.nl; Met een glas schaafijs ga je
+      de hitte echt goed te lijf</p><p>26-7-2018; BNN radio 2; hitte</p><p>26-7-2018;
+      Een vandaag; hitte</p><p>25-7-2018; Volkskrant; Wat je wel (en niet) moet drinken
+      in de hitte</p><p>24-7-2018; Volkskrant; Hoe het lichaam de hitte te lijf gaat</p><p>23-7-2018;
+      Met het ook op morgen; Hitte</p><p>14-7-2018; Volkskrant; kippevel</p><p>31-5-2018;
+      Margriet; hitte</p><p>26-5-2018; Limburger; hitte</p><p>24-5-2018; RTL Editie
+      NL; Zweet je naar goud</p><p>4-5-2018; Parool; Sporters bereiden zich op de
+      VU voor op hitte Tokio</p><p>18-12-2017; De Standaard; koude</p><p>9-12-2017;
+      Volkskrant; warme baden</p><p>30-9-2017; NRC; hitte formule1</p><p>1-9-2017;
+      Volkskrant; pasvorm kleding</p><p>3-8-2017; BNR nieuwsradio; Hitte in India</p><p>2-7-2017;
+      Metro; zo reageert lichaam op hitte</p><p>22-6-2017; Radio 5-Metro-Laatste Nieuws-Parool-Trouw-NH
+      radio-Kijk-Dagblad Noorden; hitte</p><p>22-6-2017; Women's health; hitte</p><p>21-6-2017;
+      RTL late night; hitte en airco</p><p>2-5-2017; De Standaard; waarom is onze
+      lichaamstemperatuur 36,8°C</p><p>30-1-2017; Volkskrant; warmt een kop hete chocolademelk
+      ons weer lekker op?</p><p>27-1-2017; AD en locale kranten; cryotherapie</p><p>17-1-2017;
+      Radio 1; koude</p><p>1-9-2016; Quest; Sterven aan oververhitting</p><p>23-8-2016;
+      Omroep max; hitte in Nederland</p><p>26-7-2016; Radio 1; hitte in Rio</p><p>21-7-2016;
+      Radio NoordHolland; hitte in Nederland</p><p>21-7-2016; Telegraaf; hitte in
+      Nederland</p><p>20-7-2016; Radio 1; hitte in Nederland</p><p>20-7-2016; Radio
+      5; hitte in Nederland</p><p>4-7-2016; Volkskrant; koelende kleding</p><p>22-6-2016;
+      Radio 1; cryotherapie</p><p>31-3-2016; De kennis van nu; precooling</p><p>21-3-2016;
+      Bright TV, RTL-Z; kleding op maat</p><p>30-1-2016; RTL4 nieuws; ijszwemmen</p><p>18-7-2015;
+      Volkskrant; zweten en vochtverlies</p><p>4-7-2015; Parool; hitte</p><p>4-7-2015;
+      Radio1; hitte en drinken</p><p>4-7-2015; NOS journaal; hitte en drinken</p><p>3-7-2015;
+      Volkskrant; gevoelstemperatuur</p><p>2-7-2015; Een Vandaag; hitte</p><p>1-7-2015;
+      AD; hitte</p><p>30-6-2015; BNR nieuwsradio; kleding</p><p>5-6-2015; Volkskrant.nl;
+      oversterfte hitte India</p><p>29-5-2015; Ijzeren Eeuw; arbeidsomstandigheden
+      in textielindustrie</p><p>27-3-2015; NOS.nl; Hitte formule1 Maleisie</p><p>18-3-2015;
+      NRC; Nooit meer een pashokje in</p><p>17-3-2015; NRC-Next; Nooit meer een pashokje
+      in</p><p>9-3-2015; Volkskrant; zweten</p><p>24-1-2015; NRC; Ijszwemmen</p><p>18-1-2015;
+      Radio 2; Jas binnen aantrekken</p><p>1-1-2015; Radio West; nieuwjaarsduik</p><p>15-12-2014;
+      BNR nieuwsradio; slimme kleding</p><p>8-12-2014; RTL in het land; kou naar gasstoring</p><p>11-11-2014;
+      Omroep West website; straks minder koud als je nu de trui uitstelt</p><p>12-9-2014;
+      AD; slimme kleding heeft de toekomst</p><p>14-8-2014; MAX-TV lekker weertje;
+      koudeblootstelling</p><p>10-7-2014; BNR nieuwsradio; 3D pashokje</p><p>7-6-2014;
+      NOS Journaal; nieuwe kinderkledingmaten</p><p>7-6-2014; Algemeen dagblad; nieuwe
+      kinderkledingmaten</p><p>4-6-2014; NRCq; Waarom je niet in deze broek past (en
+      waarom dat niet jouw schuld is)</p><p>22-4-2014; Volkskrant; Bestaan koukleumen
+      (en mensen die het altijd warm hebben)?</p><p>19-4-2014; NRC-next; klimaat Brazilie
+      niet gunstig voor voetbal</p><p>20-1-2014; Volkskrant; Koud tot op het bot</p><p>16-1-2014;
+      Parool; mode</p><p>13-1-2014; AD; koude</p><p>18-12-2013; AdValvas; Bevangen
+      door de poolkoorts</p><p>14-12-2013; NRC-next; maatvoering vrouwenkleding</p><p>12-12-2013;
+      Algemeen Dagblad; Kouderecord: -93,2°C</p><p>3-8-2013; Knooppunt Kranenborg
+      Radio 2; hitte</p><p>23-7-2013; Eindhovens dagblad e.a.; Eigenlijk zijn we allemaal
+      onbehaarde tropische dieren</p><p>22-7-2013; RTL editie NL; warmte</p><p>22-7-2013;
+      Een vandaag; hitte</p><p>20-7-2013; NRC-Next; warmte</p><p>1-12-2012; Klokhuis;
+      wakduiken - gekozen in Top10 van 25 jaar Klokhuis</p><p>10-10-2012; Hoezo Radio;
+      onderkoeling</p><p>1-10-2012; Radio 1; is wintersport gezond?</p><p>1-9-2012;
+      Textielbeheer; een ander kijk in de toekomst</p><p>2-6-2012; NRC-Next; Ajax-Twente
+      en warmte</p><p>21-5-2012; Wekker Wakker Radio5; wie kan goed tegen hitte?</p><p>17-2-2012;
+      Telegraaf; aandoeningen door lawines</p><p>3-2-2012; Klokhuis; wakduiken</p><p>3-2-2012;
+      Pauw en Witteman; koude</p><p>1-2-2012; RTL in het land; koude</p><p>1-2-2012;
+      SBS Hart van Nederland; koude</p><p>18-1-2012; BNN Proefkonijnen; heeft het
+      zin om zweet te drinken?</p><p>9-11-2011; NRC-Next; mag je een winterjas al
+      in de herfst aan?</p><p>12-7-2011; Volkskrant; help wat is het heet in de stad</p><p>29-4-2011;
+      NRC-Next; hitte en agressie</p><p>2-12-2010; Radio 1; koude in Nederland</p><p>6-11-2010;
+      Radio 1; paspoortfoto's</p><p>5-11-2010; Volkskrant; Niet elke Nederlander heeft
+      een gezicht dat op het paspoort past</p><p>30-10-2010; Quest; Waarom zweet je
+      ook als je het koud hebt? (pag 93)</p><p>7-10-2010; RTL Editie NL; koude en
+      ouderen</p><p>23-7-2010; Leeuwarder courant; koelsystemen</p><p>21-7-2010; Omroep
+      Gelderland.nl; Lopen in de hitte niet gevaarlijk</p><p>21-7-2010; RTL4 nieuwsshow;
+      Koelsystemen tegen hitte</p><p>20-7-2010; Nederlands Dagblad; Verkoelende kleding
+      voorkomt ongevallen</p><p>20-7-2010; Limburger; Niets doen tegen hitte is geen
+      optie</p><p>20-7-2010; Telegraaf; Lopen in hitte ongevaarlijk maar onplezierig</p><p>15-7-2010;
+      Teleac Kettingvraag; optimale temperatuur van mens</p><p>15-5-2010; Volkskrant;
+      te koud in Nederland</p><p>28-4-2010; Dagblad Trouw; lengte De Lange en De Korte</p><p>28-4-2010;
+      Radio 3 (Giel Beelen); lengte De Lange en De Korte</p><p>28-4-2010; EO radio
+      5 Nostalgia; lengte De Lange en De Korte</p><p>28-4-2010; Simone FM; lengte
+      De Lange en De Korte</p><p>27-4-2010; Algemeen Dagblad; lengte De Lange en De
+      Korte</p><p>27-4-2010; RTV West; lengte De Lange en De Korte</p><p>27-4-2010;
+      Wereldomroep; lengte De Lange en De Korte</p><p>27-4-2010; Jeugdjournaal; lengte
+      De Lange en De Korte</p><p>27-4-2010; RTV Noord; lengte De Lange en De Korte</p><p>27-4-2010;
+      Radio 538 (Humberto Tan); lengte De Lange en De Korte</p><p>27-4-2010; Radio
+      1 journaal; lengte De Lange en De Korte</p><p>27-1-2010; Omroep Gelderland;
+      koude</p><p>9-1-2010; NRC next; koude</p><p>8-1-2010; Telegraaf; Koude</p><p>8-1-2010;
+      Netwerk; Tips tegen koude</p><p>8-1-2010; SBS6 Hart van Nederland; koude</p><p>8-1-2010;
+      Algemeen Dagblad; koude</p><p>8-1-2010; Radio Nostalgia (B); koude</p><p>21-12-2009;
+      Radio 1; koude</p><p>10-10-2009; Eindhovens Dagblad; onderzoek Marathon Eindhoven</p><p>16-9-2009;
+      Teleac Radio; hoe zweten mensen</p><p>4-7-2009; Telegraaf; CO2 productie</p><p>4-7-2009;
+      Tros Nieuwsradio; hitte en agressie</p><p>14-5-2009; HoeZo radio; effect van
+      temperatuur op de mens</p><p>1-4-2009; Jaarverslag KNMI; temperatuur en gezondheid</p><p>13-1-2009;
+      Klokhuis; wakduiken</p><p>6-1-2009; Radio 1; koude</p><p>6-1-2009; Jeugdjournaal;
+      koude</p><p>30-12-2008; Trouw; koude</p><p>22-12-2008; Een vandaag; commentaar
+      bij portret van Wim Hof</p><p>11-12-2008; Hoezo Radio; Over koude</p><p>8-7-2008;
+      Radio 1; Hitte in Nederland eind 21e eeuw</p><p>19-6-2008; Ad Valvas; Infraheet</p><p>1-6-2008;
+      Weer; Temperatuur zegt niet alles over warmtebalans</p><p>1-5-2008; Grip4; Hoe
+      moet een onderkoelde patient worden behandeld?</p><p>12-2-2008; Transport&amp;Opslag;
+      Eskimo's gezocht</p><p>22-10-2007; RTL-4 TV; Koude in Siberie</p><p>5-10-2007;
+      Teleac Radio; Waar komen de tintelingen vandaan als mensen sneeuw hebben aangeraakt</p><p>4-10-2007;
+      NRC Next; Waar halen mensen hun lichaamswarmte vandaan</p><p>20-6-2007; NRC;
+      Stinkend naar de top</p><p>16-6-2007; Volkskrant; Van zweten wordt een mens
+      niet misselijk</p><p>1-6-2007; Plus Magazine; het Plus gezondheid Vraag&amp;Antwoord
+      boek</p><p>1-6-2007; Snap jij het; ik wel!  boek van TNO met kindervragen</p><p>14-5-2007;
+      Trouw; Wat is de ideale temperatuur van zwemwater</p><p>8-2-2007; Women sized
+      for comfort after 80 years; The Advertiser (AUS)</p><p>7-12-2006; Talpa TV;
+      Man/Vrouw</p><p>24-11-2006; Klokhuis; Zweten</p><p>1-10-2006; Plus Magazine;
+      drie vragen over koude</p><p>16-9-2006; Volkskrant; Koudeletselonderzoek Ama
+      Dablam</p><p>2-9-2006; Telegraaf; Koudeletselonderzoek Ama Dablam</p><p>3-5-2006;
+      Test spots human frostbite susceptibility; New Scientist</p><p>1-5-2006; Movemens;
+      Bewegingsonderzoek bij TNO</p><p>6-4-2006; De Morgen (Belgie); Kledingmaatvoering</p><p>19-1-2006;
+      RTL-4 TV; Koudeproblematiek in Moskou</p><p>22-12-2005; Teleac Radio; Koudebeleving
+      in zomer en winter</p><p>1-12-2005; TNO Magazine; 3D technologie voor beschermingsmiddelen
+      en gezichtsherkenning</p><p>1-12-2005; TNO Magazine; succesvolle kennisoverdracht
+      Thermofysiologie</p><p>7-7-2005; Radio M; Koorts</p><p>7-3-2005; TV Amersfoort;
+      Desertrun</p><p>3-2-2005; Radio M; koude</p><p>21-12-2004; Eindhovens dagblad;
+      Heeft maat M overal dezelfde afmeting?</p><p>3-12-2004; BNN radio; Desertrun</p><p>1-8-2004;
+      Plus Magazine; 12 vragen over dorst</p><p>22-5-2004; Nieuwslijn (VARA); Pre-cooling</p><p>15-5-2004;
+      Volkskrant; Voorgekoelde fietser trapt langer door</p><p>28-2-2004; Trouw; Oorthermometer
+      dikwijls niet betrouwbaar</p><p>28-2-2004; Algemeen Dagblad; Oorthermometers
+      onbetrouwbaar</p><p>28-2-2004; Amersfoortse Courant en Utrechts Nieuwsblad;
+      Oorthermometer niet betrouwbaar</p><p>1-12-2003; Helemaal Thuis (Essent); Zo
+      werkt uw interne thermostaat</p><p>29-11-2003; Willem Wever; Waarom zweten we?</p><p>1-7-2003;
+      KnipMode; Lengte van mannen (pag. 46)</p><p>1-6-2003; Hyponieuws; Rol van warmtebalans
+      (pag. 10)</p><p>1-5-2003; HP/De Tijd; matrassen (pag. 96)</p><p>17-4-2003; RTL-4
+      TV; Meer auto-ongevallen door warmte</p><p>1-4-2003; Twee vandaag; warmtebelasting
+      in beschermende kleding</p><p>25-1-2003; Volkskrant; Ventilerende kleding bij
+      hitte essentieel</p><p>22-1-2003; AVRO Gezondheidsplein TV; Heat packs</p><p>1-1-2003;
+      Plus Magazine; 8 vragen over warm blijven</p><p>1-1-2003; Arbo; Arbodisciplines
+      spelen in op veranderingen</p><p>3-12-2002; Regionale omroep Arnhem; Ergonomie</p><p>1-11-2002;
+      Contec Nieuws; Kleding op maat</p><p>30-9-2002; Radio Nederland Wereldomroep;
+      hitte en kou</p><p>1-2-2002; TNO-Magazine; Kledingmaattabellen</p><p>18-1-2002;
+      Groninger Dagblad; Ondershirt kan thuisblijven</p><p>5-1-2002; NRC; Bloedvatspel</p><p>1-1-2002;
+      Arbouw Pijlers; Goed kleden is 'simpel eigenlijk'</p><p>19-12-2001; Klokhuis;
+      Nieuw textiel</p><p>28-6-2001; Nederlands Dagblad; Mag het een maatje meer zijn?</p><p>27-6-2001;
+      NRC; Te lang, te kort, te wijd of te krap</p><p>26-6-2001; NRC; Maat 88 wordt
+      normaal</p><p>1-4-2001; Doorkijk 42(2): 16; Maatkleding voor Iedereen door T.
+      Epping</p><p>1-7-2000; Contec update 3; TNO legt database aan van lichaamsmaten</p><p>12-4-2000;
+      KRO ontbijt TV; NedScan</p><p>4-8-1999; Nederlands Dagblad; Hitte en prestatie</p><p>4-8-1999;
+      Nederlands Dagblad; Warmte zorgt in het verkeer voor verhitte gemoederen</p><p>1-7-1999;
+      Fiets; Barstende koppijn of een barst in je kop</p><p>1-4-1999; Kijk; Onderkoeling,
+      verdrinking en dood</p><p>24-2-1999; Klokhuis; Lichaamsmaten</p><p>18-1-1999;
+      SAT1 TV; Lichaamsmaten</p><p>16-1-1999; FEM De Week03; Hollandse lijven in kaart
+      gebracht</p><p>13-1-1999; Stern TV (RTL+); Lichaamsscanning</p><p>7-1-1999;
+      TROS Radar op 5 (radio); Lichaamsmaten</p><p>22-12-1998; Konrad (Duitsland);
+      Lichaamsmaten</p><p>1-11-1998; Contec Nieuws; Batman returns (over lichaamsscanning)</p><p>24-9-1998;
+      Facts (Zwitserland); Das Mass alle Dinge</p><p>22-9-1998; Limburgs dagblad;
+      Niets ontsnapt aan lichaamsscan</p><p>16-9-1998; Dagblad van Almere; De high-tech
+      kleermaker komt er aan</p><p>14-9-1998; Limburgs dagblad; Lichaamsscan levert
+      maatwerk</p><p>11-9-1998; Rotterdams Dagblad; De high-tech kleermaker komt er
+      aan</p><p>11-9-1998; Ultimate Kick (KRO TV); Lichaamsmaten</p><p>10-9-1998;
+      Haagse Courant; De high-tech kleermaker komt er aan</p><p>26-7-1998; Uniform-magazine;
+      Bodyscan-eindelijk de juiste maat</p><p>25-7-1998; Utrechts Nieuwsblad; Digitaal
+      de kledingmaat opnemen</p><p>11-7-1998; Leeuwarder Courant; Nederlander de maat
+      genomen</p><p>15-11-1997; Parool; De lange mens</p><p>1-11-1997; Business; De
+      Werkplek</p><p>27-10-1997; Radar (TROS TV); Oorthermometer</p><p>12-7-1997;
+      Volkskrant; Lasterstralen nemen het volk de maat</p><p>5-2-1997; Talk radio;
+      Lichaamsscanning</p><p>4-2-1997; NOS TV Jeugdjournaal; Lichaamsscanning</p><p>4-2-1997;
+      NOS TV Journaal; Lichaamsscanning</p><p>31-1-1997; Leeuwarder Courant; Bodyscanner
+      levert maatwerk..</p><p>31-1-1997; Algemeen Dagblad; Pictogram in plaats van
+      confectiemaat</p><p>29-1-1997; Amersfoortse Courant; Tot op de millimeter</p><p>29-1-1997;
+      Gooi en Eemlander; TNO levert maatwerk ..</p><p>4-1-1997; 2 Vandaag; Kou tijdens
+      de elfstedentocht</p><p>4-2-1996; NCRV TV; Zinderen, een programma over zintuigen</p><p>18-7-1995;
+      Technische Revue; TNO-TM weet veel van werkplekinrichting</p><p>15-2-1994; Reformatorisch
+      Db; Aangenaam, mits gekleed in wollen ondergoed</p><p>24-11-1993; NOS Vroeg
+      op 5 Radio; Effect van kou op de mens</p><p>30-10-1993; Gelders Dagblad; Triathlon:
+      Pas op voor 'afterdrop' in eerste fietskm</p><p>22-10-1993; Intermediair; Uitglijden
+      bij Tineke</p><p>27-9-1993; Autoweek; Benzineverbruik auto's</p><p>16-1-1992;
+      KRO-radio; Kou en gezondheid</p><p>5-1-1992; TNO-jaarjournaal; Stuk uit EO-tijdsein</p><p>31-12-1991;
+      Haagse Courant; Goede conditie helpt bij weerbaarheid tegen kou</p><p>9-5-1991;
+      NCRV-radio; Extremen: warmte en kou</p><p>14-2-1991; KRO-radio; Gezondheid -
+      een zorg</p><p>11-2-1991; NCRV Radio: G. van Brakel; De invloed van kou op de
+      mens</p><p>9-2-1991; Tineke TV; Wat doet men tegen kou</p><p>7-2-1991; EO-Tijdsein
+      TV; Onderzoek naar kou</p><p>7-2-1991; NOS-Aktueel TV; Uitleg koude-invloed
+      bij finish elfstedentocht</p><p>6-2-1991; NRC; Gedrag is enig wapen van lichaam
+      tegen kou</p><p>26-7-1989; Volkskrant; Snelwandelen onzichtbaar voor blote oog</p><p>17-11-1988;
+      Veronica TV: Fitrace; Werking van de spieren</p>"
 - template: page
   link: personal
   title: Personal
