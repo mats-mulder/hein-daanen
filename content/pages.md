@@ -90,6 +90,27 @@ pages:
   - template: events-overview
     title: Publications
     content:
+    - year: '2021'
+      events: '<ul><li><p>Alkemade, P., Gerrett, N., Eijsvogels, T.M.H., Daanen, H.A.M.
+        Individual characteristics associated with the magnitude of heat acclimation
+        adaptations. European Journal of Applied Physiology. <a href="https://doi.org/10.1007/s00421-021-04626-3."
+        title="https://doi.org/10.1007/s00421-021-04626-3.">https://doi.org/10.1007/s00421-021-04626-3.</a></p></li><li><p>Daanen,
+        H.A.M., Bose-O''Reilly, S., Brearly, M., Flouris, D.A., Gerrett, N.M., Jones,
+        H.M., Lee, J.K.W., Morris, M., Norton, I., Nybo, L., Oppermann, E., Shumake-Guillemot,
+        J., Van den Hazel, P. COVID-19 and thermoregulation-related problems: Practical
+        recommendations. Temperature 8(1):1-11. DOI: 10.1080/23328940.2020.1790971.</p></li><li><p>Gerrett,
+        N., Alkemade, P., Daanen, H. Re-heat acclimation using exercise or hot water
+        immersion. Medicine &amp; Science in Sports &amp; Exercise, Publish Ahead
+        of Print. DOI: 10.1249/MSS.0000000000002612MSSE.</p></li><li><p>Klous, L.,
+        De Ruiter, C., Alkemade, P., Daanen, H., Gerrett, N.  Sweat rate and sweat
+        composition following active or passive heat re-acclimation: A pilot study.
+        Temperature 8(1): 90-104. DOI: 10.1080/23328940.2020.1826287.</p></li><li><p>Klous,
+        L., Folkerts, M.A., Daanen, H.A.M., Gerrett, N.M. The effect of sweat sample
+        storage condition on sweat content. Temperature. DOI: 10.1080/23328940.2020.1867294</p></li><li><p>Klous,
+        L., De Ruiter, C.J., Scherrer, S., Gerrett, N., Daanen, H.A.M. The (in)dependency
+        of blood and sweat sodium, chloride, potassium, ammonia, lactate and glucose
+        concentrations during exercise. European Journal of Applied Physiology 121:803–816,
+        2021. DOI:10.1007/s00421-020-04562-8.</p></li></ul>'
     - year: '2020'
       events: "<ul><li><p>Botzen, W.J.W., Martinius, M.L., Bröde, P., Folkerts, M.A.,
         Ignjacevic, P., Estrada, F., Harmsen, C.N., Daanen, H.A.M. Economic valuation
