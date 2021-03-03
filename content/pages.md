@@ -126,10 +126,7 @@ pages:
         Temperature DOI: 10.1080/23328940.2020.1826287.</p></li><li><p>Klous, L.,
         Psikuta, A., Gijsbertse, K., Mol, D., Van Schaik, M., Daanen, H.A.M., Kingma,
         B.R.M. Two isothermal challenges yield comparable physiological and subjective
-        responses. European Journal of Applied Physiology. DOI:10.1007/s00421-020-04494-3.</p></li><li><p>Klous,
-        L., De Ruiter, C.J., Scherrer, S., Gerrett, N., Daanen, H.A.M. The (in)dependency
-        of blood and sweat sodium, chloride, potassium, ammonia, lactate and glucose
-        concentrations during exercise. European Journal of Applied Physiology. DOI:10.1007/s00421-020-04562-8.</p></li><li><p>Périard,
+        responses. European Journal of Applied Physiology. DOI:10.1007/s00421-020-04494-3.</p></li><li><p>Périard,
         J.D., Eijsvogels, T.M.H., Daanen, H.A.M., Racinais, S. Hydration for the Tokyo
         Olympics: to thirst or not to thirst? Br J Sports Med. Doi:10.1136/bjsports-2020-102803.</p></li><li><p>Schweiker,
         M., André, M., Al-Atrash, F., Al-Khatri, H., Alprianti, R.R., Alsaad, H.,
