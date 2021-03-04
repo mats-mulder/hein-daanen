@@ -109,11 +109,12 @@ pages:
         re-acclimation: A pilot study. Temperature 8(1): 90-104. DOI: 10.1080/23328940.2020.1826287.</a></p></li><li><p><a
         href="/images/klous2021storage.pdf" title="Klous2021Storage">Klous, L., Folkerts,
         M.A., Daanen, H.A.M., Gerrett, N.M. The effect of sweat sample storage condition
-        on sweat content. Temperature. DOI: 10.1080/23328940.2020.1867294</a></p></li><li><p>Klous,
-        L., De Ruiter, C.J., Scherrer, S., Gerrett, N., Daanen, H.A.M. The (in)dependency
-        of blood and sweat sodium, chloride, potassium, ammonia, lactate and glucose
-        concentrations during exercise. European Journal of Applied Physiology 121:803–816,
-        2021. DOI:10.1007/s00421-020-04562-8.</p></li></ul>'
+        on sweat content. Temperature. DOI: 10.1080/23328940.2020.1867294</a></p></li><li><p><a
+        href="/images/klous2021blood.pdf" title="Klous2021Blood">Klous, L., De Ruiter,
+        C.J., Scherrer, S., Gerrett, N., Daanen, H.A.M. The (in)dependency of blood
+        and sweat sodium, chloride, potassium, ammonia, lactate and glucose concentrations
+        during exercise. European Journal of Applied Physiology 121:803–816, 2021.
+        DOI:10.1007/s00421-020-04562-8.</a></p></li></ul>'
     - year: '2020'
       events: "<ul><li><p>Botzen, W.J.W., Martinius, M.L., Bröde, P., Folkerts, M.A.,
         Ignjacevic, P., Estrada, F., Harmsen, C.N., Daanen, H.A.M. Economic valuation
