@@ -2016,11 +2016,12 @@ pages:
   - template: content
     link: media
     title: Media
-    content: '<p>17-3-2021; Parool; gevaren van koudwaterzwemmen</p><p>8-2-2021; Radio
-      1 België; oversterfte door koude</p><p>6-2-2021; NRC; het ritme van koude vingers</p><p>22-12-2020;
-      Parool.nl; Hoe kouder je lichaam is hoe warmer de thee kan zijn om op te warmen</p><p>15-12-2020;
-      Nieuwblad; eens een koukleum, altijd een koukleum?</p><p>24-10-2020; Kassa;
-      <a href="https://www.bnnvara.nl/kassa/artikelen/dure-onbetrouwbare-thermometers-vliegen-de-winkel-uit"
+    content: '<p><a href="https://www.parool.nl/nederland/een-koude-duik-als-bescherming-tegen-covid-immunologen-betwijfelen-het~b20e1a04/"
+      title="">17-3-2021; Parool; gevaren van koudwaterzwemmen</a></p><p>8-2-2021;
+      Radio 1 België; oversterfte door koude</p><p>6-2-2021; NRC; het ritme van koude
+      vingers</p><p>22-12-2020; Parool.nl; Hoe kouder je lichaam is hoe warmer de
+      thee kan zijn om op te warmen</p><p>15-12-2020; Nieuwblad; eens een koukleum,
+      altijd een koukleum?</p><p>24-10-2020; Kassa; <a href="https://www.bnnvara.nl/kassa/artikelen/dure-onbetrouwbare-thermometers-vliegen-de-winkel-uit"
       title="Kassa2020">Thermometrie</a></p><p>12-8-2020; Nieuwsblad; Ons hart gaat
       extra pompen en we hebben minder honger: dit doet ons lichaam om af te koelen</p><p>6-8-2020;
       Parool; Pandemie, hittegolven én thuiswerken: hoe overleven we de zomer van
