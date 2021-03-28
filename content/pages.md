@@ -1539,24 +1539,24 @@ pages:
     title: Lezingen / Presentations
     content:
     - year: '2020'
-      events: <ul><li><p>01/31/2020 Preparation for performance in the heat<br>Symposium
-        extreme heat&amp;cold Amsterdam (NL)<br></p></li><li><p>02/03/2020 <a href="https://www.youtube.com/watch?v=4Ck5Rn4l03s"
-        title="">Is een ijskoude douche in de ochtend nou echt zo gezond?</a><br>Universiteit
-        van Nederland Amsterdam (NL)<br></p></li><li><p>02/11/2020 Voorbereiden voor
-        presteren in hitte<br>Bijeenkomst nationale trainers KNVB Zeist (NL)<br></p></li><li><p>05/15/2020
-        Virtual Fitting<br>Webinar Human Factors NL Themabijeenkomst Antropometrie
+      events: <ul><li><p>12/04/2020 Thermofysiologie; hitte- en koudebelasting tijdens
+        arbeid<br>Heijermans lezing Amsterdam (NL)</p><p></p></li><li><p>11/16/2020
+        Human Performance in the heat<br>Lode Webinar (virtueel) Soesterberg (NL)<br></p></li><li><p>11/13/2020
+        Thermofysiologie<br>Scholingsbijeenkomst anaesthesie (virtueel) Ede (NL)<br></p></li><li><p>10/29/2020
+        Hitteziekten<br>Symposium Ministerie van Defensie Amsterdam (NL)<br></p></li><li><p>10/26/2020
+        Cold-Induced Vasodilatation (CIVD) as a protective mechanism against cold
+        injuries<br>Physiology and Pharmacology of Temperature Regulation conference
+        2020 (virtual) Vancouver (CAN)</p><p></p></li><li><p>10/09/2020 Heat strain
+        during work<br>Webinar International association for safety and survival training
         Soesterberg (NL)<br></p></li><li><p>08/31/2020 Hitte en Corona<br>Openingsbijeenkomst
-        College van Bestuur Vrije Universiteit Amsterdam Amsterdam (NL)<br></p></li><li><p>10/09/2020
-        Heat strain during work<br>Webinar International association for safety and
-        survival training Soesterberg (NL)<br></p></li><li><p>10/26/2020 Cold-Induced
-        Vasodilatation (CIVD) as a protective mechanism against cold injuries<br>Physiology
-        and Pharmacology of Temperature Regulation conference 2020 (virtual) Vancouver
-        (CAN)<br></p></li><li><p>10/29/2020 Hitteziekten<br>Symposium Ministerie van
-        Defensie Amsterdam (NL)<br></p></li><li><p>11/13/2020 Thermofysiologie<br>Scholingsbijeenkomst
-        anaesthesie (virtueel) Ede (NL)<br></p></li><li><p>11/16/2020 Human Performance
-        in the heat<br>Lode Webinar (virtueel) Soesterberg (NL)<br></p></li><li><p>12/04/2020
-        Thermofysiologie; hitte- en koudebelasting tijdens arbeid<br>Heijermans lezing
-        Amsterdam (NL)</p></li></ul>
+        College van Bestuur Vrije Universiteit Amsterdam Amsterdam (NL)<br></p></li><li><p>05/15/2020
+        Virtual Fitting<br>Webinar Human Factors NL Themabijeenkomst Antropometrie
+        Soesterberg (NL)<br></p></li><li><p>02/11/2020 Voorbereiden voor presteren
+        in hitte<br>Bijeenkomst nationale trainers KNVB Zeist (NL)<br></p></li><li><p>02/03/2020
+        <a href="https://www.youtube.com/watch?v=4Ck5Rn4l03s" title="">Is een ijskoude
+        douche in de ochtend nou echt zo gezond?</a><br>Universiteit van Nederland
+        Amsterdam (NL)<br></p></li><li><p>01/31/2020 Preparation for performance in
+        the heat<br>Symposium extreme heat&amp;cold Amsterdam (NL)</p></li></ul>
     - year: '2019'
       events: "<ul><li><p>02/06/2019 Overview of achievements<br>NATO meeting RTG-266
         on 3D scanning for clothing fit Paris (F)<br></p></li><li><p>03/08/2019 Determining
