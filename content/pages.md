@@ -1483,7 +1483,7 @@ pages:
         Thomas 3: 99 - 103, 1984.</p></li></ul>"
     link: publications
   - template: content
-    title: 'Summary of the PhD thesis of Hein Daanen:'
+    title: Summary of the PhD thesis of Hein Daanen
     content: "<h2>Central and peripheral control of finger blood flow in the cold</h2><h3>Available
       through Hein Daanen - ISBN 90-9010815-7</h3><p>When human fingers are exposed
       to cold, the blood vessels in the skin contract. Thus less blood goes to the
