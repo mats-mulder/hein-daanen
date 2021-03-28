@@ -1516,7 +1516,7 @@ pages:
       to evoke an axon-reflex in a cold hand. This makes another hypothesis more likely
       that states that a paralysis of the muscle wall of the AVA occurs in the cold.</p>"
     file: ''
-    link: phd-thesis
+    link: PhD-thesis
   - template: content
     title: Inauguration Prof. Thermal Physiology
     content: <h2>Warm aanbevolen (in Dutch)</h2><h3>Speech held at the <em>Vrije </em>Universiteit
