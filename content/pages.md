@@ -272,15 +272,16 @@ pages:
         elite sailing athletes during exercise in the heat: A pilot study. Temperature
         6(1): 66-76. DOI: 10.1080/23328940.2018.1540964.</p></li></ul>'
     - year: '2018'
-      events: "<ul><li><p>Bogerd, C.P., Velt, K.B., Annaheim, S., Bongers, C.C.W.G.,
+      events: '<ul><li><p>Bogerd, C.P., Velt, K.B., Annaheim, S., Bongers, C.C.W.G.,
         Eijsvogels, T.M.H., Daanen, H.A.M. Comparison of two telemetric intestinal
         temperature devices with rectal temperature during exercise. Physiological
         Measurements 39:1-6, 2018. DOI: 10.1088/1361-6579/aaad52.</p></li><li><p>Bongers,
         C.C.W.G., Daanen, H.A.M., Bogerd, C.P., Hopman, T.E., Eijsvogels, T.M.H. Validity,
         Reliability, and Inertia of Four Different Temperature Capsule Systems. Medicine
-        and Science in Sports and Exercise, 50:1,169-175, 2018.</p></li><li><p>Daanen,
-        H.A.M. Fitting fashion using the internet: Research findings &amp; recommendations.
-        Report Amsterdam University of Applied Sciences (HvA). November 2018.</p></li><li><p>Daanen,
+        and Science in Sports and Exercise, 50:1,169-175, 2018.</p></li><li><p><a
+        href="/images/techupdate8.pdf" title="Techupdate">Daanen, H.A.M. Fitting fashion
+        using the internet: Research findings &amp; recommendations. Report Amsterdam
+        University of Applied Sciences (HvA). November 2018</a>.</p></li><li><p>Daanen,
         H.A.M., Racinais, S., Périard, J.D. Heat Acclimation Decay and Re-Induction:
         A Systematic Review and Meta-Analysis. Sports Medicine 48(2): 409-430, 2017.
         DOI 10.1007/s40279-017-0808-x.</p></li><li><p>Daanen, H.A.M., Psikuta, A.
@@ -295,7 +296,7 @@ pages:
         M., Streekstra, G., Daanen. H.A.M. A New Method for Finding the Shoulder Complex
         Rotation Centre Using 3D Body Scanning. Proceedings of 3DBODY.TECH 2018 9th
         Int. Conference and Exhibition on 3D Body Scanning and Processing Technologies,
-        Lugano, Switzerland, 16-17 Oct. 2018 DOI: 10.15221/18.019.</p></li></ul>"
+        Lugano, Switzerland, 16-17 Oct. 2018 DOI: 10.15221/18.019.</p></li></ul>'
     - year: '2017'
       events: '<ul><li><p>Ganzevles, S.P.M., de Haan, A., Beek, P.J., Daanen, H.A.M.,
         Truijens, M.J. Heart-rate recovery after warm-up in swimming: A useful predictor
