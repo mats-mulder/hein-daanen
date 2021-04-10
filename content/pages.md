@@ -279,6 +279,8 @@ pages:
         C.C.W.G., Daanen, H.A.M., Bogerd, C.P., Hopman, T.E., Eijsvogels, T.M.H. Validity,
         Reliability, and Inertia of Four Different Temperature Capsule Systems. Medicine
         and Science in Sports and Exercise, 50:1,169-175, 2018.</p></li><li><p>Daanen,
+        H.A.M. Fitting fashion using the internet: Research findings &amp; recommendations.
+        Report Amsterdam University of Applied Sciences (HvA). November 2018.</p></li><li><p>Daanen,
         H.A.M., Racinais, S., Périard, J.D. Heat Acclimation Decay and Re-Induction:
         A Systematic Review and Meta-Analysis. Sports Medicine 48(2): 409-430, 2017.
         DOI 10.1007/s40279-017-0808-x.</p></li><li><p>Daanen, H.A.M., Psikuta, A.
