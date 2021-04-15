@@ -114,9 +114,10 @@ pages:
         C.J., Scherrer, S., Gerrett, N., Daanen, H.A.M. The (in)dependency of blood
         and sweat sodium, chloride, potassium, ammonia, lactate and glucose concentrations
         during exercise. European Journal of Applied Physiology 121:803–816, 2021.
-        DOI:10.1007/s00421-020-04562-8.</a></p></li><li><p>Periard, J.D., Eijsvogels,
-        T.M.H., Daanen, H.A.M. Exercise under heat stress: thermoregulation, hydration,
-        performance implications and mitigation strategies. Physiological Reviews.</p></li></ul>'
+        DOI:10.1007/s00421-020-04562-8.</a></p></li><li><p><a href="/images/2021-physiol-rev-exercise-under-heat-stress-thermoregulation-hydration-performance-implications-and-mitigation-strategies.pdf"
+        title="physrev">Periard, J.D., Eijsvogels, T.M.H., Daanen, H.A.M. Exercise
+        under heat stress: thermoregulation, hydration, performance implications and
+        mitigation strategies. Physiological Reviews.</a></p></li></ul>'
     - year: '2020'
       events: "<ul><li><p>Botzen, W.J.W., Martinius, M.L., Bröde, P., Folkerts, M.A.,
         Ignjacevic, P., Estrada, F., Harmsen, C.N., Daanen, H.A.M. Economic valuation
