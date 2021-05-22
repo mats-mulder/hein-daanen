@@ -123,10 +123,6 @@ pages:
         Ignjacevic, P., Estrada, F., Harmsen, C.N., Daanen, H.A.M. Economic valuation
         of climate change induced mortality: Age dependent cold and heat mortality
         in the Netherlands. Climatic Change. DOI: 10.1007/s10584-020-02797-0.</p></li><li><p>Daanen,
-        H.A.M., Bose-O'Reilly, S., Brearly, M., Flouris, D.A., Gerrett, N.M., Jones,
-        H.M., Lee, J.K.W., Morris, M., Norton, I., Nybo, L., Oppermann, E., Shumake-Guillemot,
-        J., Van den Hazel, P. COVID-19 and thermoregulation-related problems: Practical
-        recommendations. Temperature. DOI: 10.1080/23328940.2020.1790971.</p></li><li><p>Daanen,
         H.A.M. Virtual fitting. Tijdschrift voor Human Factors - jaargang 45 - nr.
         1 - april 2020.</p></li><li><p>Daanen, H.A.M. Werken in warme omstandigheden.
         Sdu uitgeverij.</p></li><li><p>Daanen, H.A.M. Werken in koude omstandigheden.
