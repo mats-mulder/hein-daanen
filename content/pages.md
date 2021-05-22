@@ -227,7 +227,7 @@ pages:
         of Cleaner Production 210: 1414 - 1424, 2019.</p></li><li><p>Kingma, C.F.,
         Hofman, I.I., Daanen, H.A.M. Relation between finger cold-induced vasodilation
         and rewarming speed after cold exposure. European Journal of Applied Physiology
-        119:171–180, 2019. <a href="https://doi.org/10.1007/s00421-018-4012-y." title="https://doi.org/10.1007/s00421-018-4012-y.">https://doi.org/10.1007/s00421-018-4012-y.</a></p></li><li><p>Klous,
+        119:171–180, 2019. <a href="https://doi.org/10.1007/s00421-018-4012-y." title="https://doi.org/10.1007/s00421-018-4012-y.">https://doi.org/10.1007/s00421-018-4012-y</a></p></li><li><p>Klous,
         L., Bergmann Tiest, W.M., Van Dorst, W.M., Van der Linde, T.H., Daanen, H.A.M.
         Holes in wrist patches improve wearing comfort. Int. J. Clothing Science Techn.
         31(4): 522-531. DOI 10.1108/IJCST-07-2018-0102.</p></li><li><p>Periard, J.,
