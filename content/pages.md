@@ -212,7 +212,7 @@ pages:
         Environmental Ergonomics 2019. Page 79, ISBN: 978-90-9032023-6.</p></li><li><p>Ganzevles,
         S.P.M., Beek, P.J., Daanen, H.A.M., Coolen, B.M.A., Truijens, M.J. Differences
         in swimming smoothness between elite and non-elite swimmers. Sports Biomechanics.
-        <a href="https://doi.org/10.1080/14763141.2019.1650102." title="https://doi.org/10.1080/14763141.2019.1650102.">https://doi.org/10.1080/14763141.2019.1650102.</a></p></li><li><p>Gerrett,
+        <a href="https://doi.org/10.1080/14763141.2019.1650102." title="https://doi.org/10.1080/14763141.2019.1650102.">https://doi.org/10.1080/14763141.2019.1650102</a></p></li><li><p>Gerrett,
         N., Kingma, B.R.M., Sluijter, R., Daanen, H.A.M. Ambient conditions prior
         to Tokyo 2020 Olympic and Paralympic games: Considerations for acclimation
         or acclimatization strategies. Frontiers in Physiology, 10 (APR), art. no.
