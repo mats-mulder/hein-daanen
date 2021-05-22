@@ -216,7 +216,7 @@ pages:
         N., Kingma, B.R.M., Sluijter, R., Daanen, H.A.M. Ambient conditions prior
         to Tokyo 2020 Olympic and Paralympic games: Considerations for acclimation
         or acclimatization strategies. Frontiers in Physiology, 10 (APR), art. no.
-        00414, 2019. <a href="https://doi.org/10.3389/fphys.2019.00414." title="https://doi.org/10.3389/fphys.2019.00414.">https://doi.org/10.3389/fphys.2019.00414.</a></p></li><li><p>Klous,
+        00414, 2019. <a href="https://doi.org/10.3389/fphys.2019.00414." title="https://doi.org/10.3389/fphys.2019.00414.">https://doi.org/10.3389/fphys.2019.00414</a></p></li><li><p>Klous,
         L., De Ruiter, J., Alkemade, P., Daanen, H., Gerrett, N. Time course of sweat
         content during heat acclimation and re-acclimation by controlled hyperthermia.
         In: Gerrett, N.M., Daanen, H.A.M. Teunissen, L.P.J. (Eds.). Abstract book
