@@ -94,16 +94,16 @@ pages:
       events: '<ul><li><p><a href="/images/alkemade2021.pdf" title="2021Alkemade">Alkemade,
         P., Gerrett, N., Eijsvogels, T.M.H., Daanen, H.A.M. Individual characteristics
         associated with the magnitude of heat acclimation adaptations. European Journal
-        of Applied Physiology. DOI: /10.1007/s00421-021-04626-3.</a></p></li><li><p>Bose-O’Reilly,
-        S., Daanen, H.A.M., Deering, K., Gerrett, N., Huynen, M.M.M.E.T., Lee, J.K.,
-        Karrasch, S., Matthies-Wiesler, F., Mertes, H., Schoierer, J., Van den Hazel,
-        P., Van Loenhout, J.A.F., Nowak, D. COVID-19 and heat waves: New challenges
-        for healthcare systems. Environmental Research 198 (2021). DOI: 10.1016/j.envres.2021.111153.</p></li><li><p><a
-        href="/images/daanen2020-covid.pdf" title="2021Daanen">Daanen, H.A.M., Bose-O''Reilly,
-        S., Brearly, M., Flouris, D.A., Gerrett, N.M., Jones, H.M., Lee, J.K.W., Morris,
-        M., Norton, I., Nybo, L., Oppermann, E., Shumake-Guillemot, J., Van den Hazel,
-        P. COVID-19 and thermoregulation-related problems: Practical recommendations.
-        Temperature 8(1):1-11. DOI: 10.1080/23328940.2020.1790971.</a></p></li><li><p><a
+        of Applied Physiology. DOI: /10.1007/s00421-021-04626-3.</a></p></li><li><p><a
+        href="/images/bose_2021.pdf" title="Bose2021">Bose-O’Reilly, S., Daanen, H.A.M.,
+        Deering, K., Gerrett, N., Huynen, M.M.M.E.T., Lee, J.K., Karrasch, S., Matthies-Wiesler,
+        F., Mertes, H., Schoierer, J., Van den Hazel, P., Van Loenhout, J.A.F., Nowak,
+        D. COVID-19 and heat waves: New challenges for healthcare systems. Environmental
+        Research 198. DOI: 10.1016/j.envres.2021.111153.</a></p></li><li><p><a href="/images/daanen2020-covid.pdf"
+        title="2021Daanen">Daanen, H.A.M., Bose-O''Reilly, S., Brearly, M., Flouris,
+        D.A., Gerrett, N.M., Jones, H.M., Lee, J.K.W., Morris, M., Norton, I., Nybo,
+        L., Oppermann, E., Shumake-Guillemot, J., Van den Hazel, P. COVID-19 and thermoregulation-related
+        problems: Practical recommendations. Temperature 8(1):1-11. DOI: 10.1080/23328940.2020.1790971.</a></p></li><li><p><a
         href="/images/gerrett2021.pdf" title="Gerrett2021">Gerrett, N., Alkemade,
         P., Daanen, H. Re-heat acclimation using exercise or hot water immersion.
         Medicine &amp; Science in Sports &amp; Exercise, Publish Ahead of Print. DOI:
