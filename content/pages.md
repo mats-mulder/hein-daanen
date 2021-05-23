@@ -205,7 +205,7 @@ pages:
         978-90-9032023-6.</p></li><li><p>Daanen, H.A.M., Keefe, A. 3D scanning for
         clothing fit and logistics. In: 2019 Highlights Science and Technology organisation.
         page 11. Available at: <a href="https://www.nato.int/nato_static_fl2014/assets/pdf/2020/3/pdf/200331-2019_NATO_STO_Highlights.pdf"
-        title="https://www.nato.int/nato_static_fl2014/assets/pdf/2020/3/pdf/200331-2019_NATO_STO_Highlights.pdf.">https://www.nato.int/nato_static_fl2014/assets/pdf/2020/3/pdf/200331-2019_NATO_STO_Highlights.pdf</a>.</p></li><li><p>Folkerts,
+        title="NATO">https://www.nato.int/nato_static_fl2014/assets/pdf/2020/3/pdf/200331-2019_NATO_STO_Highlights.pdf</a>.</p></li><li><p>Folkerts,
         M., Kingma, B., Gerrett, N., Daanen, H., Zuurbier, M. Care provider assessment
         of thermal state of children in day-care centers. In: Gerrett, N.M., Daanen,
         H.A.M. Teunissen, L.P.J. (Eds.). Abstract book International Conference on
