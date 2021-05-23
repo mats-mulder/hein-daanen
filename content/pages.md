@@ -204,15 +204,15 @@ pages:
         book International Conference on Environmental Ergonomics 2019. Page 85, ISBN:
         978-90-9032023-6.</p></li><li><p>Daanen, H.A.M., Keefe, A. 3D scanning for
         clothing fit and logistics. In: 2019 Highlights Science and Technology organisation.
-        page 11. Available at: <a href="https://www.nato.int/nato_static_fl2014/assets/pdf/2020/3/pdf/200331-2019_NATO_STO_Highlights.pdf."
-        title="https://www.nato.int/nato_static_fl2014/assets/pdf/2020/3/pdf/200331-2019_NATO_STO_Highlights.pdf.">https://www.nato.int/nato_static_fl2014/assets/pdf/2020/3/pdf/200331-2019_NATO_STO_Highlights.pdf</a></p></li><li><p>Folkerts,
+        page 11. Available at: <a href="https://www.nato.int/nato_static_fl2014/assets/pdf/2020/3/pdf/200331-2019_NATO_STO_Highlights.pdf"
+        title="https://www.nato.int/nato_static_fl2014/assets/pdf/2020/3/pdf/200331-2019_NATO_STO_Highlights.pdf.">https://www.nato.int/nato_static_fl2014/assets/pdf/2020/3/pdf/200331-2019_NATO_STO_Highlights.pdf</a>.</p></li><li><p>Folkerts,
         M., Kingma, B., Gerrett, N., Daanen, H., Zuurbier, M. Care provider assessment
         of thermal state of children in day-care centers. In: Gerrett, N.M., Daanen,
         H.A.M. Teunissen, L.P.J. (Eds.). Abstract book International Conference on
         Environmental Ergonomics 2019. Page 79, ISBN: 978-90-9032023-6.</p></li><li><p>Ganzevles,
         S.P.M., Beek, P.J., Daanen, H.A.M., Coolen, B.M.A., Truijens, M.J. Differences
         in swimming smoothness between elite and non-elite swimmers. Sports Biomechanics.
-        <a href="https://doi.org/10.1080/14763141.2019.1650102." title="https://doi.org/10.1080/14763141.2019.1650102.">https://doi.org/10.1080/14763141.2019.1650102</a></p></li><li><p>Gerrett,
+        <a href="https://doi.org/10.1080/14763141.2019.1650102" title="https://doi.org/10.1080/14763141.2019.1650102.">https://doi.org/10.1080/14763141.2019.1650102</a></p></li><li><p>Gerrett,
         N., Kingma, B.R.M., Sluijter, R., Daanen, H.A.M. Ambient conditions prior
         to Tokyo 2020 Olympic and Paralympic games: Considerations for acclimation
         or acclimatization strategies. Frontiers in Physiology, 10 (APR), art. no.
