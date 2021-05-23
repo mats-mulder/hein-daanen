@@ -212,11 +212,10 @@ pages:
         Environmental Ergonomics 2019. Page 79, ISBN: 978-90-9032023-6.</p></li><li><p>Ganzevles,
         S.P.M., Beek, P.J., Daanen, H.A.M., Coolen, B.M.A., Truijens, M.J. Differences
         in swimming smoothness between elite and non-elite swimmers. Sports Biomechanics.
-        <a href="https://doi.org/10.1080/14763141.2019.1650102" title="https://doi.org/10.1080/14763141.2019.1650102.">https://doi.org/10.1080/14763141.2019.1650102</a></p></li><li><p>Gerrett,
-        N., Kingma, B.R.M., Sluijter, R., Daanen, H.A.M. Ambient conditions prior
-        to Tokyo 2020 Olympic and Paralympic games: Considerations for acclimation
-        or acclimatization strategies. Frontiers in Physiology, 10 (APR), art. no.
-        00414, 2019. <a href="https://doi.org/10.3389/fphys.2019.00414." title="https://doi.org/10.3389/fphys.2019.00414.">https://doi.org/10.3389/fphys.2019.00414</a></p></li><li><p>Klous,
+        DOI: 10.1080/14763141.2019.1650102.</p></li><li><p>Gerrett, N., Kingma, B.R.M.,
+        Sluijter, R., Daanen, H.A.M. Ambient conditions prior to Tokyo 2020 Olympic
+        and Paralympic games: Considerations for acclimation or acclimatization strategies.
+        Frontiers in Physiology, 10 (APR), art. no. 00414, 2019. DOI: 10.3389/fphys.2019.00414.</p></li><li><p>Klous,
         L., De Ruiter, J., Alkemade, P., Daanen, H., Gerrett, N. Time course of sweat
         content during heat acclimation and re-acclimation by controlled hyperthermia.
         In: Gerrett, N.M., Daanen, H.A.M. Teunissen, L.P.J. (Eds.). Abstract book
@@ -227,8 +226,8 @@ pages:
         of Cleaner Production 210: 1414 - 1424, 2019.</p></li><li><p>Kingma, C.F.,
         Hofman, I.I., Daanen, H.A.M. Relation between finger cold-induced vasodilation
         and rewarming speed after cold exposure. European Journal of Applied Physiology
-        119:171–180, 2019. <a href="https://doi.org/10.1007/s00421-018-4012-y." title="https://doi.org/10.1007/s00421-018-4012-y.">https://doi.org/10.1007/s00421-018-4012-y</a></p></li><li><p>Klous,
-        L., Bergmann Tiest, W.M., Van Dorst, W.M., Van der Linde, T.H., Daanen, H.A.M.
+        119:171–180, 2019. DOI: 10.1007/s00421-018-4012-y.</p></li><li><p>Klous, L.,
+        Bergmann Tiest, W.M., Van Dorst, W.M., Van der Linde, T.H., Daanen, H.A.M.
         Holes in wrist patches improve wearing comfort. Int. J. Clothing Science Techn.
         31(4): 522-531. DOI 10.1108/IJCST-07-2018-0102.</p></li><li><p>Periard, J.,
         Houtkamp, D., Bright, F., Daanen, H., Abbiss, C., Thompson, K.G., Clark, B.
