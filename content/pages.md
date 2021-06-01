@@ -2017,7 +2017,9 @@ pages:
   - template: content
     link: media
     title: Media
-    content: '<p><a href="https://www.parool.nl/nederland/een-koude-duik-als-bescherming-tegen-covid-immunologen-betwijfelen-het~b20e1a04/"
+    content: '<p></p><p><a href="https://open.spotify.com/episode/0DBRYvlv72xjzR88Qf3FPK"
+      title="podcast1">1-6-2021; Topsport Topics Podcast: Presteren in de hitte</a></p><p><a
+      href="https://www.parool.nl/nederland/een-koude-duik-als-bescherming-tegen-covid-immunologen-betwijfelen-het~b20e1a04/"
       title="">17-3-2021; Parool; gevaren van koudwaterzwemmen</a></p><p>8-2-2021;
       Radio 1 België; oversterfte door koude</p><p>6-2-2021; NRC; het ritme van koude
       vingers</p><p>22-12-2020; Parool.nl; Hoe kouder je lichaam is hoe warmer de
