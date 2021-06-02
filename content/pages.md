@@ -104,6 +104,13 @@ pages:
         D.A., Gerrett, N.M., Jones, H.M., Lee, J.K.W., Morris, M., Norton, I., Nybo,
         L., Oppermann, E., Shumake-Guillemot, J., Van den Hazel, P. COVID-19 and thermoregulation-related
         problems: Practical recommendations. Temperature 8(1):1-11. DOI: 10.1080/23328940.2020.1790971.</a></p></li><li><p><a
+        href="/images/korte2021.pdf" title="Korte2021">De Korte, J.Q., Bongers, C.C.W.G.,
+        Hopman, M.T.E., Teunissen, L.P.J., Jansen, K.M.B., Kingma, B.R.M., Ballak,
+        S.B., Maase, K., Moen, M.H., Van Dijk, J.-W., Daanen, H.A.M., Eijsvogels,
+        T.H.M. Performance and thermoregulation of Dutch Olympic and Paralympic athletes
+        exercising in the heat: Rationale</a></p><p><a href="/images/korte2021.pdf"
+        title="Korte2021">and design of the Thermo Tokyo study: The journal Temperature
+        toolbox, Temperature, DOI: 10.1080/23328940.2021.1925618</a></p></li><li><p><a
         href="/images/gerrett2021.pdf" title="Gerrett2021">Gerrett, N., Alkemade,
         P., Daanen, H. Re-heat acclimation using exercise or hot water immersion.
         Medicine &amp; Science in Sports &amp; Exercise, Publish Ahead of Print. DOI:
