@@ -110,10 +110,11 @@ pages:
         T.H.M. Performance and thermoregulation of Dutch Olympic and Paralympic athletes
         exercising in the heat: Rationale</a> <a href="/images/korte2021.pdf" title="Korte2021">and
         design of the Thermo Tokyo study: The journal Temperature toolbox, Temperature,
-        DOI: 10.1080/23328940.2021.1925618</a></p></li><li><p>Folkerts, M.A., Bröde,
-        P., Botzen, W.J.W., Martinius, M.L., Gerrett, N.M., Harmsen, C.N., Daanen,
-        H.A.M. Sex diferences in temperature‑related all‑cause mortality in the Netherlands.
-        International Archives of Occupational and Environmental Health. DOI: 10.1007/s00420-021-01721-y</p></li><li><p><a
+        DOI: 10.1080/23328940.2021.1925618</a></p></li><li><p><a href="/images/folkerts2021_sex.pdf"
+        title="Folkerts2021">Folkerts, M.A., Bröde, P., Botzen, W.J.W., Martinius,
+        M.L., Gerrett, N.M., Harmsen, C.N., Daanen, H.A.M. Sex diferences in temperature‑related
+        all‑cause mortality in the Netherlands. International Archives of Occupational
+        and Environmental Health. DOI: 10.1007/s00420-021-01721-y</a></p></li><li><p><a
         href="/images/gerrett2021.pdf" title="Gerrett2021">Gerrett, N., Alkemade,
         P., Daanen, H. Re-heat acclimation using exercise or hot water immersion.
         Medicine &amp; Science in Sports &amp; Exercise, Publish Ahead of Print. DOI:
