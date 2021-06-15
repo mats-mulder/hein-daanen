@@ -1550,6 +1550,8 @@ pages:
     link: lectures
     title: Lezingen / Presentations
     content:
+    - year: '2021'
+      events: "<p>15-6-2021 Congres Hittestress Zuid-Holland, workshop hitte</p>"
     - year: '2020'
       events: <ul><li><p>12/04/2020 Thermofysiologie; hitte- en koudebelasting tijdens
         arbeid<br>Heijermans lezing Amsterdam (NL)</p><p></p></li><li><p>11/16/2020
