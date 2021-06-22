@@ -2032,7 +2032,8 @@ pages:
   - template: content
     link: media
     title: Media
-    content: '<p><a href="https://www.nporadio1.nl/uitzendingen/langs-de-lijn-en-omstreken/bb410280-a322-4307-8a9f-1e408c6c3954/2021-06-14-langs-de-lijn-en-omstreken"
+    content: '<p><a href="https://www.nporadio1.nl/fragmenten/eenvandaag/54de9d2a-d603-4b14-88bf-2be6b0449c60/2021-06-21-feit-of-fictie-zweet-je-minder-goed-als-je-tatoeages-hebt"
+      title="tattoo">21-6-2021: Radio 1, voetballen met Tattoos</a></p><p><a href="https://www.nporadio1.nl/uitzendingen/langs-de-lijn-en-omstreken/bb410280-a322-4307-8a9f-1e408c6c3954/2021-06-14-langs-de-lijn-en-omstreken"
       title="voetbal">14-6-2021: Langs de Lijn, hitte en voetbal (minuut 48:10-54:26)</a></p><p><a
       href="https://open.spotify.com/episode/0DBRYvlv72xjzR88Qf3FPK" title="podcast1">1-6-2021;
       Topsport Topics Podcast: Presteren in de hitte</a></p><p><a href="https://www.parool.nl/nederland/een-koude-duik-als-bescherming-tegen-covid-immunologen-betwijfelen-het~b20e1a04/"
