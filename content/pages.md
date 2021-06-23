@@ -9,8 +9,8 @@ pages:
     content: '<p><strong>Name:</strong></p><ul><li><p>Hein Daanen</p></li></ul><p><strong>Personal
       data:</strong></p><ul><li><p>Born: Juli 13th 1958 in Mierlo, The Netherlands</p></li><li><p>Married,
       two children</p></li></ul><p><strong>Contact:</strong></p><ul><li><p>Tel. +
-      31 6 866 76 808</p></li><li><p>Email: Daanen@ziggo.nl</p></li></ul><p><strong>Title:</strong></p><ul><li><p>Professor
-      in (environmental) exercise physiology, VU University, Amsterdam</p></li><li><p>Director
+      31 6 866 76 808</p></li><li><p>Email: Daanen@ziggo.nl</p></li></ul><p><strong>Title:</strong></p><ul><li><p>Full
+      professor in (environmental) exercise physiology, VU University, Amsterdam</p></li><li><p>Director
       of Sizing Science</p></li></ul><p><strong>Education:</strong></p><ul><li><p>Data
       analytics in R - Advanced Statistics, 2020</p></li><li><p>Ph.D. Medicine, VU
       University Amsterdam, 1997, Thesis: "Central and peripheral control of finger
@@ -24,12 +24,10 @@ pages:
       courses: Project Management Techniques; Result Oriented Coaching; Project Development;
       Sales Management; Employee Assessment</p></li><li><p>Senior Management Development,
       Bonfire and TNO management, 2006 and 2007</p></li><li><p>Giving and receiving
-      feedback, <a href="http://www.hfmpsy.nl">Hofkes Frolke Meekel Organisation Psychologists</a>,
-      Oktober, 2006</p></li><li><p>Project management, IPMA, june, 2006</p></li><li><p>Competence-based
-      selection of personnel, <a href="http://www.hfmpsy.nl">Hofkes Frolke Meekel
-      Organisation Psychologists</a>, February 16-17, 2006</p></li><li><p>Management
-      training for talented TNO employees. <a href="http://www.vlerick.be">Vlerick
-      School</a>, 2000</p></li></ul><p><strong>Employment:</strong></p><ul><li><p>2016
+      feedback, Hofkes Frolke Meekel Organisation Psychologists, Oktober, 2006</p></li><li><p>Project
+      management, IPMA, june, 2006</p></li><li><p>Competence-based selection of personnel,
+      Hofkes Frolke Meekel Organisation Psychologists, February 16-17, 2006</p></li><li><p>Management
+      training for talented TNO employees. Vlerick School, 2000</p></li></ul><p><strong>Employment:</strong></p><ul><li><p>2016
       - now Full professor in (environmental) exercise physiology; director of Master
       education in Human Movement Sciences, VU University Amsterdam</p></li><li><p>2010
       - now Director of Sizing Science</p></li><li><p>2013 - 2016 Professor at the
@@ -49,8 +47,8 @@ pages:
       Leiden</p></li><li><p>1985 - 1986 Teacher in Neurophysiology and Computer Science
       at the Academy for Physical Therapy in Breda and Leiden</p></li></ul><p><strong>Relevant
       Professional Affiliations:</strong></p><ul><li><p>Member of the scientific committee
-      of the 5th international congres on soldiers'' physical performance Quebec City
-      2020</p></li><li><p>Chair of the 2019 International Conference on Environmental
+      of the 5th international congress on soldiers'' physical performance Quebec
+      City 2020</p></li><li><p>Chair of the 2019 International Conference on Environmental
       Ergonomics</p></li><li><p>Lead auditor of Textile research group of Saxion University
       (dec 2016)</p></li><li><p>Chair of NATO Research &amp; Technology group HFM-266
       on ''3D body scanning and logistics''</p></li><li><p>Member of the editorial
@@ -61,23 +59,22 @@ pages:
       of the Legal Body for the International Ergonomics Association (IEA) 2006 conference
       in Maastricht</p></li><li><p>Member of the ISO group on (3D) anthropometry</p></li><li><p>Member
       of the International Scientific Advisory Board for the International Ergonomics
-      Association 2003 conference in Seoul and <a href="http://www.iea2006.org">(IEA)
-      2006</a> conference in Maastricht</p></li><li><p>Member of Cluster 4 work group
-      on Physical Protection of NATO Long Term Scientific Study on Chemical and Biological
-      Defence</p></li><li><p>President of the Dutch Ergonomics Association (1999 -
-      2002)</p></li><li><p>Member of the scientific steering committee for the conference
-      <a href="http://www.drowning.nl">Drowning 2002</a></p></li><li><p>Member of
+      Association 2003 conference in Seoul and (IEA) 2006 conference in Maastricht</p></li><li><p>Member
+      of Cluster 4 work group on Physical Protection of NATO Long Term Scientific
+      Study on Chemical and Biological Defence</p></li><li><p>President of the Dutch
+      Ergonomics Association (1999 - 2002)</p></li><li><p>Member of the scientific
+      steering committee for the conference Drowning 2002</p></li><li><p>Member of
       Work Group 20 of AGARD AMP on 3D anthropometry (1995-1998)</p></li><li><p>Co-founder
       and Member of the Dutch Association of Exercise Physiology (now: Dutch Association
-      of Human Movement Science)</p></li></ul><p><strong>Achievements:</strong></p><ul><li><p>Project
-      manager of anthropometric surveys for the Royal Netherlands Air force and Navy,
-      and how to use these data for cockpit design and evaluation</p></li><li><p>Author
-      of a biomechanical computer model to calculate the load on human joints</p></li><li><p>Author
-      of a book on hypnosis and editor in chief of a book on working conditions</p></li><li><p>Author
-      of European patent 08154613.7 ''Method and system for alerting the occurrence
-      of wetness''</p></li><li><p>Project manager of NedScan, a Dutch anthropometric
-      survey, part of the CAESAR project</p></li><li><p>Scientific leader of EU project
-      "Prospie", about intelligent clothing for working in the heat</p></li></ul><p><strong>Awards:</strong></p><ul><li><p><a
+      of Human Movement Science)</p></li></ul><p><strong>Achievements:</strong></p><ul><li><p>Scientific
+      leader of EU project "Prospie", about intelligent clothing for working in the
+      heat.</p></li><li><p>Project manager of anthropometric surveys for the Royal
+      Netherlands Air force and Navy, and how to use these data for cockpit design
+      and evaluation</p></li><li><p>Author of a biomechanical computer model to calculate
+      the load on human joints</p></li><li><p>Author of European patent 08154613.7
+      ''Method and system for alerting the occurrence of wetness''</p></li><li><p>Project
+      manager of NedScan, a Dutch anthropometric survey, part of the CAESAR project</p></li><li><p>Author
+      of a book on hypnosis and editor in chief of a book on working conditions</p></li></ul><p><strong>Awards:</strong></p><ul><li><p><a
       href="/images/panel-excellence-award-certificate_daanen.pdf" title="NATO Award">NATO
       HFM Panel Excellence Award. 2021.</a></p></li><li><p>Daanen, H.A.M., Hatcher,
       K., Havenith, G. Determination of clothing microclimate volume. Environmental
