@@ -19,12 +19,12 @@ pages:
       href="http://www.fbw.vu.nl">M.Sc. Human Movement Science, VU University</a>
       Amsterdam, 1978 - 1984</p></li><li><p><a href="http://www.carolus.nl">Carolus
       Borromeus College High School</a> Helmond, 1970 - 1978</p></li><li><p>Johannes
-      Primary school Mierlo, 1964 - 1970</p></li></ul><p><strong>Management training:</strong></p><ul><li><p>Senior
-      teaching qualification, 2020</p></li><li><p>Short courses: Project Management
-      Techniques; Result Oriented Coaching; Project Development; Sales Management;
-      Employee Assessment</p></li><li><p>Senior Management Development, Bonfire and
-      TNO management, 2006 and 2007</p></li><li><p>Giving and receiving feedback,
-      <a href="http://www.hfmpsy.nl">Hofkes Frolke Meekel Organisation Psychologists</a>,
+      Primary school Mierlo, 1964 - 1970</p></li></ul><p><strong>Management training:</strong></p><ul><li><p><a
+      href="/images/stq.pdf" title="STQ">Senior teaching qualification, 2020</a></p></li><li><p>Short
+      courses: Project Management Techniques; Result Oriented Coaching; Project Development;
+      Sales Management; Employee Assessment</p></li><li><p>Senior Management Development,
+      Bonfire and TNO management, 2006 and 2007</p></li><li><p>Giving and receiving
+      feedback, <a href="http://www.hfmpsy.nl">Hofkes Frolke Meekel Organisation Psychologists</a>,
       Oktober, 2006</p></li><li><p>Project management, IPMA, june, 2006</p></li><li><p>Competence-based
       selection of personnel, <a href="http://www.hfmpsy.nl">Hofkes Frolke Meekel
       Organisation Psychologists</a>, February 16-17, 2006</p></li><li><p>Management
@@ -54,7 +54,7 @@ pages:
       Ergonomics</p></li><li><p>Lead auditor of Textile research group of Saxion University
       (dec 2016)</p></li><li><p>Chair of NATO Research &amp; Technology group HFM-266
       on ''3D body scanning and logistics''</p></li><li><p>Member of the editorial
-      board of ''European Journal of Applied Physiology'' </p></li><li><p>Member of
+      board of ''European Journal of Applied Physiology''</p></li><li><p>Member of
       the board of the <a href="http://www.environmental-ergonomics.org">International
       Conference on Environmental Ergonomics</a></p></li><li><p>Member of the board
       of the <a href="http://ovrt.nist.gov/projects/wear/">WEAR</a> legal body (2003-2013)</p></li><li><p>President
@@ -77,14 +77,13 @@ pages:
       of European patent 08154613.7 ''Method and system for alerting the occurrence
       of wetness''</p></li><li><p>Project manager of NedScan, a Dutch anthropometric
       survey, part of the CAESAR project</p></li><li><p>Scientific leader of EU project
-      "Prospie", about intelligent clothing for working in the heat</p></li></ul><p><strong>Awards:</strong></p><ul><li><p>Reducing
-      train costs, best computer program of the month, NOS (National Radio and Television)Hobbyscoop,
-      May 1985</p></li><li><p>Daanen, H.A.M., Hatcher, K., Havenith, G. Determination
-      of clothing microclimate volume. Environmental Ergonomics X, Fukuoka, Japan.
-      23-27 September, 2002. Best poster award.</p></li><li><p>Es, E. van, Graaf,
-      J. de, Daanen, H.A.M. Effect of redistribution of body heat on cycling efficiency
-      and thermal balance. Poster, Human Movement Symposium, Groningen, The Netherlands.
-      Award for best post</p></li></ul>'
+      "Prospie", about intelligent clothing for working in the heat</p></li></ul><p><strong>Awards:</strong></p><ul><li><p><a
+      href="/images/panel-excellence-award-certificate_daanen.pdf" title="NATO Award">NATO
+      HFM Panel Excellence Award. 2021.</a></p></li><li><p>Daanen, H.A.M., Hatcher,
+      K., Havenith, G. Determination of clothing microclimate volume. Environmental
+      Ergonomics X, Fukuoka, Japan. 23-27 September, 2002. Best poster award.</p></li><li><p>Reducing
+      train costs, best computer program of the month, NOS (National Radio and Television).
+      Hobbyscoop, May 1985.</p></li></ul>'
     file: ''
     link: cv
   - template: events-overview
